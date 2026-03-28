@@ -10,9 +10,7 @@ class User(models.Model):
     # Rendu optionnel
     bio = models.TextField(null=True, blank=True)
     # Rendu optionnel
-
-
-
+    profile_picture = models.CharField(max_length=255, null=True, blank=True)
 
 class Post(models.Model):
     author = models.ForeignKey(
@@ -50,3 +48,37 @@ class Like(models.Model):
         null=True,
         blank=True
     )
+
+class Product(models.Model):
+    # Rendu optionnel
+    name = models.CharField(max_length=100, null=True, blank=True)
+    # Rendu optionnel
+    description = models.TextField(null=True, blank=True)
+    # Rendu optionnel
+    price = models.DecimalField(max_digits=10, decimal_places=2, null=True, blank=True)
+    
+class Order(models.Model):
+    # Rendu optionnel
+    user = models.ForeignKey(User, on_delete=models.CASCADE, null=True, blank=True)
+    # Rendu optionnel
+    product = models.ForeignKey(Product, on_delete=models.CASCADE, null=True, blank=True)
+    # Rendu optionnel
+    total_quantity = models.IntegerField(null=True, blank=True)
+    # Rendu optionnel
+    total_price = models.DecimalField(max_digits=10, decimal_places=2, null=True, blank=True)
+
+class OrderItem(models.Model):
+    # Rendu optionnel
+    order = models.ForeignKey(
+        Order,
+        on_delete=models.CASCADE,
+        related_name="items",
+        null=True,
+        blank=True
+    )
+    # Rendu optionnel
+    product_name = models.CharField(max_length=100, null=True, blank=True)
+    # Rendu optionnel
+    quantity = models.IntegerField(null=True, blank=True)
+    # Rendu optionnel
+    price = models.DecimalField(max_digits=10, decimal_places=2, null=True, blank=True)
