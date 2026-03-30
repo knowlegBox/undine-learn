@@ -6,7 +6,8 @@ from agraphql.user.type import UserType
 
 
 class Queries(RootType):
-    users = Entrypoint(Connection(UserType))
+    users = Entrypoint(Connection(UserType))# Pagination par curseur
+    user_liste = Entrypoint(UserType, many=True) # Pagination simple (liste)
 
 class Mutation(RootType):
     add_user = Entrypoint(UserMutation)

@@ -1,3 +1,4 @@
+
 Absolument ! Voici un cours structuré sur l'utilisation d'Undine pour créer des schémas GraphQL, basé sur la documentation officielle. Nous allons partir des bases pour aller vers les concepts avancés.
 
 ---

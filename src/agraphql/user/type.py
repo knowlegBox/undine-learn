@@ -6,7 +6,9 @@ class UserFilter(FilterSet[models.User]):
         exclude = ["password","bio","profile_picture"]
 
 class UserOrder(OrderSet[models.User]):
-    pass
+    class Meta:
+        fields = ["username","first_name","last_name","email","created_at", "updated_at"]
+
 
 class UserType(QueryType[models.User],filterset=UserFilter,orderset= UserOrder, auto=True):
     pass
