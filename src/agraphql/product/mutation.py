@@ -1,6 +1,5 @@
-import decimal
 
-from _decimal import Decimal
+from agraphql.product.types import ProductType
 
 from api import models
 from api.models import Product
@@ -67,7 +66,6 @@ class CreateProduct(undine.MutationType[Product], auto=False):
 
     @classmethod
     def __output_type__(cls)->GraphQLObjectType:
-        from agraphql.product.types import ProductType
 
         # On récupère le GraphQLObjectType généré par ProductType (classe QueryType d'undine)
         product_gql_type = ProductType.__output_type__()
@@ -101,9 +99,17 @@ class UpdateProduct(undine.MutationType[Product], auto=False):
         if category:
             category.update(**category)
         try:
-            product = models.Product.objects.get(id=input_data["id"])
-            product.update(**input_data)
-            print("product: ",product)
+            # print("input_data: ",input_data)
+            product = models.Product.objects.get(id=input_data["pk"])
+            for field, value in input_data.items():
+                if field != "pk":
+                    setattr(product, field, value)
+            product.save()
+            return {
+                "success": True,
+                "message": "Product updated successfully",
+                "instance": product
+            }
         except Exception as e:
             return {
                 "success": False,
@@ -111,6 +117,16 @@ class UpdateProduct(undine.MutationType[Product], auto=False):
                 "instance": None,
             }
     #
-    # @classmethod
-    # def __output_type__(cls)->GraphQLObjectType:
-    #     from agraphql.product.types import ProductType
+    @classmethod
+    def __output_type__(cls)->GraphQLObjectType:
+
+        graphql_type = ProductType.__output_type__()
+        fields = {
+            "success" : GraphQLField(GraphQLNonNull(GraphQLBoolean)),
+            "message" : GraphQLField(GraphQLNonNull(GraphQLString)),
+            "instance" : GraphQLField(graphql_type),
+        }
+        return get_or_create_graphql_object_type(
+            name="ProductPayload",
+            fields=fields,
+        )
