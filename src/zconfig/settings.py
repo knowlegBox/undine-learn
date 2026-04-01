@@ -76,7 +76,7 @@ UNDINE = {
     "ALLOW_INTROSPECTION_QUERIES": True,
     "SCHEMA": "agraphql.schema.schema",  # chemin Python vers la variable schema
 }
-
+# app_pwd="btbg cdvx nwyz lbdj"
 # Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
 
