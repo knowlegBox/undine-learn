@@ -1,5 +1,5 @@
 
-from agraphql.product.types import ProductType
+from .types import ProductType
 
 from api import models
 from api.models import Product
@@ -44,11 +44,17 @@ class CreateProduct(undine.MutationType[Product], auto=False):
             instance.category,created = models.Category.objects.get_or_create(name=category["name"], description=category["description"])
             input_data["category"] = instance.category
         try:
-                create_product = models.Product.objects.create(**input_data)
+                create_product, created = models.Product.objects.get_or_create(**input_data)
                 
                 # instance.category =instance.category
                 # instance.save()
                 # print("create_product: ",create_product)
+                if not created:
+                    return {
+                        "success": False,
+                        "message": "Product already exists",
+                        "instance": None,
+                    }
                 return {
                     "success": True,
                     "message": "Product created successfully",

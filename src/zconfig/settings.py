@@ -71,7 +71,8 @@ TEMPLATES = [
 WSGI_APPLICATION = 'zconfig.wsgi.application'
 UNDINE = {
     "GRAPHIQL_ENABLED": True,
-    'AUTOGENERATION': True,
+    # 'AUTOGENERATION': True,
+    "GRAPHQL_PATH": "api/",
     "ALLOW_INTROSPECTION_QUERIES": True,
     "SCHEMA": "agraphql.schema.schema",  # chemin Python vers la variable schema
 }
