@@ -37,7 +37,10 @@ class CreateProduct(undine.MutationType[Product], auto=False):
         pass
 
     @classmethod
-    def __mutate__(cls, instance: Product, info: undine.GQLInfo, input_data: dict[str, Any]) -> dict[str, Any]:
+    def __mutate__(cls, instance: Product,
+                    info: undine.GQLInfo, 
+                    input_data: dict[str, Any]
+                    ) -> dict[str, Any]:
         # print("input_data:",input_data)
         category = input_data.pop("category") if "category" in input_data else None
         if category:
