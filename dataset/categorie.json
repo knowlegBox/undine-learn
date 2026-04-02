@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung - Serie 1",
+        "description": "Description for Samsung category 1"
+    },
+    {
+        "id": 2,
+        "name": "Sony - Serie 2",
+        "description": "Description for Sony category 2"
+    },
+    {
+        "id": 3,
+        "name": "Nokia - Serie 3",
+        "description": "Description for Nokia category 3"
+    },
+    {
+        "id": 4,
+        "name": "Motorola - Serie 4",
+        "description": "Description for Motorola category 4"
+    },
+    {
+        "id": 5,
+        "name": "LG - Serie 5",
+        "description": "Description for LG category 5"
+    },
+    {
+        "id": 6,
+        "name": "Huawei - Serie 6",
+        "description": "Description for Huawei category 6"
+    },
+    {
+        "id": 7,
+        "name": "Apple - Serie 7",
+        "description": "Description for Apple category 7"
+    },
+    {
+        "id": 8,
+        "name": "Xiaomi - Serie 8",
+        "description": "Description for Xiaomi category 8"
+    },
+    {
+        "id": 9,
+        "name": "Oppo - Serie 9",
+        "description": "Description for Oppo category 9"
+    },
+    {
+        "id": 10,
+        "name": "Vivo - Serie 10",
+        "description": "Description for Vivo category 10"
+    },
+    {
+        "id": 11,
+        "name": "Realme - Serie 11",
+        "description": "Description for Realme category 11"
+    },
+    {
+        "id": 12,
+        "name": "Asus - Serie 12",
+        "description": "Description for Asus category 12"
+    },
+    {
+        "id": 13,
+        "name": "Lenovo - Serie 13",
+        "description": "Description for Lenovo category 13"
+    },
+    {
+        "id": 14,
+        "name": "HP - Serie 14",
+        "description": "Description for HP category 14"
+    },
+    {
+        "id": 15,
+        "name": "Dell - Serie 15",
+        "description": "Description for Dell category 15"
+    },
+    {
+        "id": 16,
+        "name": "Acer - Serie 16",
+        "description": "Description for Acer category 16"
+    },
+    {
+        "id": 17,
+        "name": "Microsoft - Serie 17",
+        "description": "Description for Microsoft category 17"
+    },
+    {
+        "id": 18,
+        "name": "Google - Serie 18",
+        "description": "Description for Google category 18"
+    },
+    {
+        "id": 19,
+        "name": "Amazon - Serie 19",
+        "description": "Description for Amazon category 19"
+    },
+    {
+        "id": 20,
+        "name": "Panasonic - Serie 20",
+        "description": "Description for Panasonic category 20"
+    },
+    {
+        "id": 21,
+        "name": "Philips - Serie 21",
+        "description": "Description for Philips category 21"
+    },
+    {
+        "id": 22,
+        "name": "Sharp - Serie 22",
+        "description": "Description for Sharp category 22"
+    },
+    {
+        "id": 23,
+        "name": "Toshiba - Serie 23",
+        "description": "Description for Toshiba category 23"
+    },
+    {
+        "id": 24,
+        "name": "Sagem - Serie 24",
+        "description": "Description for Sagem category 24"
+    },
+    {
+        "id": 25,
+        "name": "Siemens - Serie 25",
+        "description": "Description for Siemens category 25"
+    },
+    {
+        "id": 26,
+        "name": "BlackBerry - Serie 26",
+        "description": "Description for BlackBerry category 26"
+    },
+    {
+        "id": 27,
+        "name": "HTC - Serie 27",
+        "description": "Description for HTC category 27"
+    },
+    {
+        "id": 28,
+        "name": "Alcatel - Serie 28",
+        "description": "Description for Alcatel category 28"
+    },
+    {
+        "id": 29,
+        "name": "ZTE - Serie 29",
+        "description": "Description for ZTE category 29"
+    },
+    {
+        "id": 30,
+        "name": "Micromax - Serie 30",
+        "description": "Description for Micromax category 30"
+    },
+    {
+        "id": 31,
+        "name": "Karbonn - Serie 31",
+        "description": "Description for Karbonn category 31"
+    },
+    {
+        "id": 32,
+        "name": "Lava - Serie 32",
+        "description": "Description for Lava category 32"
+    },
+    {
+        "id": 33,
+        "name": "Spice - Serie 33",
+        "description": "Description for Spice category 33"
+    },
+    {
+        "id": 34,
+        "name": "Allview - Serie 34",
+        "description": "Description for Allview category 34"
+    },
+    {
+        "id": 35,
+        "name": "Wiko - Serie 35",
+        "description": "Description for Wiko category 35"
+    },
+    {
+        "id": 36,
+        "name": "Intex - Serie 36",
+        "description": "Description for Intex category 36"
+    },
+    {
+        "id": 37,
+        "name": "Celkon - Serie 37",
+        "description": "Description for Celkon category 37"
+    },
+    {
+        "id": 38,
+        "name": "XOLO - Serie 38",
+        "description": "Description for XOLO category 38"
+    },
+    {
+        "id": 39,
+        "name": "Gigabyte - Serie 39",
+        "description": "Description for Gigabyte category 39"
+    },
+    {
+        "id": 40,
+        "name": "Mitsubishi - Serie 40",
+        "description": "Description for Mitsubishi category 40"
+    },
+    {
+        "id": 41,
+        "name": "Haier - Serie 41",
+        "description": "Description for Haier category 41"
+    },
+    {
+        "id": 42,
+        "name": "BenQ - Serie 42",
+        "description": "Description for BenQ category 42"
+    },
+    {
+        "id": 43,
+        "name": "T-Mobile - Serie 43",
+        "description": "Description for T-Mobile category 43"
+    },
+    {
+        "id": 44,
+        "name": "Vodafone - Serie 44",
+        "description": "Description for Vodafone category 44"
+    },
+    {
+        "id": 45,
+        "name": "Orange - Serie 45",
+        "description": "Description for Orange category 45"
+    },
+    {
+        "id": 46,
+        "name": "Samsung - Serie 46",
+        "description": "Description for Samsung category 46"
+    },
+    {
+        "id": 47,
+        "name": "Sony - Serie 47",
+        "description": "Description for Sony category 47"
+    },
+    {
+        "id": 48,
+        "name": "Nokia - Serie 48",
+        "description": "Description for Nokia category 48"
+    },
+    {
+        "id": 49,
+        "name": "Motorola - Serie 49",
+        "description": "Description for Motorola category 49"
+    },
+    {
+        "id": 50,
+        "name": "LG - Serie 50",
+        "description": "Description for LG category 50"
+    },
+    {
+        "id": 51,
+        "name": "Huawei - Serie 51",
+        "description": "Description for Huawei category 51"
+    },
+    {
+        "id": 52,
+        "name": "Apple - Serie 52",
+        "description": "Description for Apple category 52"
+    },
+    {
+        "id": 53,
+        "name": "Xiaomi - Serie 53",
+        "description": "Description for Xiaomi category 53"
+    },
+    {
+        "id": 54,
+        "name": "Oppo - Serie 54",
+        "description": "Description for Oppo category 54"
+    },
+    {
+        "id": 55,
+        "name": "Vivo - Serie 55",
+        "description": "Description for Vivo category 55"
+    },
+    {
+        "id": 56,
+        "name": "Realme - Serie 56",
+        "description": "Description for Realme category 56"
+    },
+    {
+        "id": 57,
+        "name": "Asus - Serie 57",
+        "description": "Description for Asus category 57"
+    },
+    {
+        "id": 58,
+        "name": "Lenovo - Serie 58",
+        "description": "Description for Lenovo category 58"
+    },
+    {
+        "id": 59,
+        "name": "HP - Serie 59",
+        "description": "Description for HP category 59"
+    },
+    {
+        "id": 60,
+        "name": "Dell - Serie 60",
+        "description": "Description for Dell category 60"
+    },
+    {
+        "id": 61,
+        "name": "Acer - Serie 61",
+        "description": "Description for Acer category 61"
+    },
+    {
+        "id": 62,
+        "name": "Microsoft - Serie 62",
+        "description": "Description for Microsoft category 62"
+    },
+    {
+        "id": 63,
+        "name": "Google - Serie 63",
+        "description": "Description for Google category 63"
+    },
+    {
+        "id": 64,
+        "name": "Amazon - Serie 64",
+        "description": "Description for Amazon category 64"
+    },
+    {
+        "id": 65,
+        "name": "Panasonic - Serie 65",
+        "description": "Description for Panasonic category 65"
+    },
+    {
+        "id": 66,
+        "name": "Philips - Serie 66",
+        "description": "Description for Philips category 66"
+    },
+    {
+        "id": 67,
+        "name": "Sharp - Serie 67",
+        "description": "Description for Sharp category 67"
+    },
+    {
+        "id": 68,
+        "name": "Toshiba - Serie 68",
+        "description": "Description for Toshiba category 68"
+    },
+    {
+        "id": 69,
+        "name": "Sagem - Serie 69",
+        "description": "Description for Sagem category 69"
+    },
+    {
+        "id": 70,
+        "name": "Siemens - Serie 70",
+        "description": "Description for Siemens category 70"
+    },
+    {
+        "id": 71,
+        "name": "BlackBerry - Serie 71",
+        "description": "Description for BlackBerry category 71"
+    },
+    {
+        "id": 72,
+        "name": "HTC - Serie 72",
+        "description": "Description for HTC category 72"
+    },
+    {
+        "id": 73,
+        "name": "Alcatel - Serie 73",
+        "description": "Description for Alcatel category 73"
+    },
+    {
+        "id": 74,
+        "name": "ZTE - Serie 74",
+        "description": "Description for ZTE category 74"
+    },
+    {
+        "id": 75,
+        "name": "Micromax - Serie 75",
+        "description": "Description for Micromax category 75"
+    },
+    {
+        "id": 76,
+        "name": "Karbonn - Serie 76",
+        "description": "Description for Karbonn category 76"
+    },
+    {
+        "id": 77,
+        "name": "Lava - Serie 77",
+        "description": "Description for Lava category 77"
+    },
+    {
+        "id": 78,
+        "name": "Spice - Serie 78",
+        "description": "Description for Spice category 78"
+    },
+    {
+        "id": 79,
+        "name": "Allview - Serie 79",
+        "description": "Description for Allview category 79"
+    },
+    {
+        "id": 80,
+        "name": "Wiko - Serie 80",
+        "description": "Description for Wiko category 80"
+    },
+    {
+        "id": 81,
+        "name": "Intex - Serie 81",
+        "description": "Description for Intex category 81"
+    },
+    {
+        "id": 82,
+        "name": "Celkon - Serie 82",
+        "description": "Description for Celkon category 82"
+    },
+    {
+        "id": 83,
+        "name": "XOLO - Serie 83",
+        "description": "Description for XOLO category 83"
+    },
+    {
+        "id": 84,
+        "name": "Gigabyte - Serie 84",
+        "description": "Description for Gigabyte category 84"
+    },
+    {
+        "id": 85,
+        "name": "Mitsubishi - Serie 85",
+        "description": "Description for Mitsubishi category 85"
+    },
+    {
+        "id": 86,
+        "name": "Haier - Serie 86",
+        "description": "Description for Haier category 86"
+    },
+    {
+        "id": 87,
+        "name": "BenQ - Serie 87",
+        "description": "Description for BenQ category 87"
+    },
+    {
+        "id": 88,
+        "name": "T-Mobile - Serie 88",
+        "description": "Description for T-Mobile category 88"
+    },
+    {
+        "id": 89,
+        "name": "Vodafone - Serie 89",
+        "description": "Description for Vodafone category 89"
+    },
+    {
+        "id": 90,
+        "name": "Orange - Serie 90",
+        "description": "Description for Orange category 90"
+    },
+    {
+        "id": 91,
+        "name": "Samsung - Serie 91",
+        "description": "Description for Samsung category 91"
+    },
+    {
+        "id": 92,
+        "name": "Sony - Serie 92",
+        "description": "Description for Sony category 92"
+    },
+    {
+        "id": 93,
+        "name": "Nokia - Serie 93",
+        "description": "Description for Nokia category 93"
+    },
+    {
+        "id": 94,
+        "name": "Motorola - Serie 94",
+        "description": "Description for Motorola category 94"
+    },
+    {
+        "id": 95,
+        "name": "LG - Serie 95",
+        "description": "Description for LG category 95"
+    },
+    {
+        "id": 96,
+        "name": "Huawei - Serie 96",
+        "description": "Description for Huawei category 96"
+    },
+    {
+        "id": 97,
+        "name": "Apple - Serie 97",
+        "description": "Description for Apple category 97"
+    },
+    {
+        "id": 98,
+        "name": "Xiaomi - Serie 98",
+        "description": "Description for Xiaomi category 98"
+    },
+    {
+        "id": 99,
+        "name": "Oppo - Serie 99",
+        "description": "Description for Oppo category 99"
+    },
+    {
+        "id": 100,
+        "name": "Vivo - Serie 100",
+        "description": "Description for Vivo category 100"
+    }
+]

@@ -1,0 +1,7002 @@
+[
+    {
+        "id": 1,
+        "name": "QMobile",
+        "categorie": 1,
+        "price": 12.99,
+        "description": "Natural air purifiers to absorb odors and moisture."
+    },
+    {
+        "id": 2,
+        "name": "Nokia",
+        "categorie": 2,
+        "price": 3.99,
+        "description": "Sweet and nutty filling for delicious homemade pecan pie."
+    },
+    {
+        "id": 3,
+        "name": "Nokia",
+        "categorie": 3,
+        "price": 29.99,
+        "description": "Set of resistance bands for home workouts."
+    },
+    {
+        "id": 4,
+        "name": "T-Mobile",
+        "categorie": 4,
+        "price": 39.99,
+        "description": "Comfortable and breathable backpack for carrying small pets."
+    },
+    {
+        "id": 5,
+        "name": "Samsung",
+        "categorie": 5,
+        "price": 3.49,
+        "description": "Fresh Brussels sprouts, great for roasting or steaming."
+    },
+    {
+        "id": 6,
+        "name": "BLU",
+        "categorie": 6,
+        "price": 59.99,
+        "description": "Cozy wool sweater to keep you warm on chilly days."
+    },
+    {
+        "id": 7,
+        "name": "Haier",
+        "categorie": 7,
+        "price": 99.99,
+        "description": "High-performance mechanical keyboard with customizable RGB."
+    },
+    {
+        "id": 8,
+        "name": "vivo",
+        "categorie": 8,
+        "price": 3.99,
+        "description": "Delicious pretzel bites with a sweet honey mustard flavor, perfect for dipping."
+    },
+    {
+        "id": 9,
+        "name": "i-mate",
+        "categorie": 9,
+        "price": 5.49,
+        "description": "Savory hash made with sweet potatoes and kale, a perfect side dish."
+    },
+    {
+        "id": 10,
+        "name": "Samsung",
+        "categorie": 10,
+        "price": 39.99,
+        "description": "Water bottle that tracks your hydration levels."
+    },
+    {
+        "id": 11,
+        "name": "Gigabyte",
+        "categorie": 11,
+        "price": 2.99,
+        "description": "Fresh pre-cut carrot and celery sticks for easy snacking."
+    },
+    {
+        "id": 12,
+        "name": "Energizer",
+        "categorie": 12,
+        "price": 129.99,
+        "description": "Easy-to-set up tent designed for campers and hikers."
+    },
+    {
+        "id": 13,
+        "name": "HTC",
+        "categorie": 13,
+        "price": 19.99,
+        "description": "Set of three aromatic candles with various scents."
+    },
+    {
+        "id": 14,
+        "name": "Maxwest",
+        "categorie": 14,
+        "price": 34.99,
+        "description": "Adjustable LED desk light with brightness settings."
+    },
+    {
+        "id": 15,
+        "name": "Wiko",
+        "categorie": 15,
+        "price": 3.49,
+        "description": "Fresh and zesty salsa, perfect for nachos."
+    },
+    {
+        "id": 16,
+        "name": "Samsung",
+        "categorie": 16,
+        "price": 11.99,
+        "description": "High-precision oven thermometer for accurate cooking."
+    },
+    {
+        "id": 17,
+        "name": "Nokia",
+        "categorie": 17,
+        "price": 5.99,
+        "description": "Fluffy and delicious pancake mix, perfect for a gluten-free breakfast."
+    },
+    {
+        "id": 18,
+        "name": "Huawei",
+        "categorie": 18,
+        "price": 5.99,
+        "description": "Chilled noodles dressed in sesame sauce, ready to eat."
+    },
+    {
+        "id": 19,
+        "name": "alcatel",
+        "categorie": 19,
+        "price": 3.19,
+        "description": "Crunchy peanuts coated in honey, perfect for snacking."
+    },
+    {
+        "id": 20,
+        "name": "Samsung",
+        "categorie": 20,
+        "price": 249.99,
+        "description": "High-resolution camera for stunning photos."
+    },
+    {
+        "id": 21,
+        "name": "Samsung",
+        "categorie": 21,
+        "price": 2.59,
+        "description": "A delicious sauce perfect for stir-frying or glazing meats."
+    },
+    {
+        "id": 22,
+        "name": "Nokia",
+        "categorie": 22,
+        "price": 79.99,
+        "description": "Cordless handheld vacuum for quick cleanups."
+    },
+    {
+        "id": 23,
+        "name": "Celkon",
+        "categorie": 23,
+        "price": 349.99,
+        "description": "Lightweight and portable paddle board for water sports."
+    },
+    {
+        "id": 24,
+        "name": "Celkon",
+        "categorie": 24,
+        "price": 3.49,
+        "description": "Classic ketchup made from organic tomatoes, no added sugar."
+    },
+    {
+        "id": 25,
+        "name": "Nokia",
+        "categorie": 25,
+        "price": 2.19,
+        "description": "Unsweetened apple sauce, great for snacks or baking."
+    },
+    {
+        "id": 26,
+        "name": "ZTE",
+        "categorie": 26,
+        "price": 6.99,
+        "description": "Frozen stir-fry mix with chicken, veggies, and teriyaki sauce."
+    },
+    {
+        "id": 27,
+        "name": "Samsung",
+        "categorie": 27,
+        "price": 199.99,
+        "description": "Sturdy mobile workbench with storage options."
+    },
+    {
+        "id": 28,
+        "name": "Cat",
+        "categorie": 28,
+        "price": 59.99,
+        "description": "Comfortable over-ear headphones with deep bass."
+    },
+    {
+        "id": 29,
+        "name": "Casio",
+        "categorie": 29,
+        "price": 1.79,
+        "description": "Essential ingredient for baking fluffy cakes and pastries."
+    },
+    {
+        "id": 30,
+        "name": "Samsung",
+        "categorie": 30,
+        "price": 39.99,
+        "description": "Blender for smoothies with a portable cup."
+    },
+    {
+        "id": 31,
+        "name": "Micromax",
+        "categorie": 31,
+        "price": 2.99,
+        "description": "Delicious clusters of peanuts and chocolate for a sweet treat."
+    },
+    {
+        "id": 32,
+        "name": "Wiko",
+        "categorie": 32,
+        "price": 99.99,
+        "description": "A warm and stylish puffer coat perfect for winter weather."
+    },
+    {
+        "id": 33,
+        "name": "Asus",
+        "categorie": 33,
+        "price": 1.69,
+        "description": "Canned beans with chili sauce, perfect for chili dishes."
+    },
+    {
+        "id": 34,
+        "name": "verykool",
+        "categorie": 34,
+        "price": 29.99,
+        "description": "Stylish desk set to keep your workspace tidy and organized."
+    },
+    {
+        "id": 35,
+        "name": "Celkon",
+        "categorie": 35,
+        "price": 59.99,
+        "description": "True wireless earbuds with excellent sound quality."
+    },
+    {
+        "id": 36,
+        "name": "ZTE",
+        "categorie": 36,
+        "price": 24.99,
+        "description": "Compact fan for personal cooling at work or home."
+    },
+    {
+        "id": 37,
+        "name": "Philips",
+        "categorie": 37,
+        "price": 59.99,
+        "description": "Cordless electric screwdriver for home projects."
+    },
+    {
+        "id": 38,
+        "name": "LG",
+        "categorie": 38,
+        "price": 4.99,
+        "description": "A delicious creamy dip featuring spinach and artichokes, perfect for parties."
+    },
+    {
+        "id": 39,
+        "name": "Xiaomi",
+        "categorie": 39,
+        "price": 19.99,
+        "description": "Set of unique wooden coasters for drinks and decor."
+    },
+    {
+        "id": 40,
+        "name": "Samsung",
+        "categorie": 40,
+        "price": 5.49,
+        "description": "Oven-roasted sliced turkey, perfect for sandwiches."
+    },
+    {
+        "id": 41,
+        "name": "Haier",
+        "categorie": 41,
+        "price": 3.49,
+        "description": "Fresh mango salsa with a hint of lime for a zesty topping."
+    },
+    {
+        "id": 42,
+        "name": "Vodafone",
+        "categorie": 42,
+        "price": 1.29,
+        "description": "Concentrated tomato paste, great for sauces."
+    },
+    {
+        "id": 43,
+        "name": "Samsung",
+        "categorie": 43,
+        "price": 79.99,
+        "description": "Chic suede ankle booties, perfect for dressing up or down."
+    },
+    {
+        "id": 44,
+        "name": "BLU",
+        "categorie": 44,
+        "price": 22.99,
+        "description": "3D model puzzle kit for creative builders."
+    },
+    {
+        "id": 45,
+        "name": "Gigabyte",
+        "categorie": 45,
+        "price": 69.99,
+        "description": "Easy-to-set-up picnic table for outdoor dining."
+    },
+    {
+        "id": 46,
+        "name": "Gionee",
+        "categorie": 46,
+        "price": 2.99,
+        "description": "A blend of spices that brings the taste of fall to your baked goods."
+    },
+    {
+        "id": 47,
+        "name": "BLU",
+        "categorie": 47,
+        "price": 24.99,
+        "description": "Personalize your calendar with photos and special dates."
+    },
+    {
+        "id": 48,
+        "name": "Samsung",
+        "categorie": 48,
+        "price": 34.99,
+        "description": "Plant-based protein powder for post-workout recovery."
+    },
+    {
+        "id": 49,
+        "name": "Micromax",
+        "categorie": 49,
+        "price": 79.99,
+        "description": "Multi-level cat tree for play and scratching."
+    },
+    {
+        "id": 50,
+        "name": "Samsung",
+        "categorie": 50,
+        "price": 5.49,
+        "description": "Pure and natural honey, great for sweetening."
+    },
+    {
+        "id": 51,
+        "name": "Sharp",
+        "categorie": 51,
+        "price": 39.99,
+        "description": "Comfortable and breathable backpack for carrying small pets."
+    },
+    {
+        "id": 52,
+        "name": "ZTE",
+        "categorie": 52,
+        "price": 149.99,
+        "description": "Compact fire pit for campfires and gatherings."
+    },
+    {
+        "id": 53,
+        "name": "Nokia",
+        "categorie": 53,
+        "price": 8.99,
+        "description": "Marinated grilled chicken breasts seasoned with garlic and herbs."
+    },
+    {
+        "id": 54,
+        "name": "Plum",
+        "categorie": 54,
+        "price": 14.99,
+        "description": "Special attachment for vacuum cleaners to remove pet hair easily."
+    },
+    {
+        "id": 55,
+        "name": "vivo",
+        "categorie": 55,
+        "price": 34.99,
+        "description": "String lights for decorating holiday trees."
+    },
+    {
+        "id": 56,
+        "name": "Icemobile",
+        "categorie": 56,
+        "price": 29.99,
+        "description": "Fun decorations for Halloween to set a spooky atmosphere."
+    },
+    {
+        "id": 57,
+        "name": "BLU",
+        "categorie": 57,
+        "price": 2.49,
+        "description": "Light and crispy baked chips, a healthier snack option."
+    },
+    {
+        "id": 58,
+        "name": "Samsung",
+        "categorie": 58,
+        "price": 49.99,
+        "description": "Cozy cable knit cardigan to layer during chilly evenings."
+    },
+    {
+        "id": 59,
+        "name": "Lenovo",
+        "categorie": 59,
+        "price": 0.99,
+        "description": "Quick-cooking ramen for instant meals."
+    },
+    {
+        "id": 60,
+        "name": "Motorola",
+        "categorie": 60,
+        "price": 39.99,
+        "description": "Beautifully crafted jewelry box with compartments for storage."
+    },
+    {
+        "id": 61,
+        "name": "BenQ-Siemens",
+        "categorie": 61,
+        "price": 5.49,
+        "description": "Everything you need to create a hearty beef stroganoff."
+    },
+    {
+        "id": 62,
+        "name": "Samsung",
+        "categorie": 62,
+        "price": 14.99,
+        "description": "Effective brush for removing loose hair from pets."
+    },
+    {
+        "id": 63,
+        "name": "Samsung",
+        "categorie": 63,
+        "price": 45.99,
+        "description": "Bright, vibrant sign to add flair to any space."
+    },
+    {
+        "id": 64,
+        "name": "LG",
+        "categorie": 64,
+        "price": 29.99,
+        "description": "Lightweight water filter for outdoor adventures."
+    },
+    {
+        "id": 65,
+        "name": "Qtek",
+        "categorie": 65,
+        "price": 34.99,
+        "description": "Lightweight and breathable running shorts for your workouts."
+    },
+    {
+        "id": 66,
+        "name": "LG",
+        "categorie": 66,
+        "price": 2.99,
+        "description": "Convenient and low-carb alternative to traditional rice."
+    },
+    {
+        "id": 67,
+        "name": "Tecno",
+        "categorie": 67,
+        "price": 39.99,
+        "description": "Compact campfire for grilling and warmth during camping trips."
+    },
+    {
+        "id": 68,
+        "name": "alcatel",
+        "categorie": 68,
+        "price": 3.99,
+        "description": "Frozen smoothie blend with berries for a quick and healthy breakfast."
+    },
+    {
+        "id": 69,
+        "name": "Unnecto",
+        "categorie": 69,
+        "price": 34.99,
+        "description": "Lantern that repels mosquitoes while providing light."
+    },
+    {
+        "id": 70,
+        "name": "Acer",
+        "categorie": 70,
+        "price": 5.99,
+        "description": "Fragrant fried rice with authentic Thai basil and veggies."
+    },
+    {
+        "id": 71,
+        "name": "verykool",
+        "categorie": 71,
+        "price": 6.99,
+        "description": "Dairy-free ice cream made with coconut milk, creamy and delicious."
+    },
+    {
+        "id": 72,
+        "name": "LG",
+        "categorie": 72,
+        "price": 89.99,
+        "description": "Multi-function pressure cooker that can saut\u00e9, steam, and slow cook."
+    },
+    {
+        "id": 73,
+        "name": "Nokia",
+        "categorie": 73,
+        "price": 29.99,
+        "description": "Non-contact thermometer for quick and easy temperature readings."
+    },
+    {
+        "id": 74,
+        "name": "Haier",
+        "categorie": 74,
+        "price": 5.99,
+        "description": "Deliciously creamy spinach dip, perfect for parties."
+    },
+    {
+        "id": 75,
+        "name": "Samsung",
+        "categorie": 75,
+        "price": 3.49,
+        "description": "Creamy cheese with a spicy kick, perfect for sandwiches."
+    },
+    {
+        "id": 76,
+        "name": "Micromax",
+        "categorie": 76,
+        "price": 39.99,
+        "description": "Wireless microphone for singing and performances."
+    },
+    {
+        "id": 77,
+        "name": "Samsung",
+        "categorie": 77,
+        "price": 3.49,
+        "description": "Rich sauce for desserts and ice cream."
+    },
+    {
+        "id": 78,
+        "name": "Asus",
+        "categorie": 78,
+        "price": 4.29,
+        "description": "A sweet and tart jam, perfect on toast or in desserts."
+    },
+    {
+        "id": 79,
+        "name": "Tecno",
+        "categorie": 79,
+        "price": 49.99,
+        "description": "Compact electric pot for hot pot dining at home."
+    },
+    {
+        "id": 80,
+        "name": "Sony",
+        "categorie": 80,
+        "price": 59.99,
+        "description": "Essential survival gear kit for emergencies."
+    },
+    {
+        "id": 81,
+        "name": "verykool",
+        "categorie": 81,
+        "price": 99.99,
+        "description": "Connect and control smart devices from one app."
+    },
+    {
+        "id": 82,
+        "name": "Sony",
+        "categorie": 82,
+        "price": 7.49,
+        "description": "Marinated chicken grilled with lemon and herbs."
+    },
+    {
+        "id": 83,
+        "name": "HTC",
+        "categorie": 83,
+        "price": 49.99,
+        "description": "Stream HD video wirelessly from devices to TV."
+    },
+    {
+        "id": 84,
+        "name": "Motorola",
+        "categorie": 84,
+        "price": 15.99,
+        "description": "Adjustable weighted jump rope for workouts."
+    },
+    {
+        "id": 85,
+        "name": "HTC",
+        "categorie": 85,
+        "price": 14.99,
+        "description": "Space-saving broom holder for organized cleaning supplies."
+    },
+    {
+        "id": 86,
+        "name": "Prestigio",
+        "categorie": 86,
+        "price": 24.99,
+        "description": "A timeless baseball cap that adds a sporty touch to any outfit."
+    },
+    {
+        "id": 87,
+        "name": "Siemens",
+        "categorie": 87,
+        "price": 2.99,
+        "description": "High-quality whole wheat flour for baking and cooking."
+    },
+    {
+        "id": 88,
+        "name": "vivo",
+        "categorie": 88,
+        "price": 29.99,
+        "description": "A warm and sustainable wool scarf for chilly days."
+    },
+    {
+        "id": 89,
+        "name": "Xiaomi",
+        "categorie": 89,
+        "price": 199.99,
+        "description": "Compact projector for movies and presentations on the go."
+    },
+    {
+        "id": 90,
+        "name": "Philips",
+        "categorie": 90,
+        "price": 4.99,
+        "description": "A zero-calorie coconut oil spray for cooking and baking."
+    },
+    {
+        "id": 91,
+        "name": "BLU",
+        "categorie": 91,
+        "price": 18.99,
+        "description": "Storage organizer for art supplies and tools."
+    },
+    {
+        "id": 92,
+        "name": "BlackBerry",
+        "categorie": 92,
+        "price": 3.99,
+        "description": "Delicious dark chocolate with creamy nut butter inside."
+    },
+    {
+        "id": 93,
+        "name": "Huawei",
+        "categorie": 93,
+        "price": 199.99,
+        "description": "Stylish smartwatch with fitness tracking features."
+    },
+    {
+        "id": 94,
+        "name": "WND",
+        "categorie": 94,
+        "price": 24.99,
+        "description": "Rechargeable hand warmer for cold weather comfort."
+    },
+    {
+        "id": 95,
+        "name": "Kyocera",
+        "categorie": 95,
+        "price": 2.79,
+        "description": "A flavorful sauce for stir-frying vegetables and meats."
+    },
+    {
+        "id": 96,
+        "name": "Prestigio",
+        "categorie": 96,
+        "price": 7.99,
+        "description": "Hearty chili made with premium ground beef and kidney beans."
+    },
+    {
+        "id": 97,
+        "name": "ZTE",
+        "categorie": 97,
+        "price": 1.99,
+        "description": "Refreshing sparkling water with lemon and lime flavor"
+    },
+    {
+        "id": 98,
+        "name": "Samsung",
+        "categorie": 98,
+        "price": 29.99,
+        "description": "A comfortable henley shirt made of soft cotton, perfect for casual outings."
+    },
+    {
+        "id": 99,
+        "name": "alcatel",
+        "categorie": 99,
+        "price": 7.99,
+        "description": "Nutritious chia seeds great for smoothies"
+    },
+    {
+        "id": 100,
+        "name": "i-mobile",
+        "categorie": 100,
+        "price": 5.49,
+        "description": "Soft and tasty gluten-free sandwich bread."
+    },
+    {
+        "id": 101,
+        "name": "LG",
+        "categorie": 1,
+        "price": 2.49,
+        "description": "Tangy and crunchy dill pickles."
+    },
+    {
+        "id": 102,
+        "name": "Sewon",
+        "categorie": 2,
+        "price": 3.79,
+        "description": "Sweet and fruity peach preserves, perfect for spreading on toast."
+    },
+    {
+        "id": 103,
+        "name": "Honor",
+        "categorie": 3,
+        "price": 5.99,
+        "description": "Delicious vegetable dumplings, perfect for steaming or frying."
+    },
+    {
+        "id": 104,
+        "name": "Gionee",
+        "categorie": 4,
+        "price": 29.99,
+        "description": "Ergonomically designed neck pillow for comfortable travel."
+    },
+    {
+        "id": 105,
+        "name": "BLU",
+        "categorie": 5,
+        "price": 39.99,
+        "description": "Fun instruments to introduce kids to music."
+    },
+    {
+        "id": 106,
+        "name": "Samsung",
+        "categorie": 6,
+        "price": 12.99,
+        "description": "Moisturizing body wash with natural ingredients."
+    },
+    {
+        "id": 107,
+        "name": "verykool",
+        "categorie": 7,
+        "price": 5.99,
+        "description": "Delicious vegetable dumplings, perfect for steaming or frying."
+    },
+    {
+        "id": 108,
+        "name": "vivo",
+        "categorie": 8,
+        "price": 29.99,
+        "description": "Ergonomically designed neck pillow for comfortable travel."
+    },
+    {
+        "id": 109,
+        "name": "Samsung",
+        "categorie": 9,
+        "price": 24.99,
+        "description": "Ear protection for shooting and industrial use."
+    },
+    {
+        "id": 110,
+        "name": "Realme",
+        "categorie": 10,
+        "price": 2.29,
+        "description": "Delicious dark chocolate cups filled with creamy peanut butter."
+    },
+    {
+        "id": 111,
+        "name": "Samsung",
+        "categorie": 11,
+        "price": 6.49,
+        "description": "A nutritious salad with kale, quinoa, and a zesty lemon dressing."
+    },
+    {
+        "id": 112,
+        "name": "Lenovo",
+        "categorie": 12,
+        "price": 4.59,
+        "description": "A delightful mix of nuts, fruit, and chocolate."
+    },
+    {
+        "id": 113,
+        "name": "BenQ-Siemens",
+        "categorie": 13,
+        "price": 4.19,
+        "description": "Healthy pasta alternative made from chickpeas"
+    },
+    {
+        "id": 114,
+        "name": "Spice",
+        "categorie": 14,
+        "price": 12.99,
+        "description": "Stylish hooks to easily hang shower curtains."
+    },
+    {
+        "id": 115,
+        "name": "Samsung",
+        "categorie": 15,
+        "price": 15.99,
+        "description": "Juicy and tender beef sirloin steak, grass-fed."
+    },
+    {
+        "id": 116,
+        "name": "Micromax",
+        "categorie": 16,
+        "price": 59.99,
+        "description": "Skillet that can fry, grill, and saut\u00e9 with ease."
+    },
+    {
+        "id": 117,
+        "name": "Yezz",
+        "categorie": 17,
+        "price": 5.49,
+        "description": "Prepped vegetables and sauces for a quick Asian stir-fry meal."
+    },
+    {
+        "id": 118,
+        "name": "Samsung",
+        "categorie": 18,
+        "price": 3.29,
+        "description": "Crunchy pretzels coated in rich chocolate, a sweet treat."
+    },
+    {
+        "id": 119,
+        "name": "Motorola",
+        "categorie": 19,
+        "price": 5.99,
+        "description": "Rich and creamy ice cream, available in various flavors."
+    },
+    {
+        "id": 120,
+        "name": "Sony",
+        "categorie": 20,
+        "price": 14.99,
+        "description": "500-piece jigsaw puzzle featuring beautiful scenery."
+    },
+    {
+        "id": 121,
+        "name": "Realme",
+        "categorie": 21,
+        "price": 14.99,
+        "description": "Reusable wraps for food storage, replacing plastic wraps."
+    },
+    {
+        "id": 122,
+        "name": "Honor",
+        "categorie": 22,
+        "price": 19.99,
+        "description": "Assorted indoor plants for home decor."
+    },
+    {
+        "id": 123,
+        "name": "Panasonic",
+        "categorie": 23,
+        "price": 29.99,
+        "description": "Cozy throw blanket perfect for chilly evenings."
+    },
+    {
+        "id": 124,
+        "name": "Toshiba",
+        "categorie": 24,
+        "price": 359.99,
+        "description": "Compact electronic drum kit for musicians of all levels."
+    },
+    {
+        "id": 125,
+        "name": "Nokia",
+        "categorie": 25,
+        "price": 99.99,
+        "description": "Charcoal kettle grill perfect for backyard barbecues."
+    },
+    {
+        "id": 126,
+        "name": "Asus",
+        "categorie": 26,
+        "price": 39.99,
+        "description": "Multi-port USB-C hub for connecting devices."
+    },
+    {
+        "id": 127,
+        "name": "Lenovo",
+        "categorie": 27,
+        "price": 5.99,
+        "description": "Handy dispenser for quick access to safety pins."
+    },
+    {
+        "id": 128,
+        "name": "Huawei",
+        "categorie": 28,
+        "price": 2.99,
+        "description": "Just add water for delicious brownies."
+    },
+    {
+        "id": 129,
+        "name": "Huawei",
+        "categorie": 29,
+        "price": 49.99,
+        "description": "Trendy high-top canvas sneakers for a stylish streetwear look."
+    },
+    {
+        "id": 130,
+        "name": "Sharp",
+        "categorie": 30,
+        "price": 2.99,
+        "description": "Easy-to-prepare rice with cilantro and lime flavors, great as a side."
+    },
+    {
+        "id": 131,
+        "name": "Unnecto",
+        "categorie": 31,
+        "price": 249.99,
+        "description": "Automated cleaning robot for hassle-free home maintenance."
+    },
+    {
+        "id": 132,
+        "name": "Xiaomi",
+        "categorie": 32,
+        "price": 2.49,
+        "description": "Rich vegetable stock for cooking soups and stews."
+    },
+    {
+        "id": 133,
+        "name": "ZTE",
+        "categorie": 33,
+        "price": 49.99,
+        "description": "Essential tools for outdoor barbecues including tongs and spatula."
+    },
+    {
+        "id": 134,
+        "name": "Philips",
+        "categorie": 34,
+        "price": 39.99,
+        "description": "Stylish desk lamp featuring a USB charging port."
+    },
+    {
+        "id": 135,
+        "name": "LG",
+        "categorie": 35,
+        "price": 3.49,
+        "description": "Refreshing juice blend made with various fresh fruits."
+    },
+    {
+        "id": 136,
+        "name": "Nokia",
+        "categorie": 36,
+        "price": 19.99,
+        "description": "Precision pencils for drawing, sketching, and writing."
+    },
+    {
+        "id": 137,
+        "name": "Nokia",
+        "categorie": 37,
+        "price": 29.99,
+        "description": "Engaging kit with science experiments for children."
+    },
+    {
+        "id": 138,
+        "name": "Haier",
+        "categorie": 38,
+        "price": 14.99,
+        "description": "Convenient strap for carrying yoga mats to class."
+    },
+    {
+        "id": 139,
+        "name": "Samsung",
+        "categorie": 39,
+        "price": 5.99,
+        "description": "A refreshing salad with chickpeas, cucumber, tomatoes, and a light vinaigrette dressing."
+    },
+    {
+        "id": 140,
+        "name": "alcatel",
+        "categorie": 40,
+        "price": 29.99,
+        "description": "Adjustable tripod with remote shutter for smartphones."
+    },
+    {
+        "id": 141,
+        "name": "Micromax",
+        "categorie": 41,
+        "price": 2.59,
+        "description": "Sweet and tender peach slices preserved in syrup, great for desserts."
+    },
+    {
+        "id": 142,
+        "name": "Samsung",
+        "categorie": 42,
+        "price": 7.99,
+        "description": "Hearty beef stew with vegetables, ready to heat and serve."
+    },
+    {
+        "id": 143,
+        "name": "LG",
+        "categorie": 43,
+        "price": 54.99,
+        "description": "Large electric griddle for family meals."
+    },
+    {
+        "id": 144,
+        "name": "ZTE",
+        "categorie": 44,
+        "price": 5.99,
+        "description": "Eco-friendly bamboo toothbrush for sustainable living."
+    },
+    {
+        "id": 145,
+        "name": "ZTE",
+        "categorie": 45,
+        "price": 29.99,
+        "description": "Affordable fitness tracker with heart rate monitor."
+    },
+    {
+        "id": 146,
+        "name": "ZTE",
+        "categorie": 46,
+        "price": 8.99,
+        "description": "Marinated grilled chicken breasts seasoned with garlic and herbs."
+    },
+    {
+        "id": 147,
+        "name": "vivo",
+        "categorie": 47,
+        "price": 169.99,
+        "description": "Portable projector with 1080p resolution for movies."
+    },
+    {
+        "id": 148,
+        "name": "Nokia",
+        "categorie": 48,
+        "price": 24.99,
+        "description": "Airtight container to keep pet food fresh."
+    },
+    {
+        "id": 149,
+        "name": "Sagem",
+        "categorie": 49,
+        "price": 6.89,
+        "description": "Everything you need to make melt-in-your-mouth cinnamon rolls at home."
+    },
+    {
+        "id": 150,
+        "name": "Lenovo",
+        "categorie": 50,
+        "price": 2.99,
+        "description": "Flavorful rice mixed with coconut and lime, a tropical side dish."
+    },
+    {
+        "id": 151,
+        "name": "Asus",
+        "categorie": 51,
+        "price": 22.99,
+        "description": "DIY kit to make your own lip balms in various flavors."
+    },
+    {
+        "id": 152,
+        "name": "Prestigio",
+        "categorie": 52,
+        "price": 25.99,
+        "description": "Ergonomic wireless mouse with adjustable DPI."
+    },
+    {
+        "id": 153,
+        "name": "Samsung",
+        "categorie": 53,
+        "price": 24.99,
+        "description": "Planter with self-watering feature for easy plant care."
+    },
+    {
+        "id": 154,
+        "name": "O2",
+        "categorie": 54,
+        "price": 49.99,
+        "description": "Battery-operated air purifier for small spaces."
+    },
+    {
+        "id": 155,
+        "name": "HP",
+        "categorie": 55,
+        "price": 2.99,
+        "description": "Creamy cottage cheese, perfect for healthy snacking."
+    },
+    {
+        "id": 156,
+        "name": "ZTE",
+        "categorie": 56,
+        "price": 1.99,
+        "description": "Sweet and crisp apples, perfect for snacking."
+    },
+    {
+        "id": 157,
+        "name": "Philips",
+        "categorie": 57,
+        "price": 29.99,
+        "description": "DIY projector that magnifies your smartphone screen for movie nights."
+    },
+    {
+        "id": 158,
+        "name": "Unnecto",
+        "categorie": 58,
+        "price": 29.99,
+        "description": "Bartender kit with shaker, jigger, and strainer."
+    },
+    {
+        "id": 159,
+        "name": "Samsung",
+        "categorie": 59,
+        "price": 5.99,
+        "description": "Simple tool to train your pet with positive reinforcement."
+    },
+    {
+        "id": 160,
+        "name": "Yezz",
+        "categorie": 60,
+        "price": 5.99,
+        "description": "Spicy and creamy dip made with shredded chicken, perfect for parties."
+    },
+    {
+        "id": 161,
+        "name": "BLU",
+        "categorie": 61,
+        "price": 4.49,
+        "description": "A tangy marinade for meats and veggies, packed with garlic flavor."
+    },
+    {
+        "id": 162,
+        "name": "Motorola",
+        "categorie": 62,
+        "price": 299.99,
+        "description": "Comprehensive camera and alert system for home security."
+    },
+    {
+        "id": 163,
+        "name": "Vodafone",
+        "categorie": 63,
+        "price": 2.49,
+        "description": "Delicious and tangy marinade for grilling or baking chicken."
+    },
+    {
+        "id": 164,
+        "name": "Plum",
+        "categorie": 64,
+        "price": 39.99,
+        "description": "Multi-port USB-C hub for connecting devices."
+    },
+    {
+        "id": 165,
+        "name": "Nokia",
+        "categorie": 65,
+        "price": 2.99,
+        "description": "No-bake protein balls with chocolate and coconut flavors."
+    },
+    {
+        "id": 166,
+        "name": "HTC",
+        "categorie": 66,
+        "price": 3.79,
+        "description": "Refreshing dessert bars made with pineapple and coconut."
+    },
+    {
+        "id": 167,
+        "name": "Eten",
+        "categorie": 67,
+        "price": 4.79,
+        "description": "Sweet and tangy balsamic reduction for drizzling."
+    },
+    {
+        "id": 168,
+        "name": "BlackBerry",
+        "categorie": 68,
+        "price": 14.99,
+        "description": "Cozy beanie hat to keep your head warm in the cold."
+    },
+    {
+        "id": 169,
+        "name": "Vodafone",
+        "categorie": 69,
+        "price": 1.89,
+        "description": "Frozen green peas, a great addition to meals."
+    },
+    {
+        "id": 170,
+        "name": "Prestigio",
+        "categorie": 70,
+        "price": 2.59,
+        "description": "Sweet and tender peach slices preserved in syrup, great for desserts."
+    },
+    {
+        "id": 171,
+        "name": "Apple",
+        "categorie": 71,
+        "price": 18.99,
+        "description": "Durable baking sheet coated for easy food release."
+    },
+    {
+        "id": 172,
+        "name": "LG",
+        "categorie": 72,
+        "price": 39.99,
+        "description": "Thermos that tracks your water intake and temperature."
+    },
+    {
+        "id": 173,
+        "name": "ZTE",
+        "categorie": 73,
+        "price": 34.99,
+        "description": "Peel and stick wallpaper for easy home decor changes."
+    },
+    {
+        "id": 174,
+        "name": "Gionee",
+        "categorie": 74,
+        "price": 34.99,
+        "description": "Chic high-waisted skirt, perfect for professional or casual settings."
+    },
+    {
+        "id": 175,
+        "name": "LG",
+        "categorie": 75,
+        "price": 3.49,
+        "description": "Juicy raisins coated in rich dark chocolate."
+    },
+    {
+        "id": 176,
+        "name": "Apple",
+        "categorie": 76,
+        "price": 39.99,
+        "description": "Rechargeable training collar for effective behavior training."
+    },
+    {
+        "id": 177,
+        "name": "Sony",
+        "categorie": 77,
+        "price": 39.99,
+        "description": "Beautiful leather-bound journal for writing and sketching."
+    },
+    {
+        "id": 178,
+        "name": "HTC",
+        "categorie": 78,
+        "price": 3.49,
+        "description": "Creamy chia pudding made with coconut milk and topped with mango."
+    },
+    {
+        "id": 179,
+        "name": "BLU",
+        "categorie": 79,
+        "price": 39.99,
+        "description": "High-density, non-slip yoga mat for stability and comfort."
+    },
+    {
+        "id": 180,
+        "name": "BLU",
+        "categorie": 80,
+        "price": 4.79,
+        "description": "Crunchy and flavorful mix of oats and honey."
+    },
+    {
+        "id": 181,
+        "name": "Nokia",
+        "categorie": 81,
+        "price": 2.49,
+        "description": "Tangy and crunchy dill pickles."
+    },
+    {
+        "id": 182,
+        "name": "Dell",
+        "categorie": 82,
+        "price": 34.99,
+        "description": "Lantern that repels mosquitoes while providing light."
+    },
+    {
+        "id": 183,
+        "name": "Celkon",
+        "categorie": 83,
+        "price": 69.99,
+        "description": "Adjustable shelving unit for home or garage storage."
+    },
+    {
+        "id": 184,
+        "name": "Samsung",
+        "categorie": 84,
+        "price": 3.89,
+        "description": "Creamy yogurt made from coconut milk, dairy-free and delicious."
+    },
+    {
+        "id": 185,
+        "name": "Gionee",
+        "categorie": 85,
+        "price": 19.99,
+        "description": "Compact pump ideal for inflating sports equipment or rafts."
+    },
+    {
+        "id": 186,
+        "name": "Kyocera",
+        "categorie": 86,
+        "price": 5.99,
+        "description": "Fresh kale with Caesar dressing and croutons."
+    },
+    {
+        "id": 187,
+        "name": "Sony",
+        "categorie": 87,
+        "price": 59.99,
+        "description": "Cozy oversized sweater perfect for chilly days with a textured knit design."
+    },
+    {
+        "id": 188,
+        "name": "LG",
+        "categorie": 88,
+        "price": 3.99,
+        "description": "Spicy sauce perfect for chicken wings and dipping."
+    },
+    {
+        "id": 189,
+        "name": "verykool",
+        "categorie": 89,
+        "price": 8.99,
+        "description": "Soft and strong toilet paper for everyday use."
+    },
+    {
+        "id": 190,
+        "name": "Xiaomi",
+        "categorie": 90,
+        "price": 49.99,
+        "description": "Foldable chair equipped with a cooler pouch."
+    },
+    {
+        "id": 191,
+        "name": "Haier",
+        "categorie": 91,
+        "price": 4.49,
+        "description": "Crispy chicken nuggets for quick meals."
+    },
+    {
+        "id": 192,
+        "name": "Pantech",
+        "categorie": 92,
+        "price": 89.99,
+        "description": "Rechargeable massage gun for relieving muscle soreness."
+    },
+    {
+        "id": 193,
+        "name": "alcatel",
+        "categorie": 93,
+        "price": 19.99,
+        "description": "Protects surfaces while baking or cooking with hot items."
+    },
+    {
+        "id": 194,
+        "name": "O2",
+        "categorie": 94,
+        "price": 39.99,
+        "description": "Complete set for mixing cocktails at home."
+    },
+    {
+        "id": 195,
+        "name": "Motorola",
+        "categorie": 95,
+        "price": 12.99,
+        "description": "Accurate stopwatch for timing events and workouts."
+    },
+    {
+        "id": 196,
+        "name": "Siemens",
+        "categorie": 96,
+        "price": 5.79,
+        "description": "Grape leaves stuffed with rice and herbs, ready to eat."
+    },
+    {
+        "id": 197,
+        "name": "OnePlus",
+        "categorie": 97,
+        "price": 4.49,
+        "description": "Golden-brown fritters made with sweet corn."
+    },
+    {
+        "id": 198,
+        "name": "Apple",
+        "categorie": 98,
+        "price": 2.49,
+        "description": "Nutritious and hearty pasta made from whole wheat flour."
+    },
+    {
+        "id": 199,
+        "name": "Motorola",
+        "categorie": 99,
+        "price": 4.99,
+        "description": "A mix of frozen berries for smoothies or desserts"
+    },
+    {
+        "id": 200,
+        "name": "Philips",
+        "categorie": 100,
+        "price": 20.99,
+        "description": "Microwaveable heating pad for muscle pain relief and relaxation."
+    },
+    {
+        "id": 201,
+        "name": "Sony",
+        "categorie": 1,
+        "price": 29.99,
+        "description": "Set of stylish throw pillows for home decor."
+    },
+    {
+        "id": 202,
+        "name": "Huawei",
+        "categorie": 2,
+        "price": 2.99,
+        "description": "Crispy roasted chickpeas seasoned to perfection"
+    },
+    {
+        "id": 203,
+        "name": "Huawei",
+        "categorie": 3,
+        "price": 45.99,
+        "description": "A cozy long cardigan designed for layering in any season."
+    },
+    {
+        "id": 204,
+        "name": "XOLO",
+        "categorie": 4,
+        "price": 79.99,
+        "description": "Water-resistant jacket ideal for outdoor activities, featuring a packable design."
+    },
+    {
+        "id": 205,
+        "name": "Micromax",
+        "categorie": 5,
+        "price": 19.99,
+        "description": "Self-cleaning grooming brush for cats and dogs."
+    },
+    {
+        "id": 206,
+        "name": "vivo",
+        "categorie": 6,
+        "price": 3.49,
+        "description": "Unsweetened coconut flakes for baking and snacking."
+    },
+    {
+        "id": 207,
+        "name": "Siemens",
+        "categorie": 7,
+        "price": 14.99,
+        "description": "Classic wooden puzzle game for kids and adults."
+    },
+    {
+        "id": 208,
+        "name": "Motorola",
+        "categorie": 8,
+        "price": 79.99,
+        "description": "Wireless earbuds designed for immersive sound experience."
+    },
+    {
+        "id": 209,
+        "name": "Xiaomi",
+        "categorie": 9,
+        "price": 39.99,
+        "description": "Made from biodegradable materials for eco-conscious yogis."
+    },
+    {
+        "id": 210,
+        "name": "Samsung",
+        "categorie": 10,
+        "price": 4.99,
+        "description": "A soothing herbal tea made from ginger root."
+    },
+    {
+        "id": 211,
+        "name": "Allview",
+        "categorie": 11,
+        "price": 34.99,
+        "description": "BPA-free glass containers for safe food storage."
+    },
+    {
+        "id": 212,
+        "name": "Allview",
+        "categorie": 12,
+        "price": 22.99,
+        "description": "DIY kit to make your own lip balms in various flavors."
+    },
+    {
+        "id": 213,
+        "name": "Sony",
+        "categorie": 13,
+        "price": 3.99,
+        "description": "Fresh eggs from free-range chickens."
+    },
+    {
+        "id": 214,
+        "name": "Asus",
+        "categorie": 14,
+        "price": 2.99,
+        "description": "Canned pumpkin puree, perfect for pies and soups."
+    },
+    {
+        "id": 215,
+        "name": "Samsung",
+        "categorie": 15,
+        "price": 4.49,
+        "description": "Roasted cashews coated in honey and sesame seeds for a sweet treat."
+    },
+    {
+        "id": 216,
+        "name": "NEC",
+        "categorie": 16,
+        "price": 19.99,
+        "description": "USB hub for expanding ports on computers and laptops."
+    },
+    {
+        "id": 217,
+        "name": "vivo",
+        "categorie": 17,
+        "price": 14.99,
+        "description": "Journal to record workouts and nutrition."
+    },
+    {
+        "id": 218,
+        "name": "NIU",
+        "categorie": 18,
+        "price": 179.99,
+        "description": "Durable and non-stick ceramic cookware for healthy cooking."
+    },
+    {
+        "id": 219,
+        "name": "Celkon",
+        "categorie": 19,
+        "price": 5.79,
+        "description": "Grape leaves stuffed with rice and herbs, ready to eat."
+    },
+    {
+        "id": 220,
+        "name": "Prestigio",
+        "categorie": 20,
+        "price": 79.99,
+        "description": "Tablet for digital drawing and illustration work."
+    },
+    {
+        "id": 221,
+        "name": "Huawei",
+        "categorie": 21,
+        "price": 2.99,
+        "description": "Roasted chickpeas seasoned for a crunchy snack."
+    },
+    {
+        "id": 222,
+        "name": "VK",
+        "categorie": 22,
+        "price": 59.99,
+        "description": "A fitted ribbed knit dress that hugs your curves perfectly."
+    },
+    {
+        "id": 223,
+        "name": "ZTE",
+        "categorie": 23,
+        "price": 2.99,
+        "description": "A sweet and spicy sauce ideal for spring rolls or chicken nuggets."
+    },
+    {
+        "id": 224,
+        "name": "BLU",
+        "categorie": 24,
+        "price": 1.79,
+        "description": "Twisted pasta perfect for salads and pasta dishes."
+    },
+    {
+        "id": 225,
+        "name": "vivo",
+        "categorie": 25,
+        "price": 6.99,
+        "description": "Layers of pasta, veggies, and cheese baked to perfection."
+    },
+    {
+        "id": 226,
+        "name": "Maxon",
+        "categorie": 26,
+        "price": 5.49,
+        "description": "Finely ground flour from dried coconut meat."
+    },
+    {
+        "id": 227,
+        "name": "Coolpad",
+        "categorie": 27,
+        "price": 49.99,
+        "description": "Comfortable pillow with built-in massage features."
+    },
+    {
+        "id": 228,
+        "name": "Samsung",
+        "categorie": 28,
+        "price": 199.99,
+        "description": "Automated litter box that cleans itself after each use."
+    },
+    {
+        "id": 229,
+        "name": "Tecno",
+        "categorie": 29,
+        "price": 4.29,
+        "description": "Smooth soup made from carrots and ginger, great for cold days."
+    },
+    {
+        "id": 230,
+        "name": "LG",
+        "categorie": 30,
+        "price": 44.99,
+        "description": "UV-blocking clothing for outdoor activities."
+    },
+    {
+        "id": 231,
+        "name": "Samsung",
+        "categorie": 31,
+        "price": 6.99,
+        "description": "Convenient dispenser for dog waste bags on walks."
+    },
+    {
+        "id": 232,
+        "name": "HTC",
+        "categorie": 32,
+        "price": 1.49,
+        "description": "Canned diced tomatoes, great base for sauces and soups."
+    },
+    {
+        "id": 233,
+        "name": "Pantech",
+        "categorie": 33,
+        "price": 59.99,
+        "description": "True wireless earbuds with excellent sound quality."
+    },
+    {
+        "id": 234,
+        "name": "Meizu",
+        "categorie": 34,
+        "price": 5.29,
+        "description": "Sweet blackberry compote, perfect for topping desserts."
+    },
+    {
+        "id": 235,
+        "name": "Spice",
+        "categorie": 35,
+        "price": 5.49,
+        "description": "A frozen cheesy bake made with cauliflower, great as a side dish or a vegetarian meal."
+    },
+    {
+        "id": 236,
+        "name": "ZTE",
+        "categorie": 36,
+        "price": 3.99,
+        "description": "A creamy pumpkin soup with a blend of warm spices, ready to heat and serve."
+    },
+    {
+        "id": 237,
+        "name": "Archos",
+        "categorie": 37,
+        "price": 24.99,
+        "description": "Organize coffee capsules with this stylish dispenser."
+    },
+    {
+        "id": 238,
+        "name": "Philips",
+        "categorie": 38,
+        "price": 24.99,
+        "description": "Durable, unbreakable wine glasses for outdoor use."
+    },
+    {
+        "id": 239,
+        "name": "LG",
+        "categorie": 39,
+        "price": 1.49,
+        "description": "Plain white rice, a staple for any meal."
+    },
+    {
+        "id": 240,
+        "name": "Nokia",
+        "categorie": 40,
+        "price": 3.49,
+        "description": "Creamy Greek yogurt infused with raspberry and vanilla flavors."
+    },
+    {
+        "id": 241,
+        "name": "Huawei",
+        "categorie": 41,
+        "price": 29.99,
+        "description": "Portable solar shower for camping and outdoor use."
+    },
+    {
+        "id": 242,
+        "name": "Huawei",
+        "categorie": 42,
+        "price": 3.49,
+        "description": "Classic marinara sauce for all pasta dishes."
+    },
+    {
+        "id": 243,
+        "name": "TCL",
+        "categorie": 43,
+        "price": 12.99,
+        "description": "Gentle brush for removing loose fur from pets."
+    },
+    {
+        "id": 244,
+        "name": "Motorola",
+        "categorie": 44,
+        "price": 169.99,
+        "description": "Wi-Fi enabled thermostat that learns your habits."
+    },
+    {
+        "id": 245,
+        "name": "ZTE",
+        "categorie": 45,
+        "price": 14.99,
+        "description": "Safety collar with flashing lights for pets during night walks."
+    },
+    {
+        "id": 246,
+        "name": "Vodafone",
+        "categorie": 46,
+        "price": 7.99,
+        "description": "Frozen chicken bites coated in a honey sriracha glaze, spicy and sweet."
+    },
+    {
+        "id": 247,
+        "name": "Samsung",
+        "categorie": 47,
+        "price": 1.99,
+        "description": "Nutritious protein bar with cherry and almond flavor, great for on-the-go."
+    },
+    {
+        "id": 248,
+        "name": "Philips",
+        "categorie": 48,
+        "price": 5.99,
+        "description": "Gluten-free almond flour, perfect for baking."
+    },
+    {
+        "id": 249,
+        "name": "VK",
+        "categorie": 49,
+        "price": 45.99,
+        "description": "A retro-style button-down shirt with a relaxed fit."
+    },
+    {
+        "id": 250,
+        "name": "Lenovo",
+        "categorie": 50,
+        "price": 299.99,
+        "description": "Energy-efficient window air conditioner for cooling."
+    },
+    {
+        "id": 251,
+        "name": "HP",
+        "categorie": 51,
+        "price": 15.99,
+        "description": "Durable toy designed for heavy chewers."
+    },
+    {
+        "id": 252,
+        "name": "Samsung",
+        "categorie": 52,
+        "price": 39.99,
+        "description": "Compact hair dryer with multiple heat settings."
+    },
+    {
+        "id": 253,
+        "name": "LG",
+        "categorie": 53,
+        "price": 4.49,
+        "description": "Soft cookies made with almond butter"
+    },
+    {
+        "id": 254,
+        "name": "Oppo",
+        "categorie": 54,
+        "price": 3.79,
+        "description": "Sweet and fruity peach preserves, perfect for spreading on toast."
+    },
+    {
+        "id": 255,
+        "name": "Siemens",
+        "categorie": 55,
+        "price": 14.99,
+        "description": "Space-saving broom holder for organized cleaning supplies."
+    },
+    {
+        "id": 256,
+        "name": "Nokia",
+        "categorie": 56,
+        "price": 10.99,
+        "description": "Eco-friendly coffee filter for brewing."
+    },
+    {
+        "id": 257,
+        "name": "Icemobile",
+        "categorie": 57,
+        "price": 12.99,
+        "description": "Fun tourist magnets from around the world for your fridge."
+    },
+    {
+        "id": 258,
+        "name": "Wiko",
+        "categorie": 58,
+        "price": 3.79,
+        "description": "A sweet and tangy dressing made with figs and balsamic vinegar, great on salads."
+    },
+    {
+        "id": 259,
+        "name": "Huawei",
+        "categorie": 59,
+        "price": 22.99,
+        "description": "Portable rechargeable warmer for cold days."
+    },
+    {
+        "id": 260,
+        "name": "BLU",
+        "categorie": 60,
+        "price": 3.29,
+        "description": "Gluten-free flour made from ground chickpeas, great for cooking."
+    },
+    {
+        "id": 261,
+        "name": "BLU",
+        "categorie": 61,
+        "price": 54.99,
+        "description": "Stylish ripped boyfriend jeans for a relaxed, effortlessly cool vibe."
+    },
+    {
+        "id": 262,
+        "name": "Posh",
+        "categorie": 62,
+        "price": 49.99,
+        "description": "Elevated planter box for growing herbs or small plants easily."
+    },
+    {
+        "id": 263,
+        "name": "Samsung",
+        "categorie": 63,
+        "price": 29.99,
+        "description": "Reversible bamboo chopping board for food prep."
+    },
+    {
+        "id": 264,
+        "name": "Motorola",
+        "categorie": 64,
+        "price": 28.99,
+        "description": "Clear feeder that attaches to windows for bird watching."
+    },
+    {
+        "id": 265,
+        "name": "Huawei",
+        "categorie": 65,
+        "price": 14.99,
+        "description": "Comfortable mouse pad designed to reduce wrist strain."
+    },
+    {
+        "id": 266,
+        "name": "Samsung",
+        "categorie": 66,
+        "price": 49.99,
+        "description": "Comfortable carry for pets while hiking or traveling."
+    },
+    {
+        "id": 267,
+        "name": "Motorola",
+        "categorie": 67,
+        "price": 59.99,
+        "description": "Portable desk that can be adjusted for sitting or standing."
+    },
+    {
+        "id": 268,
+        "name": "Celkon",
+        "categorie": 68,
+        "price": 18.99,
+        "description": "Travel-friendly water bottle for pets on the go."
+    },
+    {
+        "id": 269,
+        "name": "Sagem",
+        "categorie": 69,
+        "price": 3.49,
+        "description": "Spicy and flavorful soup made with black beans, perfect as a meal or starter."
+    },
+    {
+        "id": 270,
+        "name": "Telit",
+        "categorie": 70,
+        "price": 3.49,
+        "description": "Creamy cheese with a spicy kick, perfect for sandwiches."
+    },
+    {
+        "id": 271,
+        "name": "Gionee",
+        "categorie": 71,
+        "price": 4.49,
+        "description": "Crunchy granola with maple syrup and pecans, great for breakfast or snacking."
+    },
+    {
+        "id": 272,
+        "name": "Asus",
+        "categorie": 72,
+        "price": 15.99,
+        "description": "Set of flexible molds for baking cakes and pastries."
+    },
+    {
+        "id": 273,
+        "name": "Micromax",
+        "categorie": 73,
+        "price": 14.99,
+        "description": "Special attachment for vacuum cleaners to remove pet hair easily."
+    },
+    {
+        "id": 274,
+        "name": "Micromax",
+        "categorie": 74,
+        "price": 15.99,
+        "description": "Set of breathable bags for organizing shoes while traveling."
+    },
+    {
+        "id": 275,
+        "name": "Samsung",
+        "categorie": 75,
+        "price": 1.99,
+        "description": "Freshly ground cinnamon spice for baking or seasoning."
+    },
+    {
+        "id": 276,
+        "name": "Micromax",
+        "categorie": 76,
+        "price": 5.49,
+        "description": "Savory hash made with sweet potatoes and kale, a perfect side dish."
+    },
+    {
+        "id": 277,
+        "name": "HTC",
+        "categorie": 77,
+        "price": 2.49,
+        "description": "Low-calorie rice cake for snacks."
+    },
+    {
+        "id": 278,
+        "name": "LG",
+        "categorie": 78,
+        "price": 69.99,
+        "description": "Stay dry with these stylish waterproof rain boots."
+    },
+    {
+        "id": 279,
+        "name": "Philips",
+        "categorie": 79,
+        "price": 39.99,
+        "description": "Set of decorative ceramic planters for indoor plants."
+    },
+    {
+        "id": 280,
+        "name": "Celkon",
+        "categorie": 80,
+        "price": 2.99,
+        "description": "Canned pumpkin puree, perfect for pies and soups."
+    },
+    {
+        "id": 281,
+        "name": "Huawei",
+        "categorie": 81,
+        "price": 3.49,
+        "description": "Crispy chips made from assorted garden vegetables, lightly salted."
+    },
+    {
+        "id": 282,
+        "name": "Haier",
+        "categorie": 82,
+        "price": 22.99,
+        "description": "Handmade eco-friendly bowls made from real coconuts."
+    },
+    {
+        "id": 283,
+        "name": "Coolpad",
+        "categorie": 83,
+        "price": 34.99,
+        "description": "Compact blender that comes with travel cups for smoothies."
+    },
+    {
+        "id": 284,
+        "name": "Parla",
+        "categorie": 84,
+        "price": 49.99,
+        "description": "Large stir fry pan with non-stick surface."
+    },
+    {
+        "id": 285,
+        "name": "Sony",
+        "categorie": 85,
+        "price": 9.99,
+        "description": "Variety pack of sticky notes in different colors and sizes."
+    },
+    {
+        "id": 286,
+        "name": "Samsung",
+        "categorie": 86,
+        "price": 2.79,
+        "description": "Light and crispy baked potato chips in assorted flavors."
+    },
+    {
+        "id": 287,
+        "name": "Lenovo",
+        "categorie": 87,
+        "price": 4.29,
+        "description": "Crispy sweet potato bites, delicious as a side or snack."
+    },
+    {
+        "id": 288,
+        "name": "NEC",
+        "categorie": 88,
+        "price": 9.99,
+        "description": "Travel-friendly dog bowl that is collapsible for easy storage."
+    },
+    {
+        "id": 289,
+        "name": "Pantech",
+        "categorie": 89,
+        "price": 5.49,
+        "description": "Pure and natural honey, great for sweetening."
+    },
+    {
+        "id": 290,
+        "name": "vivo",
+        "categorie": 90,
+        "price": 3.99,
+        "description": "A crunchy collection of flavored kettle chips in a convenient pack."
+    },
+    {
+        "id": 291,
+        "name": "Gigabyte",
+        "categorie": 91,
+        "price": 2.99,
+        "description": "Freshly baked bagels, perfect for breakfast or snacks."
+    },
+    {
+        "id": 292,
+        "name": "Samsung",
+        "categorie": 92,
+        "price": 2.49,
+        "description": "Creamy soup full of rich mushroom flavor."
+    },
+    {
+        "id": 293,
+        "name": "Gigabyte",
+        "categorie": 93,
+        "price": 3.29,
+        "description": "Organic rolled oats, great for breakfast or baking."
+    },
+    {
+        "id": 294,
+        "name": "LG",
+        "categorie": 94,
+        "price": 34.99,
+        "description": "Blender designed for smoothies and shakes on the go."
+    },
+    {
+        "id": 295,
+        "name": "Tecno",
+        "categorie": 95,
+        "price": 4.99,
+        "description": "Frozen mix for quick berry smoothies."
+    },
+    {
+        "id": 296,
+        "name": "verykool",
+        "categorie": 96,
+        "price": 3.99,
+        "description": "Oven-roasted potatoes tossed in garlic and parmesan cheese seasoning."
+    },
+    {
+        "id": 297,
+        "name": "Plum",
+        "categorie": 97,
+        "price": 34.99,
+        "description": "Color-changing smart LED bulbs compatible with Alexa."
+    },
+    {
+        "id": 298,
+        "name": "Oppo",
+        "categorie": 98,
+        "price": 1.5,
+        "description": "Tender sweet corn kernels, ready to eat or add to dishes."
+    },
+    {
+        "id": 299,
+        "name": "Samsung",
+        "categorie": 99,
+        "price": 3.59,
+        "description": "A spicy glaze made with sriracha and honey, perfect for meats."
+    },
+    {
+        "id": 300,
+        "name": "Archos",
+        "categorie": 100,
+        "price": 22.99,
+        "description": "3D model puzzle kit for creative builders."
+    },
+    {
+        "id": 301,
+        "name": "Samsung",
+        "categorie": 1,
+        "price": 119.99,
+        "description": "High-quality headphones that block out external noise for immersive listening."
+    },
+    {
+        "id": 302,
+        "name": "Honor",
+        "categorie": 2,
+        "price": 59.99,
+        "description": "Rechargeable electric razor for a smooth shave."
+    },
+    {
+        "id": 303,
+        "name": "VK",
+        "categorie": 3,
+        "price": 12.99,
+        "description": "Safe and easy-to-use nail clippers for pets."
+    },
+    {
+        "id": 304,
+        "name": "LG",
+        "categorie": 4,
+        "price": 12.99,
+        "description": "Activity workbook for early learning and fun."
+    },
+    {
+        "id": 305,
+        "name": "Nokia",
+        "categorie": 5,
+        "price": 39.99,
+        "description": "Stackable steamers for healthy cooking of vegetables and seafood."
+    },
+    {
+        "id": 306,
+        "name": "NIU",
+        "categorie": 6,
+        "price": 2.59,
+        "description": "A delicious sauce perfect for stir-frying or glazing meats."
+    },
+    {
+        "id": 307,
+        "name": "Chea",
+        "categorie": 7,
+        "price": 29.99,
+        "description": "Perfectly designed pan for making crepes and pancakes."
+    },
+    {
+        "id": 308,
+        "name": "XOLO",
+        "categorie": 8,
+        "price": 4.49,
+        "description": "A flavorful lentil curry cooked with vegetables and spices."
+    },
+    {
+        "id": 309,
+        "name": "BLU",
+        "categorie": 9,
+        "price": 16.99,
+        "description": "Cute dispenser for bathrooms or kitchens featuring paw prints."
+    },
+    {
+        "id": 310,
+        "name": "Ulefone",
+        "categorie": 10,
+        "price": 15.99,
+        "description": "Fun fridge magnets to decorate your kitchen."
+    },
+    {
+        "id": 311,
+        "name": "HTC",
+        "categorie": 11,
+        "price": 4.49,
+        "description": "Delicious waffles infused with pumpkin and spices."
+    },
+    {
+        "id": 312,
+        "name": "Haier",
+        "categorie": 12,
+        "price": 2.99,
+        "description": "Frozen mix of colorful stir-fry veggies."
+    },
+    {
+        "id": 313,
+        "name": "Prestigio",
+        "categorie": 13,
+        "price": 9.99,
+        "description": "Travel-friendly dog bowl that is collapsible for easy storage."
+    },
+    {
+        "id": 314,
+        "name": "NEC",
+        "categorie": 14,
+        "price": 34.99,
+        "description": "Color-changing smart LED bulbs compatible with Alexa."
+    },
+    {
+        "id": 315,
+        "name": "Huawei",
+        "categorie": 15,
+        "price": 10.99,
+        "description": "Safe and vibrant crayons for children's art projects."
+    },
+    {
+        "id": 316,
+        "name": "Plum",
+        "categorie": 16,
+        "price": 4.99,
+        "description": "Crispy fries tossed in truffle oil and parmesan, a gourmet snack."
+    },
+    {
+        "id": 317,
+        "name": "Vodafone",
+        "categorie": 17,
+        "price": 12.99,
+        "description": "Convenient hooks that utilize door space for hanging items."
+    },
+    {
+        "id": 318,
+        "name": "Celkon",
+        "categorie": 18,
+        "price": 34.99,
+        "description": "Water-resistant blanket for picnics and outdoor events."
+    },
+    {
+        "id": 319,
+        "name": "Asus",
+        "categorie": 19,
+        "price": 24.99,
+        "description": "Classic wooden building blocks for toddlers."
+    },
+    {
+        "id": 320,
+        "name": "Huawei",
+        "categorie": 20,
+        "price": 4.49,
+        "description": "Hearty stew made with lentils and mixed vegetables, vegan-friendly."
+    },
+    {
+        "id": 321,
+        "name": "Samsung",
+        "categorie": 21,
+        "price": 3.59,
+        "description": "Nutty and chewy black rice, high in antioxidants."
+    },
+    {
+        "id": 322,
+        "name": "Micromax",
+        "categorie": 22,
+        "price": 4.19,
+        "description": "A natural sweetener made from coconut sap, a healthier alternative to sugar."
+    },
+    {
+        "id": 323,
+        "name": "Nokia",
+        "categorie": 23,
+        "price": 3.99,
+        "description": "Stone-ground mustard infused with craft beer for a gourmet touch."
+    },
+    {
+        "id": 324,
+        "name": "Prestigio",
+        "categorie": 24,
+        "price": 9.99,
+        "description": "Travel-friendly dog bowl that is collapsible for easy storage."
+    },
+    {
+        "id": 325,
+        "name": "Huawei",
+        "categorie": 25,
+        "price": 39.99,
+        "description": "Rapid boil electric kettle with temperature control."
+    },
+    {
+        "id": 326,
+        "name": "Samsung",
+        "categorie": 26,
+        "price": 1.5,
+        "description": "Refreshing sparkling water infused with cranberry and lime flavors."
+    },
+    {
+        "id": 327,
+        "name": "alcatel",
+        "categorie": 27,
+        "price": 4.99,
+        "description": "Crispy pastry filled with seasoned vegetables."
+    },
+    {
+        "id": 328,
+        "name": "alcatel",
+        "categorie": 28,
+        "price": 3.59,
+        "description": "Crispy chips made from taro root, a wonderful snack."
+    },
+    {
+        "id": 329,
+        "name": "Micromax",
+        "categorie": 29,
+        "price": 34.99,
+        "description": "Trendy belt bag for hands-free carrying."
+    },
+    {
+        "id": 330,
+        "name": "LG",
+        "categorie": 30,
+        "price": 29.99,
+        "description": "Eco-friendly LED lights for festive decorations."
+    },
+    {
+        "id": 331,
+        "name": "vivo",
+        "categorie": 31,
+        "price": 5.49,
+        "description": "Lean and versatile ground turkey, perfect for various dishes."
+    },
+    {
+        "id": 332,
+        "name": "Sagem",
+        "categorie": 32,
+        "price": 15.99,
+        "description": "Safe cleaning solution and tools for electronics screens."
+    },
+    {
+        "id": 333,
+        "name": "Philips",
+        "categorie": 33,
+        "price": 129.99,
+        "description": "Educational tablet designed for preschool-age children."
+    },
+    {
+        "id": 334,
+        "name": "alcatel",
+        "categorie": 34,
+        "price": 15.99,
+        "description": "Durable jump rope for cardio workouts."
+    },
+    {
+        "id": 335,
+        "name": "Motorola",
+        "categorie": 35,
+        "price": 19.99,
+        "description": "Bluetooth-enabled key tracker to find lost items easily."
+    },
+    {
+        "id": 336,
+        "name": "Celkon",
+        "categorie": 36,
+        "price": 2.69,
+        "description": "Soft hamburger buns made with whole grains."
+    },
+    {
+        "id": 337,
+        "name": "alcatel",
+        "categorie": 37,
+        "price": 15.99,
+        "description": "Durable jump rope for cardio workouts."
+    },
+    {
+        "id": 338,
+        "name": "Tecno",
+        "categorie": 38,
+        "price": 89.99,
+        "description": "Complete set for grilling and tailgating fun."
+    },
+    {
+        "id": 339,
+        "name": "ZTE",
+        "categorie": 39,
+        "price": 14.99,
+        "description": "Heat-sensitive mug that changes color when filled with hot liquid."
+    },
+    {
+        "id": 340,
+        "name": "LG",
+        "categorie": 40,
+        "price": 29.99,
+        "description": "Stylish desk set to keep your workspace tidy and organized."
+    },
+    {
+        "id": 341,
+        "name": "Allview",
+        "categorie": 41,
+        "price": 299.99,
+        "description": "Smart robotic vacuum for automatic cleaning."
+    },
+    {
+        "id": 342,
+        "name": "Telit",
+        "categorie": 42,
+        "price": 4.99,
+        "description": "Natural pink salt, perfect for seasoning."
+    },
+    {
+        "id": 343,
+        "name": "Asus",
+        "categorie": 43,
+        "price": 2.99,
+        "description": "Frozen mix of colorful stir-fry veggies."
+    },
+    {
+        "id": 344,
+        "name": "Meizu",
+        "categorie": 44,
+        "price": 39.99,
+        "description": "Functional leggings designed for maximum comfort during workouts."
+    },
+    {
+        "id": 345,
+        "name": "Maxon",
+        "categorie": 45,
+        "price": 59.99,
+        "description": "Wi-Fi smart scale for tracking weight and BMI."
+    },
+    {
+        "id": 346,
+        "name": "BLU",
+        "categorie": 46,
+        "price": 19.99,
+        "description": "Stream music from your device to any speaker wirelessly."
+    },
+    {
+        "id": 347,
+        "name": "Motorola",
+        "categorie": 47,
+        "price": 59.99,
+        "description": "Electric foot massager for relaxation and relief."
+    },
+    {
+        "id": 348,
+        "name": "Haier",
+        "categorie": 48,
+        "price": 59.99,
+        "description": "Relax and soothe tired feet with this foot spa."
+    },
+    {
+        "id": 349,
+        "name": "LG",
+        "categorie": 49,
+        "price": 2.99,
+        "description": "A sweet and spicy sauce, great for dipping or cooking."
+    },
+    {
+        "id": 350,
+        "name": "Infinix",
+        "categorie": 50,
+        "price": 4.49,
+        "description": "Creamy yogurt blended with fresh pineapple and coconut pieces."
+    },
+    {
+        "id": 351,
+        "name": "BlackBerry",
+        "categorie": 51,
+        "price": 59.99,
+        "description": "Instant hot water dispenser for tea and cooking."
+    },
+    {
+        "id": 352,
+        "name": "Google",
+        "categorie": 52,
+        "price": 2.49,
+        "description": "Moist brownie topped with sea salt and caramel drizzle."
+    },
+    {
+        "id": 353,
+        "name": "LG",
+        "categorie": 53,
+        "price": 19.99,
+        "description": "Suction cup bird feeder for close-up bird watching."
+    },
+    {
+        "id": 354,
+        "name": "Samsung",
+        "categorie": 54,
+        "price": 24.99,
+        "description": "Supportive pillow designed for a good night's sleep."
+    },
+    {
+        "id": 355,
+        "name": "Samsung",
+        "categorie": 55,
+        "price": 3.79,
+        "description": "A colorful variety of crunchy veggie chips for snacking."
+    },
+    {
+        "id": 356,
+        "name": "Vodafone",
+        "categorie": 56,
+        "price": 44.99,
+        "description": "Everyday flats that combine comfort and style."
+    },
+    {
+        "id": 357,
+        "name": "Apple",
+        "categorie": 57,
+        "price": 29.99,
+        "description": "Cozy throw blanket perfect for chilly evenings."
+    },
+    {
+        "id": 358,
+        "name": "LG",
+        "categorie": 58,
+        "price": 3.49,
+        "description": "A light and tangy dressing with poppy seeds, perfect for salads."
+    },
+    {
+        "id": 359,
+        "name": "Micromax",
+        "categorie": 59,
+        "price": 34.99,
+        "description": "Water-resistant blanket for picnics and outdoor events."
+    },
+    {
+        "id": 360,
+        "name": "Samsung",
+        "categorie": 60,
+        "price": 3.29,
+        "description": "Colorful veggie chips made from beets, carrots, and sweet potatoes."
+    },
+    {
+        "id": 361,
+        "name": "Samsung",
+        "categorie": 61,
+        "price": 29.99,
+        "description": "Ergonomic monitor stand for improved workspace organization."
+    },
+    {
+        "id": 362,
+        "name": "Motorola",
+        "categorie": 62,
+        "price": 899.99,
+        "description": "Eco-friendly electric bike with a 30-mile range."
+    },
+    {
+        "id": 363,
+        "name": "Lava",
+        "categorie": 63,
+        "price": 4.99,
+        "description": "Crunchy granola made with oats, almonds, and coconut flakes."
+    },
+    {
+        "id": 364,
+        "name": "Nokia",
+        "categorie": 64,
+        "price": 29.99,
+        "description": "Ergonomic stand for laptops to improve posture while working."
+    },
+    {
+        "id": 365,
+        "name": "Apple",
+        "categorie": 65,
+        "price": 29.99,
+        "description": "Adjustable tripod for smartphones and cameras."
+    },
+    {
+        "id": 366,
+        "name": "Samsung",
+        "categorie": 66,
+        "price": 6.99,
+        "description": "Roasted pistachios, a healthy and tasty snack."
+    },
+    {
+        "id": 367,
+        "name": "Nokia",
+        "categorie": 67,
+        "price": 24.99,
+        "description": "Microwaveable heat pad for soothing muscle aches."
+    },
+    {
+        "id": 368,
+        "name": "Samsung",
+        "categorie": 68,
+        "price": 32.99,
+        "description": "Durable 50-foot garden hose with nozzle."
+    },
+    {
+        "id": 369,
+        "name": "Nokia",
+        "categorie": 69,
+        "price": 3.29,
+        "description": "Colorful veggie chips made from beets, carrots, and sweet potatoes."
+    },
+    {
+        "id": 370,
+        "name": "Samsung",
+        "categorie": 70,
+        "price": 4.29,
+        "description": "Chickpeas mixed with fresh vegetables and herbs, a nutritious snack or salad."
+    },
+    {
+        "id": 371,
+        "name": "Nokia",
+        "categorie": 71,
+        "price": 24.99,
+        "description": "Fun kit for aspiring explorers with binoculars and a compass."
+    },
+    {
+        "id": 372,
+        "name": "alcatel",
+        "categorie": 72,
+        "price": 12.99,
+        "description": "Moisturizing body wash with natural ingredients."
+    },
+    {
+        "id": 373,
+        "name": "Philips",
+        "categorie": 73,
+        "price": 99.99,
+        "description": "Energy-efficient infrared heater for home use."
+    },
+    {
+        "id": 374,
+        "name": "Micromax",
+        "categorie": 74,
+        "price": 2.99,
+        "description": "Rich chocolate syrup for ice cream or beverages."
+    },
+    {
+        "id": 375,
+        "name": "Samsung",
+        "categorie": 75,
+        "price": 4.99,
+        "description": "Creamy ice cream with refreshing mint flavor and chocolate chips."
+    },
+    {
+        "id": 376,
+        "name": "Samsung",
+        "categorie": 76,
+        "price": 19.99,
+        "description": "Stylish watering can for plants with easy pouring nozzle."
+    },
+    {
+        "id": 377,
+        "name": "Pantech",
+        "categorie": 77,
+        "price": 8.99,
+        "description": "Grilled chicken skewers glazed with teriyaki sauce."
+    },
+    {
+        "id": 378,
+        "name": "Wiko",
+        "categorie": 78,
+        "price": 49.99,
+        "description": "Durable and spacious backpack for travel and school."
+    },
+    {
+        "id": 379,
+        "name": "Lenovo",
+        "categorie": 79,
+        "price": 99.99,
+        "description": "Stylish and spacious case for makeup and beauty products."
+    },
+    {
+        "id": 380,
+        "name": "ZTE",
+        "categorie": 80,
+        "price": 89.99,
+        "description": "Powerful grinder for making sausage and burgers at home."
+    },
+    {
+        "id": 381,
+        "name": "alcatel",
+        "categorie": 81,
+        "price": 39.99,
+        "description": "Blender for smoothies with a portable cup."
+    },
+    {
+        "id": 382,
+        "name": "Micromax",
+        "categorie": 82,
+        "price": 5.49,
+        "description": "Spicy and smoky sausage great for grilling."
+    },
+    {
+        "id": 383,
+        "name": "Panasonic",
+        "categorie": 83,
+        "price": 4.99,
+        "description": "Gluten-free pasta made from lentils, high in protein."
+    },
+    {
+        "id": 384,
+        "name": "Toshiba",
+        "categorie": 84,
+        "price": 5.49,
+        "description": "A mix of strawberries, blueberries, and raspberries, great for smoothies or desserts."
+    },
+    {
+        "id": 385,
+        "name": "Sagem",
+        "categorie": 85,
+        "price": 2.49,
+        "description": "Nutrient-rich broccoli, easy to add to any meal."
+    },
+    {
+        "id": 386,
+        "name": "Samsung",
+        "categorie": 86,
+        "price": 12.99,
+        "description": "Gentle glove for brushing and massaging your pet."
+    },
+    {
+        "id": 387,
+        "name": "Motorola",
+        "categorie": 87,
+        "price": 99.99,
+        "description": "Sharp tailored blazer perfect for office wear and professional events."
+    },
+    {
+        "id": 388,
+        "name": "QMobile",
+        "categorie": 88,
+        "price": 12.99,
+        "description": "Activity workbook for early learning and fun."
+    },
+    {
+        "id": 389,
+        "name": "Huawei",
+        "categorie": 89,
+        "price": 12.99,
+        "description": "Easy-to-use tiebacks for curtains or drapes."
+    },
+    {
+        "id": 390,
+        "name": "Huawei",
+        "categorie": 90,
+        "price": 24.99,
+        "description": "All-in-one kit for growing herbs in your kitchen."
+    },
+    {
+        "id": 391,
+        "name": "LG",
+        "categorie": 91,
+        "price": 3.99,
+        "description": "Nutty flavored lentils, perfect for soups and salads."
+    },
+    {
+        "id": 392,
+        "name": "alcatel",
+        "categorie": 92,
+        "price": 79.99,
+        "description": "Compact air fryer for healthier cooking."
+    },
+    {
+        "id": 393,
+        "name": "Apple",
+        "categorie": 93,
+        "price": 28.99,
+        "description": "Clear feeder that attaches to windows for bird watching."
+    },
+    {
+        "id": 394,
+        "name": "LG",
+        "categorie": 94,
+        "price": 19.99,
+        "description": "Color-changing 3D night light for kids' rooms."
+    },
+    {
+        "id": 395,
+        "name": "Icemobile",
+        "categorie": 95,
+        "price": 1.5,
+        "description": "Tender sweet corn kernels, ready to eat or add to dishes."
+    },
+    {
+        "id": 396,
+        "name": "LG",
+        "categorie": 96,
+        "price": 89.99,
+        "description": "Powerful grinder for making sausage and burgers at home."
+    },
+    {
+        "id": 397,
+        "name": "Huawei",
+        "categorie": 97,
+        "price": 5.99,
+        "description": "Healthy salad made with quinoa, almonds, and mixed greens, perfect for a light meal."
+    },
+    {
+        "id": 398,
+        "name": "Motorola",
+        "categorie": 98,
+        "price": 3.99,
+        "description": "Chewy granola bars made with honey and almonds."
+    },
+    {
+        "id": 399,
+        "name": "Asus",
+        "categorie": 99,
+        "price": 19.99,
+        "description": "Reusable mat that prevents food from sticking to the grill."
+    },
+    {
+        "id": 400,
+        "name": "Sony",
+        "categorie": 100,
+        "price": 19.99,
+        "description": "Bluetooth-enabled key tracker to find lost items easily."
+    },
+    {
+        "id": 401,
+        "name": "Motorola",
+        "categorie": 1,
+        "price": 11.99,
+        "description": "High-precision oven thermometer for accurate cooking."
+    },
+    {
+        "id": 402,
+        "name": "Apple",
+        "categorie": 2,
+        "price": 24.99,
+        "description": "Magnetic puzzle assembly board for kids."
+    },
+    {
+        "id": 403,
+        "name": "Huawei",
+        "categorie": 3,
+        "price": 1.29,
+        "description": "Concentrated tomato paste, great for sauces."
+    },
+    {
+        "id": 404,
+        "name": "LG",
+        "categorie": 4,
+        "price": 5.49,
+        "description": "A mix of strawberries, blueberries, and raspberries, great for smoothies or desserts."
+    },
+    {
+        "id": 405,
+        "name": "Apple",
+        "categorie": 5,
+        "price": 5.29,
+        "description": "Creamy mayonnaise made with avocado oil for a healthier twist."
+    },
+    {
+        "id": 406,
+        "name": "Oppo",
+        "categorie": 6,
+        "price": 8.99,
+        "description": "Stylish markers for labeling your indoor garden plants."
+    },
+    {
+        "id": 407,
+        "name": "Sagem",
+        "categorie": 7,
+        "price": 29.99,
+        "description": "Polarized sunglasses with UV protection."
+    },
+    {
+        "id": 408,
+        "name": "Gigabyte",
+        "categorie": 8,
+        "price": 39.99,
+        "description": "Set for making fondue at home."
+    },
+    {
+        "id": 409,
+        "name": "ZTE",
+        "categorie": 9,
+        "price": 119.99,
+        "description": "High-quality headphones that block out external noise for immersive listening."
+    },
+    {
+        "id": 410,
+        "name": "Sharp",
+        "categorie": 10,
+        "price": 23.99,
+        "description": "Eco-friendly phone case designed to decompose safely."
+    },
+    {
+        "id": 411,
+        "name": "Samsung",
+        "categorie": 11,
+        "price": 19.99,
+        "description": "Scented bath salts for relaxation and self-care."
+    },
+    {
+        "id": 412,
+        "name": "Sony",
+        "categorie": 12,
+        "price": 2.79,
+        "description": "Perfect dipping sauce or stir-fry addition for a sweet and tangy flavor."
+    },
+    {
+        "id": 413,
+        "name": "alcatel",
+        "categorie": 13,
+        "price": 19.99,
+        "description": "Adjustable grinders for fresh spices at the table."
+    },
+    {
+        "id": 414,
+        "name": "Oppo",
+        "categorie": 14,
+        "price": 12.99,
+        "description": "Stylish hooks to easily hang shower curtains."
+    },
+    {
+        "id": 415,
+        "name": "Motorola",
+        "categorie": 15,
+        "price": 5.99,
+        "description": "A convenient powder mix combining greens and fruits for smoothies."
+    },
+    {
+        "id": 416,
+        "name": "Micromax",
+        "categorie": 16,
+        "price": 199.99,
+        "description": "Ergonomic office chair with lumbar support and adjustable height."
+    },
+    {
+        "id": 417,
+        "name": "ZTE",
+        "categorie": 17,
+        "price": 5.99,
+        "description": "A blend of mixed nuts for snacking."
+    },
+    {
+        "id": 418,
+        "name": "Lava",
+        "categorie": 18,
+        "price": 12.99,
+        "description": "Versatile holder that can be used on desks, cars, and more."
+    },
+    {
+        "id": 419,
+        "name": "HTC",
+        "categorie": 19,
+        "price": 3.49,
+        "description": "Thin rice noodles, ideal for stir-fries and soups."
+    },
+    {
+        "id": 420,
+        "name": "LG",
+        "categorie": 20,
+        "price": 54.99,
+        "description": "Large electric griddle for family meals."
+    },
+    {
+        "id": 421,
+        "name": "HTC",
+        "categorie": 21,
+        "price": 6.49,
+        "description": "Creamy risotto infused with wild mushrooms."
+    },
+    {
+        "id": 422,
+        "name": "ZTE",
+        "categorie": 22,
+        "price": 5.79,
+        "description": "Lentils cooked in a coconut curry for a hearty meal."
+    },
+    {
+        "id": 423,
+        "name": "verykool",
+        "categorie": 23,
+        "price": 89.99,
+        "description": "Versatile multi-cooker for pressure cooking and slow cooking."
+    },
+    {
+        "id": 424,
+        "name": "Pantech",
+        "categorie": 24,
+        "price": 1.99,
+        "description": "Hearty lentil soup for a quick meal."
+    },
+    {
+        "id": 425,
+        "name": "verykool",
+        "categorie": 25,
+        "price": 2.79,
+        "description": "Rich and creamy almond milk with a hint of chocolate."
+    },
+    {
+        "id": 426,
+        "name": "Ulefone",
+        "categorie": 26,
+        "price": 14.99,
+        "description": "Journal to record workouts and nutrition."
+    },
+    {
+        "id": 427,
+        "name": "QMobile",
+        "categorie": 27,
+        "price": 29.99,
+        "description": "Personalized wooden puzzles for children that encourage learning."
+    },
+    {
+        "id": 428,
+        "name": "Samsung",
+        "categorie": 28,
+        "price": 6.29,
+        "description": "Delicious veggie burgers loaded with grilled vegetables."
+    },
+    {
+        "id": 429,
+        "name": "Ericsson",
+        "categorie": 29,
+        "price": 19.99,
+        "description": "Personalized nameplate for offices or homes."
+    },
+    {
+        "id": 430,
+        "name": "verykool",
+        "categorie": 30,
+        "price": 29.99,
+        "description": "Soft and breathable cotton sweatpants perfect for lounging or workouts."
+    },
+    {
+        "id": 431,
+        "name": "Ericsson",
+        "categorie": 31,
+        "price": 14.99,
+        "description": "Universal mount for smartphones on motorcycles."
+    },
+    {
+        "id": 432,
+        "name": "alcatel",
+        "categorie": 32,
+        "price": 27.99,
+        "description": "Lightweight hammock for easy setup anywhere."
+    },
+    {
+        "id": 433,
+        "name": "Huawei",
+        "categorie": 33,
+        "price": 25.99,
+        "description": "Add a pop of color with this stylish patterned knit scarf."
+    },
+    {
+        "id": 434,
+        "name": "Samsung",
+        "categorie": 34,
+        "price": 1.79,
+        "description": "Twisted pasta perfect for salads and pasta dishes."
+    },
+    {
+        "id": 435,
+        "name": "Nokia",
+        "categorie": 35,
+        "price": 16.99,
+        "description": "Cute dispenser for bathrooms or kitchens featuring paw prints."
+    },
+    {
+        "id": 436,
+        "name": "HTC",
+        "categorie": 36,
+        "price": 2.29,
+        "description": "Delicious cookies with rich chocolate flavor and a hint of mint."
+    },
+    {
+        "id": 437,
+        "name": "QMobile",
+        "categorie": 37,
+        "price": 49.99,
+        "description": "Thick and durable mat for workouts and yoga."
+    },
+    {
+        "id": 438,
+        "name": "Lenovo",
+        "categorie": 38,
+        "price": 15.99,
+        "description": "Premium potting soil for indoor plants."
+    },
+    {
+        "id": 439,
+        "name": "Sony",
+        "categorie": 39,
+        "price": 2.99,
+        "description": "Rich spaghetti sauce, a perfect pasta sauce."
+    },
+    {
+        "id": 440,
+        "name": "Yezz",
+        "categorie": 40,
+        "price": 29.99,
+        "description": "Complete crafting kit for kids and adults."
+    },
+    {
+        "id": 441,
+        "name": "Motorola",
+        "categorie": 41,
+        "price": 1.99,
+        "description": "Spicy seasoning mix for all your favorite dishes."
+    },
+    {
+        "id": 442,
+        "name": "Panasonic",
+        "categorie": 42,
+        "price": 199.99,
+        "description": "Compact projector for movies and presentations on the go."
+    },
+    {
+        "id": 443,
+        "name": "Samsung",
+        "categorie": 43,
+        "price": 29.99,
+        "description": "Compact hand mixer for easy baking."
+    },
+    {
+        "id": 444,
+        "name": "Archos",
+        "categorie": 44,
+        "price": 10.99,
+        "description": "Flavorful chicken wings marinated in a sweet teriyaki glaze."
+    },
+    {
+        "id": 445,
+        "name": "Infinix",
+        "categorie": 45,
+        "price": 59.99,
+        "description": "Cozy oversized sweater perfect for chilly days with a textured knit design."
+    },
+    {
+        "id": 446,
+        "name": "Micromax",
+        "categorie": 46,
+        "price": 9.99,
+        "description": "Assorted cloths for cleaning electronics and delicate surfaces."
+    },
+    {
+        "id": 447,
+        "name": "BLU",
+        "categorie": 47,
+        "price": 39.99,
+        "description": "Small fridge designed to keep skincare products cool and fresh."
+    },
+    {
+        "id": 448,
+        "name": "Lava",
+        "categorie": 48,
+        "price": 59.99,
+        "description": "Electric food steamer for healthy cooking."
+    },
+    {
+        "id": 449,
+        "name": "Micromax",
+        "categorie": 49,
+        "price": 99.99,
+        "description": "Ideal for creating custom designs on t-shirts and fabrics."
+    },
+    {
+        "id": 450,
+        "name": "Motorola",
+        "categorie": 50,
+        "price": 29.99,
+        "description": "Relaxed fit joggers made from soft fleece, ideal for lounging or workouts."
+    },
+    {
+        "id": 451,
+        "name": "Tecno",
+        "categorie": 51,
+        "price": 2.99,
+        "description": "Thin and crispy flatbreads, perfect for dips."
+    },
+    {
+        "id": 452,
+        "name": "Asus",
+        "categorie": 52,
+        "price": 7.99,
+        "description": "Rich and smooth cold brew coffee concentrate, just add water or milk."
+    },
+    {
+        "id": 453,
+        "name": "Kyocera",
+        "categorie": 53,
+        "price": 8.99,
+        "description": "A delicious chicken dish featuring honey and sesame flavors."
+    },
+    {
+        "id": 454,
+        "name": "Honor",
+        "categorie": 54,
+        "price": 5.99,
+        "description": "Savory, protein-rich beef jerky for on-the-go snacking."
+    },
+    {
+        "id": 455,
+        "name": "Allview",
+        "categorie": 55,
+        "price": 19.99,
+        "description": "Self-cleaning grooming brush for cats and dogs."
+    },
+    {
+        "id": 456,
+        "name": "ZTE",
+        "categorie": 56,
+        "price": 89.99,
+        "description": "Rechargeable massage gun for relieving muscle soreness."
+    },
+    {
+        "id": 457,
+        "name": "LG",
+        "categorie": 57,
+        "price": 3.99,
+        "description": "Oven-roasted potatoes tossed in garlic and parmesan cheese seasoning."
+    },
+    {
+        "id": 458,
+        "name": "Apple",
+        "categorie": 58,
+        "price": 7.49,
+        "description": "Marinated beef strips in teriyaki sauce for easy grilling."
+    },
+    {
+        "id": 459,
+        "name": "Huawei",
+        "categorie": 59,
+        "price": 7.99,
+        "description": "A gluten-free pizza crust made from cauliflower."
+    },
+    {
+        "id": 460,
+        "name": "Micromax",
+        "categorie": 60,
+        "price": 29.99,
+        "description": "Essential tools for bike maintenance and repair."
+    },
+    {
+        "id": 461,
+        "name": "TCL",
+        "categorie": 61,
+        "price": 4.29,
+        "description": "Crispy sweet potato bites, delicious as a side or snack."
+    },
+    {
+        "id": 462,
+        "name": "Apple",
+        "categorie": 62,
+        "price": 5.49,
+        "description": "Creamy goat cheese infused with herbs and garlic, perfect for spreading on crackers."
+    },
+    {
+        "id": 463,
+        "name": "ZTE",
+        "categorie": 63,
+        "price": 4.99,
+        "description": "Fresh sliced strawberries for toppings or snacking"
+    },
+    {
+        "id": 464,
+        "name": "Samsung",
+        "categorie": 64,
+        "price": 2.29,
+        "description": "Sweet pineapple chunks in syrup."
+    },
+    {
+        "id": 465,
+        "name": "HTC",
+        "categorie": 65,
+        "price": 4.19,
+        "description": "Healthy pasta alternative made from chickpeas"
+    },
+    {
+        "id": 466,
+        "name": "O2",
+        "categorie": 66,
+        "price": 10.99,
+        "description": "Flexible tray for easy-release ice cubes."
+    },
+    {
+        "id": 467,
+        "name": "XOLO",
+        "categorie": 67,
+        "price": 14.99,
+        "description": "Multi-functional grater for cheese and vegetables."
+    },
+    {
+        "id": 468,
+        "name": "Xiaomi",
+        "categorie": 68,
+        "price": 2.29,
+        "description": "A seasoning blend of garlic and herbs to enhance any dish."
+    },
+    {
+        "id": 469,
+        "name": "Samsung",
+        "categorie": 69,
+        "price": 6.29,
+        "description": "Delicious veggie burgers loaded with grilled vegetables."
+    },
+    {
+        "id": 470,
+        "name": "Nokia",
+        "categorie": 70,
+        "price": 4.29,
+        "description": "Fresh basil pesto, perfect for pasta or as a sandwich spread."
+    },
+    {
+        "id": 471,
+        "name": "Energizer",
+        "categorie": 71,
+        "price": 1.99,
+        "description": "Individually packaged bars made with dried fruits and nuts."
+    },
+    {
+        "id": 472,
+        "name": "Sharp",
+        "categorie": 72,
+        "price": 39.99,
+        "description": "Regulate water temperature for safe and comfortable showers."
+    },
+    {
+        "id": 473,
+        "name": "Xiaomi",
+        "categorie": 73,
+        "price": 4.29,
+        "description": "Delicious cookies with cranberries and almonds in every bite."
+    },
+    {
+        "id": 474,
+        "name": "HTC",
+        "categorie": 74,
+        "price": 3.99,
+        "description": "Fresh greens and veggies for a quick Asian-inspired salad."
+    },
+    {
+        "id": 475,
+        "name": "Samsung",
+        "categorie": 75,
+        "price": 5.99,
+        "description": "Frozen mini meatballs that are great as a snack or in pasta dishes."
+    },
+    {
+        "id": 476,
+        "name": "Sony",
+        "categorie": 76,
+        "price": 39.99,
+        "description": "Soft throw blanket for cozy home decor."
+    },
+    {
+        "id": 477,
+        "name": "alcatel",
+        "categorie": 77,
+        "price": 2.29,
+        "description": "A mix to create a delicious onion dip for parties or snacking."
+    },
+    {
+        "id": 478,
+        "name": "Maxwest",
+        "categorie": 78,
+        "price": 4.19,
+        "description": "Crispy and delicious biscotti flavored with cranberry and almond."
+    },
+    {
+        "id": 479,
+        "name": "Motorola",
+        "categorie": 79,
+        "price": 29.99,
+        "description": "Portable coffee maker for rich brews on the go."
+    },
+    {
+        "id": 480,
+        "name": "BLU",
+        "categorie": 80,
+        "price": 89.99,
+        "description": "A chic leather crossbody bag for everyday use."
+    },
+    {
+        "id": 481,
+        "name": "Samsung",
+        "categorie": 81,
+        "price": 34.99,
+        "description": "Fun robot that engages kids with games and activities."
+    },
+    {
+        "id": 482,
+        "name": "Samsung",
+        "categorie": 82,
+        "price": 2.49,
+        "description": "Crumbled feta cheese, perfect for salads and Mediterranean dishes."
+    },
+    {
+        "id": 483,
+        "name": "HTC",
+        "categorie": 83,
+        "price": 89.99,
+        "description": "Stabilizer for smooth video recording with smartphones."
+    },
+    {
+        "id": 484,
+        "name": "Energizer",
+        "categorie": 84,
+        "price": 4.29,
+        "description": "Roasted almonds coated in a sweet maple and cinnamon mixture."
+    },
+    {
+        "id": 485,
+        "name": "Sony",
+        "categorie": 85,
+        "price": 2.99,
+        "description": "Add a smoky flavor to your dishes."
+    },
+    {
+        "id": 486,
+        "name": "QMobile",
+        "categorie": 86,
+        "price": 34.99,
+        "description": "Blender designed for smoothies and shakes on the go."
+    },
+    {
+        "id": 487,
+        "name": "alcatel",
+        "categorie": 87,
+        "price": 44.99,
+        "description": "Complete set to brew coffee with different methods."
+    },
+    {
+        "id": 488,
+        "name": "Samsung",
+        "categorie": 88,
+        "price": 49.99,
+        "description": "Durable backpack designed for hiking and outdoor excursions."
+    },
+    {
+        "id": 489,
+        "name": "Huawei",
+        "categorie": 89,
+        "price": 89.99,
+        "description": "Comfortable and rugged boots designed for hiking."
+    },
+    {
+        "id": 490,
+        "name": "HTC",
+        "categorie": 90,
+        "price": 7.49,
+        "description": "Gourmet potato skins loaded with cheddar cheese and bacon."
+    },
+    {
+        "id": 491,
+        "name": "Micromax",
+        "categorie": 91,
+        "price": 129.99,
+        "description": "A luxurious faux fur coat that adds glamour to any outfit."
+    },
+    {
+        "id": 492,
+        "name": "Samsung",
+        "categorie": 92,
+        "price": 22.99,
+        "description": "Colorful and child-friendly gardening tools for little hands."
+    },
+    {
+        "id": 493,
+        "name": "Nokia",
+        "categorie": 93,
+        "price": 6.49,
+        "description": "Gluten-free biscuits made with almond flour."
+    },
+    {
+        "id": 494,
+        "name": "Samsung",
+        "categorie": 94,
+        "price": 3.59,
+        "description": "A healthy vegan cheese alternative packed with nutrients and flavor."
+    },
+    {
+        "id": 495,
+        "name": "Asus",
+        "categorie": 95,
+        "price": 29.99,
+        "description": "Eco-friendly string lights for outdoor decor."
+    },
+    {
+        "id": 496,
+        "name": "Motorola",
+        "categorie": 96,
+        "price": 3.99,
+        "description": "Spicy salsa with chipotle and lime for a zesty kick."
+    },
+    {
+        "id": 497,
+        "name": "Panasonic",
+        "categorie": 97,
+        "price": 6.49,
+        "description": "Creamy vegetable curry enriched with spices."
+    },
+    {
+        "id": 498,
+        "name": "alcatel",
+        "categorie": 98,
+        "price": 34.99,
+        "description": "Spacious duffle bag for weekend getaways."
+    },
+    {
+        "id": 499,
+        "name": "HTC",
+        "categorie": 99,
+        "price": 6.99,
+        "description": "Flour tortilla filled with cheese and a medley of vegetables."
+    },
+    {
+        "id": 500,
+        "name": "Xiaomi",
+        "categorie": 100,
+        "price": 5.99,
+        "description": "Savory, protein-rich beef jerky for on-the-go snacking."
+    },
+    {
+        "id": 501,
+        "name": "Samsung",
+        "categorie": 1,
+        "price": 16.99,
+        "description": "Cute dispenser for bathrooms or kitchens featuring paw prints."
+    },
+    {
+        "id": 502,
+        "name": "Samsung",
+        "categorie": 2,
+        "price": 24.99,
+        "description": "DIY kit to convert your smartphone into a mini projector."
+    },
+    {
+        "id": 503,
+        "name": "Haier",
+        "categorie": 3,
+        "price": 14.99,
+        "description": "Secure phone mount for your vehicle's dashboard."
+    },
+    {
+        "id": 504,
+        "name": "Nokia",
+        "categorie": 4,
+        "price": 4.29,
+        "description": "Fresh basil pesto, perfect for pasta or as a sandwich spread."
+    },
+    {
+        "id": 505,
+        "name": "Motorola",
+        "categorie": 5,
+        "price": 8.99,
+        "description": "Heavy-duty scissors for crafting and office use."
+    },
+    {
+        "id": 506,
+        "name": "Apple",
+        "categorie": 6,
+        "price": 3.49,
+        "description": "Delicious muffins filled with apples and a hint of cinnamon for breakfast."
+    },
+    {
+        "id": 507,
+        "name": "NEC",
+        "categorie": 7,
+        "price": 3.99,
+        "description": "Delicious pretzel bites with a sweet honey mustard flavor, perfect for dipping."
+    },
+    {
+        "id": 508,
+        "name": "Plum",
+        "categorie": 8,
+        "price": 3.99,
+        "description": "Creamy dip made with caramelized onions, perfect for chips or veggies."
+    },
+    {
+        "id": 509,
+        "name": "Motorola",
+        "categorie": 9,
+        "price": 79.99,
+        "description": "Video baby monitor with night vision."
+    },
+    {
+        "id": 510,
+        "name": "Samsung",
+        "categorie": 10,
+        "price": 29.99,
+        "description": "Engaging kit with science experiments for children."
+    },
+    {
+        "id": 511,
+        "name": "Philips",
+        "categorie": 11,
+        "price": 12.99,
+        "description": "Accurate stopwatch for timing events and workouts."
+    },
+    {
+        "id": 512,
+        "name": "Sony",
+        "categorie": 12,
+        "price": 12.99,
+        "description": "Durable cable for connecting devices with high-definition video."
+    },
+    {
+        "id": 513,
+        "name": "Motorola",
+        "categorie": 13,
+        "price": 24.99,
+        "description": "Lightweight and moisture-wicking racerback tank for workouts."
+    },
+    {
+        "id": 514,
+        "name": "Gigabyte",
+        "categorie": 14,
+        "price": 79.99,
+        "description": "Smart tailored dress pants, perfect for work or formal events."
+    },
+    {
+        "id": 515,
+        "name": "Motorola",
+        "categorie": 15,
+        "price": 2.49,
+        "description": "Delicious canned pineapple rings for desserts or salads."
+    },
+    {
+        "id": 516,
+        "name": "Gionee",
+        "categorie": 16,
+        "price": 19.99,
+        "description": "A cozy cable knit beanie to keep your head warm in winter."
+    },
+    {
+        "id": 517,
+        "name": "Huawei",
+        "categorie": 17,
+        "price": 12.99,
+        "description": "Versatile holder that can be used on desks, cars, and more."
+    },
+    {
+        "id": 518,
+        "name": "Motorola",
+        "categorie": 18,
+        "price": 9.99,
+        "description": "Marinated chicken skewers with lemon and dill flavor, grilled to perfection."
+    },
+    {
+        "id": 519,
+        "name": "Asus",
+        "categorie": 19,
+        "price": 2.29,
+        "description": "Authentic Italian pasta, perfect for a classic meal."
+    },
+    {
+        "id": 520,
+        "name": "Amoi",
+        "categorie": 20,
+        "price": 4.49,
+        "description": "Delicious plant-based burger made with organic black beans and spices."
+    },
+    {
+        "id": 521,
+        "name": "Sony",
+        "categorie": 21,
+        "price": 34.99,
+        "description": "Eco-friendly bamboo cutting boards in various sizes."
+    },
+    {
+        "id": 522,
+        "name": "verykool",
+        "categorie": 22,
+        "price": 4.99,
+        "description": "A simple, no-bake cheesecake mix to create your own delicious cheesecake."
+    },
+    {
+        "id": 523,
+        "name": "Yezz",
+        "categorie": 23,
+        "price": 5.99,
+        "description": "All-in-one kit for making pasta salad easily."
+    },
+    {
+        "id": 524,
+        "name": "Honor",
+        "categorie": 24,
+        "price": 58.99,
+        "description": "Double-sided art easel for painting and drawing."
+    },
+    {
+        "id": 525,
+        "name": "Meizu",
+        "categorie": 25,
+        "price": 3.99,
+        "description": "Rich and buttery mashed potatoes with roasted garlic."
+    },
+    {
+        "id": 526,
+        "name": "Oppo",
+        "categorie": 26,
+        "price": 24.99,
+        "description": "Fun and colorful wall decals for children's rooms."
+    },
+    {
+        "id": 527,
+        "name": "LG",
+        "categorie": 27,
+        "price": 4.99,
+        "description": "Crunchy granola clusters, perfect for snacking or topping yogurt."
+    },
+    {
+        "id": 528,
+        "name": "Plum",
+        "categorie": 28,
+        "price": 49.99,
+        "description": "Soft blanket that provides warmth with adjustable settings."
+    },
+    {
+        "id": 529,
+        "name": "Celkon",
+        "categorie": 29,
+        "price": 39.99,
+        "description": "Portable solar charger for outdoor adventures."
+    },
+    {
+        "id": 530,
+        "name": "Vodafone",
+        "categorie": 30,
+        "price": 99.99,
+        "description": "Ideal for creating custom designs on t-shirts and fabrics."
+    },
+    {
+        "id": 531,
+        "name": "Spice",
+        "categorie": 31,
+        "price": 3.49,
+        "description": "Crispy and sweet dried apple slices"
+    },
+    {
+        "id": 532,
+        "name": "Motorola",
+        "categorie": 32,
+        "price": 2.99,
+        "description": "Delicious maple-flavored oatmeal for a quick breakfast."
+    },
+    {
+        "id": 533,
+        "name": "Apple",
+        "categorie": 33,
+        "price": 3.39,
+        "description": "A sweet and tangy vinaigrette dressing for salads."
+    },
+    {
+        "id": 534,
+        "name": "XOLO",
+        "categorie": 34,
+        "price": 79.99,
+        "description": "A stylish midi dress with stylish pleats, suitable for any occasion."
+    },
+    {
+        "id": 535,
+        "name": "Ericsson",
+        "categorie": 35,
+        "price": 2.99,
+        "description": "Spreadable cream cheese blended with garlic and herbs."
+    },
+    {
+        "id": 536,
+        "name": "Motorola",
+        "categorie": 36,
+        "price": 1.99,
+        "description": "Fine semolina flour, perfect for pasta and desserts."
+    },
+    {
+        "id": 537,
+        "name": "NIU",
+        "categorie": 37,
+        "price": 3.29,
+        "description": "Crunchy pretzel nuggets filled with creamy peanut butter."
+    },
+    {
+        "id": 538,
+        "name": "Prestigio",
+        "categorie": 38,
+        "price": 89.99,
+        "description": "Comfortable and rugged boots designed for hiking."
+    },
+    {
+        "id": 539,
+        "name": "Samsung",
+        "categorie": 39,
+        "price": 69.99,
+        "description": "Durable and adjustable jump box for effective workouts."
+    },
+    {
+        "id": 540,
+        "name": "Vodafone",
+        "categorie": 40,
+        "price": 24.99,
+        "description": "All-in-one kit for growing herbs in your kitchen."
+    },
+    {
+        "id": 541,
+        "name": "LG",
+        "categorie": 41,
+        "price": 29.99,
+        "description": "Soft and breathable cotton sweatpants perfect for lounging or workouts."
+    },
+    {
+        "id": 542,
+        "name": "Motorola",
+        "categorie": 42,
+        "price": 4.89,
+        "description": "Frozen mango chunks for smoothies or snacking."
+    },
+    {
+        "id": 543,
+        "name": "Samsung",
+        "categorie": 43,
+        "price": 3.29,
+        "description": "Creamy chickpea dip blended with tahini and garlic."
+    },
+    {
+        "id": 544,
+        "name": "Micromax",
+        "categorie": 44,
+        "price": 4.49,
+        "description": "Roasted cashews coated in honey and sesame seeds for a sweet treat."
+    },
+    {
+        "id": 545,
+        "name": "Lenovo",
+        "categorie": 45,
+        "price": 15.99,
+        "description": "Durable pet leash with comfortable handle."
+    },
+    {
+        "id": 546,
+        "name": "LG",
+        "categorie": 46,
+        "price": 24.99,
+        "description": "Control your lights remotely with a smartphone app."
+    },
+    {
+        "id": 547,
+        "name": "VK",
+        "categorie": 47,
+        "price": 35,
+        "description": "Dimmable LED desk lamp with USB charging port."
+    },
+    {
+        "id": 548,
+        "name": "Sony",
+        "categorie": 48,
+        "price": 199.99,
+        "description": "Folding massage table for professional or home use."
+    },
+    {
+        "id": 549,
+        "name": "Sony",
+        "categorie": 49,
+        "price": 5.99,
+        "description": "Delicious veggie burger patties for grilling or frying."
+    },
+    {
+        "id": 550,
+        "name": "Motorola",
+        "categorie": 50,
+        "price": 2.99,
+        "description": "Delicious maple-flavored oatmeal for a quick breakfast."
+    },
+    {
+        "id": 551,
+        "name": "Yezz",
+        "categorie": 51,
+        "price": 4.99,
+        "description": "A delicious creamy dip featuring spinach and artichokes, perfect for parties."
+    },
+    {
+        "id": 552,
+        "name": "Huawei",
+        "categorie": 52,
+        "price": 12.99,
+        "description": "Safe and easy-to-use nail clippers for pets."
+    },
+    {
+        "id": 553,
+        "name": "Oppo",
+        "categorie": 53,
+        "price": 3.49,
+        "description": "Delicious noodles tossed in a sesamegarlic sauce."
+    },
+    {
+        "id": 554,
+        "name": "Plum",
+        "categorie": 54,
+        "price": 19.99,
+        "description": "Protects surfaces while baking or cooking with hot items."
+    },
+    {
+        "id": 555,
+        "name": "HTC",
+        "categorie": 55,
+        "price": 99.99,
+        "description": "Compact wireless printer for home use."
+    },
+    {
+        "id": 556,
+        "name": "TCL",
+        "categorie": 56,
+        "price": 4.99,
+        "description": "Tangy feta cheese, perfect for salads and sandwiches."
+    },
+    {
+        "id": 557,
+        "name": "Spice",
+        "categorie": 57,
+        "price": 34.99,
+        "description": "Complete kit for crafting your own scented soaps."
+    },
+    {
+        "id": 558,
+        "name": "alcatel",
+        "categorie": 58,
+        "price": 29.99,
+        "description": "Set of baking sheets for effortless baking."
+    },
+    {
+        "id": 559,
+        "name": "Huawei",
+        "categorie": 59,
+        "price": 3.49,
+        "description": "Creamy cheddar cheese slices, perfect for sandwiches and snacks."
+    },
+    {
+        "id": 560,
+        "name": "Sony",
+        "categorie": 60,
+        "price": 89.99,
+        "description": "Convert your desk to a standing desk easily."
+    },
+    {
+        "id": 561,
+        "name": "Huawei",
+        "categorie": 61,
+        "price": 2.59,
+        "description": "A delicious sauce perfect for stir-frying or glazing meats."
+    },
+    {
+        "id": 562,
+        "name": "Lenovo",
+        "categorie": 62,
+        "price": 34.99,
+        "description": "String lights for decorating holiday trees."
+    },
+    {
+        "id": 563,
+        "name": "Nokia",
+        "categorie": 63,
+        "price": 39.99,
+        "description": "UV sanitizer that kills germs on your smartphone."
+    },
+    {
+        "id": 564,
+        "name": "Samsung",
+        "categorie": 64,
+        "price": 34.99,
+        "description": "Trendy belt bag for hands-free carrying."
+    },
+    {
+        "id": 565,
+        "name": "Samsung",
+        "categorie": 65,
+        "price": 49.99,
+        "description": "Versatile folding table great for events or outdoor activities."
+    },
+    {
+        "id": 566,
+        "name": "Sony",
+        "categorie": 66,
+        "price": 4.99,
+        "description": "Crispy and chewy granola bars, perfect for on-the-go."
+    },
+    {
+        "id": 567,
+        "name": "Oppo",
+        "categorie": 67,
+        "price": 34.99,
+        "description": "Space-efficient shoe rack to keep entryways organized."
+    },
+    {
+        "id": 568,
+        "name": "Xiaomi",
+        "categorie": 68,
+        "price": 3.49,
+        "description": "Spicy and flavorful soup made with black beans, perfect as a meal or starter."
+    },
+    {
+        "id": 569,
+        "name": "LG",
+        "categorie": 69,
+        "price": 29.99,
+        "description": "Elegant cover that protects your notebook with style."
+    },
+    {
+        "id": 570,
+        "name": "Philips",
+        "categorie": 70,
+        "price": 19.99,
+        "description": "Bright LED flashlight with adjustable beam."
+    },
+    {
+        "id": 571,
+        "name": "Infinix",
+        "categorie": 71,
+        "price": 14.99,
+        "description": "Jump rope that counts your jumps for tracking workouts."
+    },
+    {
+        "id": 572,
+        "name": "Huawei",
+        "categorie": 72,
+        "price": 5.99,
+        "description": "Spicy jalapenos stuffed with cheese, ideal for appetizers."
+    },
+    {
+        "id": 573,
+        "name": "Mitsubishi",
+        "categorie": 73,
+        "price": 2.49,
+        "description": "Fluffy couscous that cooks in just minutes, perfect as a side."
+    },
+    {
+        "id": 574,
+        "name": "Motorola",
+        "categorie": 74,
+        "price": 35,
+        "description": "Set of decorative cushion covers for home decor."
+    },
+    {
+        "id": 575,
+        "name": "HTC",
+        "categorie": 75,
+        "price": 69.99,
+        "description": "Stylish ankle strap heels for a classy look at any event."
+    },
+    {
+        "id": 576,
+        "name": "Infinix",
+        "categorie": 76,
+        "price": 5.49,
+        "description": "Creamy goat cheese infused with herbs and garlic, perfect for spreading on crackers."
+    },
+    {
+        "id": 577,
+        "name": "LG",
+        "categorie": 77,
+        "price": 29.99,
+        "description": "Lightweight cover-up perfect for the beach, with a breezy design."
+    },
+    {
+        "id": 578,
+        "name": "Bird",
+        "categorie": 78,
+        "price": 22.99,
+        "description": "Compostable plates suitable for various occasions."
+    },
+    {
+        "id": 579,
+        "name": "Celkon",
+        "categorie": 79,
+        "price": 1.99,
+        "description": "Individually packaged bars made with dried fruits and nuts."
+    },
+    {
+        "id": 580,
+        "name": "vivo",
+        "categorie": 80,
+        "price": 4.49,
+        "description": "A flavorful lentil curry cooked with vegetables and spices."
+    },
+    {
+        "id": 581,
+        "name": "Huawei",
+        "categorie": 81,
+        "price": 24.99,
+        "description": "Stability ball for Pilates and yoga workouts."
+    },
+    {
+        "id": 582,
+        "name": "alcatel",
+        "categorie": 82,
+        "price": 2.49,
+        "description": "A spicy, flavorful cheese stick great for snacks or lunchboxes."
+    },
+    {
+        "id": 583,
+        "name": "Nokia",
+        "categorie": 83,
+        "price": 14.99,
+        "description": "Effective brush for removing loose hair from pets."
+    },
+    {
+        "id": 584,
+        "name": "Huawei",
+        "categorie": 84,
+        "price": 24.99,
+        "description": "Qi-certified wireless charger for fast charging."
+    },
+    {
+        "id": 585,
+        "name": "Samsung",
+        "categorie": 85,
+        "price": 3.79,
+        "description": "Creamy and smooth peanut butter, perfect for sandwiches."
+    },
+    {
+        "id": 586,
+        "name": "Bird",
+        "categorie": 86,
+        "price": 69.99,
+        "description": "Compact air purifier to improve indoor air quality."
+    },
+    {
+        "id": 587,
+        "name": "LG",
+        "categorie": 87,
+        "price": 4.99,
+        "description": "A flavorful pasta sauce made with roasted garlic."
+    },
+    {
+        "id": 588,
+        "name": "Palm",
+        "categorie": 88,
+        "price": 1.49,
+        "description": "Fresh and tart organic green apples, great for snacking or baking."
+    },
+    {
+        "id": 589,
+        "name": "alcatel",
+        "categorie": 89,
+        "price": 24.99,
+        "description": "Set of magnetic jars for convenient spice organization."
+    },
+    {
+        "id": 590,
+        "name": "Oppo",
+        "categorie": 90,
+        "price": 39.99,
+        "description": "Ergonomic wireless controller for gaming consoles."
+    },
+    {
+        "id": 591,
+        "name": "vivo",
+        "categorie": 91,
+        "price": 15.99,
+        "description": "Weighted jump rope that counts jumps and calories burned."
+    },
+    {
+        "id": 592,
+        "name": "T-Mobile",
+        "categorie": 92,
+        "price": 2.99,
+        "description": "High in protein, perfect for soups and stews."
+    },
+    {
+        "id": 593,
+        "name": "Samsung",
+        "categorie": 93,
+        "price": 39.99,
+        "description": "Compact campfire for grilling and warmth during camping trips."
+    },
+    {
+        "id": 594,
+        "name": "Samsung",
+        "categorie": 94,
+        "price": 59.99,
+        "description": "Rechargeable electric razor for a smooth shave."
+    },
+    {
+        "id": 595,
+        "name": "Samsung",
+        "categorie": 95,
+        "price": 29.99,
+        "description": "Solar-powered charger for smartphones and tablets."
+    },
+    {
+        "id": 596,
+        "name": "Nokia",
+        "categorie": 96,
+        "price": 24.99,
+        "description": "A timeless baseball cap that adds a sporty touch to any outfit."
+    },
+    {
+        "id": 597,
+        "name": "Nokia",
+        "categorie": 97,
+        "price": 199.99,
+        "description": "Compact ice maker for creating ice at home or in offices."
+    },
+    {
+        "id": 598,
+        "name": "Motorola",
+        "categorie": 98,
+        "price": 3.49,
+        "description": "Sweet and spiced apple filling, perfect for pies."
+    },
+    {
+        "id": 599,
+        "name": "T-Mobile",
+        "categorie": 99,
+        "price": 3.49,
+        "description": "Unsweetened coconut flakes for baking and snacking."
+    },
+    {
+        "id": 600,
+        "name": "Sony",
+        "categorie": 100,
+        "price": 44.99,
+        "description": "Elegant midi skirt with a wrap design, great for both formal and casual events."
+    },
+    {
+        "id": 601,
+        "name": "Karbonn",
+        "categorie": 1,
+        "price": 8.99,
+        "description": "Frozen shrimp seasoned with chili and lime, perfect for quick dinners."
+    },
+    {
+        "id": 602,
+        "name": "BLU",
+        "categorie": 2,
+        "price": 4.99,
+        "description": "Frozen mix for quick berry smoothies."
+    },
+    {
+        "id": 603,
+        "name": "LG",
+        "categorie": 3,
+        "price": 14.99,
+        "description": "Ceramic incense holder for a calming atmosphere."
+    },
+    {
+        "id": 604,
+        "name": "Lava",
+        "categorie": 4,
+        "price": 1.89,
+        "description": "Crisp and sweet Honeycrisp apples, freshly picked."
+    },
+    {
+        "id": 605,
+        "name": "Energizer",
+        "categorie": 5,
+        "price": 5.49,
+        "description": "Pre-seasoned beef mix for delicious tacos, just heat and serve."
+    },
+    {
+        "id": 606,
+        "name": "alcatel",
+        "categorie": 6,
+        "price": 34.99,
+        "description": "Ultrasonic diffuser that helps create a calming atmosphere."
+    },
+    {
+        "id": 607,
+        "name": "Nokia",
+        "categorie": 7,
+        "price": 1.99,
+        "description": "Sliced black olives, perfect for salads and pizzas."
+    },
+    {
+        "id": 608,
+        "name": "Samsung",
+        "categorie": 8,
+        "price": 12.99,
+        "description": "Moisturizing body wash with natural ingredients."
+    },
+    {
+        "id": 609,
+        "name": "Nokia",
+        "categorie": 9,
+        "price": 3.49,
+        "description": "Creamy cheddar cheese slices, perfect for sandwiches and snacks."
+    },
+    {
+        "id": 610,
+        "name": "BLU",
+        "categorie": 10,
+        "price": 22.99,
+        "description": "Convenient belt with pockets for easy access to tools while gardening."
+    },
+    {
+        "id": 611,
+        "name": "Mitsubishi",
+        "categorie": 11,
+        "price": 29.99,
+        "description": "Modern LED table lamp with touch control."
+    },
+    {
+        "id": 612,
+        "name": "O2",
+        "categorie": 12,
+        "price": 6.99,
+        "description": "A mix of fresh vegetables with a savory stir-fry sauce, ready to cook."
+    },
+    {
+        "id": 613,
+        "name": "ZTE",
+        "categorie": 13,
+        "price": 12.99,
+        "description": "Safe and easy-to-use nail clippers for pets."
+    },
+    {
+        "id": 614,
+        "name": "Sendo",
+        "categorie": 14,
+        "price": 199.99,
+        "description": "Mini refrigerator ideal for small spaces."
+    },
+    {
+        "id": 615,
+        "name": "ZTE",
+        "categorie": 15,
+        "price": 29.99,
+        "description": "Automatic can opener for easy meal prep."
+    },
+    {
+        "id": 616,
+        "name": "Celkon",
+        "categorie": 16,
+        "price": 3.59,
+        "description": "Natural fruit spread bursting with real strawberry flavor."
+    },
+    {
+        "id": 617,
+        "name": "Xiaomi",
+        "categorie": 17,
+        "price": 19.99,
+        "description": "Multiple USB ports for charging devices simultaneously."
+    },
+    {
+        "id": 618,
+        "name": "Huawei",
+        "categorie": 18,
+        "price": 12.99,
+        "description": "Effective laundry detergent for a deep clean."
+    },
+    {
+        "id": 619,
+        "name": "verykool",
+        "categorie": 19,
+        "price": 19.99,
+        "description": "Set of three aromatic candles with various scents."
+    },
+    {
+        "id": 620,
+        "name": "LG",
+        "categorie": 20,
+        "price": 59.99,
+        "description": "Instant hot water dispenser for tea and cooking."
+    },
+    {
+        "id": 621,
+        "name": "Motorola",
+        "categorie": 21,
+        "price": 6.99,
+        "description": "Pure maple syrup for pancakes and more."
+    },
+    {
+        "id": 622,
+        "name": "Nokia",
+        "categorie": 22,
+        "price": 14.99,
+        "description": "Classic wooden puzzle game for kids and adults."
+    },
+    {
+        "id": 623,
+        "name": "LG",
+        "categorie": 23,
+        "price": 19.99,
+        "description": "Fun light that creates a disco atmosphere for parties."
+    },
+    {
+        "id": 624,
+        "name": "Haier",
+        "categorie": 24,
+        "price": 19.99,
+        "description": "Qi-certified charger for fast wireless charging of smartphones."
+    },
+    {
+        "id": 625,
+        "name": "Nokia",
+        "categorie": 25,
+        "price": 5.29,
+        "description": "Ready-to-eat salad with quinoa and kale, drizzled with vinaigrette."
+    },
+    {
+        "id": 626,
+        "name": "Xiaomi",
+        "categorie": 26,
+        "price": 12.99,
+        "description": "Moisturizing body wash with natural ingredients."
+    },
+    {
+        "id": 627,
+        "name": "Wiko",
+        "categorie": 27,
+        "price": 9.99,
+        "description": "Space-saving cup that folds flat for easy storage."
+    },
+    {
+        "id": 628,
+        "name": "Motorola",
+        "categorie": 28,
+        "price": 89.99,
+        "description": "Compact charcoal grill perfect for tailgating."
+    },
+    {
+        "id": 629,
+        "name": "Coolpad",
+        "categorie": 29,
+        "price": 3.49,
+        "description": "Delicious cookies packed with oats and raisins."
+    },
+    {
+        "id": 630,
+        "name": "Motorola",
+        "categorie": 30,
+        "price": 5.49,
+        "description": "A hearty salad with grains, dried fruits, and nuts."
+    },
+    {
+        "id": 631,
+        "name": "Acer",
+        "categorie": 31,
+        "price": 49.99,
+        "description": "Rechargeable water flosser for dental hygiene."
+    },
+    {
+        "id": 632,
+        "name": "Sony",
+        "categorie": 32,
+        "price": 19.99,
+        "description": "Challenging and fun puzzle game for all ages."
+    },
+    {
+        "id": 633,
+        "name": "Meizu",
+        "categorie": 33,
+        "price": 3.29,
+        "description": "Crispy chickpeas roasted with honey for a sweet and satisfying snack."
+    },
+    {
+        "id": 634,
+        "name": "Panasonic",
+        "categorie": 34,
+        "price": 109.99,
+        "description": "Professional grooming table with adjustable height."
+    },
+    {
+        "id": 635,
+        "name": "Sharp",
+        "categorie": 35,
+        "price": 35,
+        "description": "Set of decorative cushion covers for home decor."
+    },
+    {
+        "id": 636,
+        "name": "Lava",
+        "categorie": 36,
+        "price": 14.99,
+        "description": "Compact USB fan for personal cooling."
+    },
+    {
+        "id": 637,
+        "name": "LG",
+        "categorie": 37,
+        "price": 9.49,
+        "description": "Delicious pie filled with coconut cream and topped with whipped cream."
+    },
+    {
+        "id": 638,
+        "name": "LG",
+        "categorie": 38,
+        "price": 9.99,
+        "description": "Prevent water damage with drip trays for potted plants."
+    },
+    {
+        "id": 639,
+        "name": "HTC",
+        "categorie": 39,
+        "price": 6.49,
+        "description": "Creamy almond butter made from roasted almonds."
+    },
+    {
+        "id": 640,
+        "name": "BLU",
+        "categorie": 40,
+        "price": 3.29,
+        "description": "Crispy chips with a sweet twist, perfect for dipping."
+    },
+    {
+        "id": 641,
+        "name": "BlackBerry",
+        "categorie": 41,
+        "price": 199.99,
+        "description": "Filters allergens and pollutants from the air for a healthier home."
+    },
+    {
+        "id": 642,
+        "name": "Ericsson",
+        "categorie": 42,
+        "price": 5.49,
+        "description": "Spicy and smoky sausage great for grilling."
+    },
+    {
+        "id": 643,
+        "name": "Micromax",
+        "categorie": 43,
+        "price": 49.99,
+        "description": "Compact camp stove for outdoor cooking."
+    },
+    {
+        "id": 644,
+        "name": "vivo",
+        "categorie": 44,
+        "price": 3.5,
+        "description": "Classic marshmallow treats made with crispy rice."
+    },
+    {
+        "id": 645,
+        "name": "Lenovo",
+        "categorie": 45,
+        "price": 2.39,
+        "description": "Shredded cabbage and carrots for coleslaw."
+    },
+    {
+        "id": 646,
+        "name": "LeEco",
+        "categorie": 46,
+        "price": 3.29,
+        "description": "A mix of fresh vegetables for quick stir-fries."
+    },
+    {
+        "id": 647,
+        "name": "BlackBerry",
+        "categorie": 47,
+        "price": 3.29,
+        "description": "A creamy and tangy dressing perfect for salads or as a dipping sauce."
+    },
+    {
+        "id": 648,
+        "name": "Amoi",
+        "categorie": 48,
+        "price": 39.99,
+        "description": "High-density, non-slip yoga mat for stability and comfort."
+    },
+    {
+        "id": 649,
+        "name": "LG",
+        "categorie": 49,
+        "price": 39.99,
+        "description": "Warmer for heating baby bottles and food jars."
+    },
+    {
+        "id": 650,
+        "name": "Acer",
+        "categorie": 50,
+        "price": 2.99,
+        "description": "Crispy tortilla chips, perfect for dipping."
+    },
+    {
+        "id": 651,
+        "name": "Nokia",
+        "categorie": 51,
+        "price": 5.79,
+        "description": "Grape leaves stuffed with rice and herbs, ready to eat."
+    },
+    {
+        "id": 652,
+        "name": "Samsung",
+        "categorie": 52,
+        "price": 99.99,
+        "description": "Connect and control smart devices from one app."
+    },
+    {
+        "id": 653,
+        "name": "Cat",
+        "categorie": 53,
+        "price": 1.79,
+        "description": "Quick and easy side dish with buttery flavor."
+    },
+    {
+        "id": 654,
+        "name": "Nokia",
+        "categorie": 54,
+        "price": 10.99,
+        "description": "Silicone tray for making ice cubes with a lid to prevent spills."
+    },
+    {
+        "id": 655,
+        "name": "Asus",
+        "categorie": 55,
+        "price": 39.99,
+        "description": "Made from biodegradable materials for eco-conscious yogis."
+    },
+    {
+        "id": 656,
+        "name": "Samsung",
+        "categorie": 56,
+        "price": 5.49,
+        "description": "Prepped vegetables and sauces for a quick Asian stir-fry meal."
+    },
+    {
+        "id": 657,
+        "name": "Toshiba",
+        "categorie": 57,
+        "price": 44.99,
+        "description": "Multi-level scratching post to keep your cat entertained."
+    },
+    {
+        "id": 658,
+        "name": "Spice",
+        "categorie": 58,
+        "price": 3.49,
+        "description": "Crunchy chips made from blue corn, perfect for dipping."
+    },
+    {
+        "id": 659,
+        "name": "ZTE",
+        "categorie": 59,
+        "price": 39.99,
+        "description": "Flexible light strips for creative home decor."
+    },
+    {
+        "id": 660,
+        "name": "Nokia",
+        "categorie": 60,
+        "price": 20.99,
+        "description": "Microwaveable heating pad for muscle pain relief and relaxation."
+    },
+    {
+        "id": 661,
+        "name": "alcatel",
+        "categorie": 61,
+        "price": 39.99,
+        "description": "UV light sanitizer for phones and small items."
+    },
+    {
+        "id": 662,
+        "name": "Samsung",
+        "categorie": 62,
+        "price": 49.99,
+        "description": "Wireless trackpad for enhanced laptop navigation."
+    },
+    {
+        "id": 663,
+        "name": "OnePlus",
+        "categorie": 63,
+        "price": 54.99,
+        "description": "Stylish ripped boyfriend jeans for a relaxed, effortlessly cool vibe."
+    },
+    {
+        "id": 664,
+        "name": "Nokia",
+        "categorie": 64,
+        "price": 2.49,
+        "description": "Delicious canned pineapple rings for desserts or salads."
+    },
+    {
+        "id": 665,
+        "name": "alcatel",
+        "categorie": 65,
+        "price": 7.19,
+        "description": "Roasted almonds dipped in rich dark chocolate."
+    },
+    {
+        "id": 666,
+        "name": "Sony",
+        "categorie": 66,
+        "price": 29.99,
+        "description": "Official size basketball for indoor and outdoor play."
+    },
+    {
+        "id": 667,
+        "name": "LG",
+        "categorie": 67,
+        "price": 199.99,
+        "description": "Waterproof camera for capturing underwater adventures."
+    },
+    {
+        "id": 668,
+        "name": "Samsung",
+        "categorie": 68,
+        "price": 14.99,
+        "description": "Soft and breathable pillowcase for body pillows."
+    },
+    {
+        "id": 669,
+        "name": "Lava",
+        "categorie": 69,
+        "price": 59.99,
+        "description": "Electric indoor grill for quick meals."
+    },
+    {
+        "id": 670,
+        "name": "Micromax",
+        "categorie": 70,
+        "price": 12.99,
+        "description": "Stylish hooks to easily hang shower curtains."
+    },
+    {
+        "id": 671,
+        "name": "ZTE",
+        "categorie": 71,
+        "price": 9.49,
+        "description": "Delicious pie filled with coconut cream and topped with whipped cream."
+    },
+    {
+        "id": 672,
+        "name": "Nokia",
+        "categorie": 72,
+        "price": 5.99,
+        "description": "Frozen mini meatballs that are great as a snack or in pasta dishes."
+    },
+    {
+        "id": 673,
+        "name": "Icemobile",
+        "categorie": 73,
+        "price": 29.99,
+        "description": "Portable ring light that enhances your photos with perfect lighting."
+    },
+    {
+        "id": 674,
+        "name": "Celkon",
+        "categorie": 74,
+        "price": 4.29,
+        "description": "Fresh salsa made with pineapple and spices"
+    },
+    {
+        "id": 675,
+        "name": "alcatel",
+        "categorie": 75,
+        "price": 29.99,
+        "description": "Set of stylish throw pillows for home decor."
+    },
+    {
+        "id": 676,
+        "name": "BLU",
+        "categorie": 76,
+        "price": 29.99,
+        "description": "Comfortable and warm leggings perfect for colder weather."
+    },
+    {
+        "id": 677,
+        "name": "alcatel",
+        "categorie": 77,
+        "price": 29.99,
+        "description": "Easy-to-install lights to brighten kitchen cabinets and workspaces."
+    },
+    {
+        "id": 678,
+        "name": "Energizer",
+        "categorie": 78,
+        "price": 24.99,
+        "description": "Maintain freshness and dispense cereal easily."
+    },
+    {
+        "id": 679,
+        "name": "HTC",
+        "categorie": 79,
+        "price": 79.99,
+        "description": "All-in-one kit for brewing beer at home."
+    },
+    {
+        "id": 680,
+        "name": "alcatel",
+        "categorie": 80,
+        "price": 15.99,
+        "description": "Soft glow night light for children's rooms or bedside."
+    },
+    {
+        "id": 681,
+        "name": "Google",
+        "categorie": 81,
+        "price": 12.99,
+        "description": "Yoga socks designed to provide better grip and stability."
+    },
+    {
+        "id": 682,
+        "name": "Allview",
+        "categorie": 82,
+        "price": 149.99,
+        "description": "Large inflatable pool for summer fun in your backyard."
+    },
+    {
+        "id": 683,
+        "name": "LG",
+        "categorie": 83,
+        "price": 2.49,
+        "description": "Fluffy couscous that cooks in just minutes, perfect as a side."
+    },
+    {
+        "id": 684,
+        "name": "Asus",
+        "categorie": 84,
+        "price": 9.99,
+        "description": "Infuser for brewing loose-leaf herbal teas easily."
+    },
+    {
+        "id": 685,
+        "name": "Samsung",
+        "categorie": 85,
+        "price": 49.99,
+        "description": "Electric rice cooker with multiple cooking settings for perfect rice."
+    },
+    {
+        "id": 686,
+        "name": "Samsung",
+        "categorie": 86,
+        "price": 2.29,
+        "description": "Crunchy crackers topped with real cheddar cheese flavor."
+    },
+    {
+        "id": 687,
+        "name": "Samsung",
+        "categorie": 87,
+        "price": 5.49,
+        "description": "Ready-to-bake cookie dough packed with chocolate chips."
+    },
+    {
+        "id": 688,
+        "name": "vivo",
+        "categorie": 88,
+        "price": 1.99,
+        "description": "Sweet and crisp apples, perfect for snacking."
+    },
+    {
+        "id": 689,
+        "name": "Sony",
+        "categorie": 89,
+        "price": 49.99,
+        "description": "Durable ceramic bakeware for casseroles and desserts."
+    },
+    {
+        "id": 690,
+        "name": "Archos",
+        "categorie": 90,
+        "price": 14.99,
+        "description": "Reusable silicone lids for covering food in bowls and storage containers."
+    },
+    {
+        "id": 691,
+        "name": "Samsung",
+        "categorie": 91,
+        "price": 69.99,
+        "description": "Stay dry with these stylish waterproof rain boots."
+    },
+    {
+        "id": 692,
+        "name": "verykool",
+        "categorie": 92,
+        "price": 9.99,
+        "description": "Pack of ultra-soft microfiber cloths for cleaning."
+    },
+    {
+        "id": 693,
+        "name": "Huawei",
+        "categorie": 93,
+        "price": 109.99,
+        "description": "Professional grooming table with adjustable height."
+    },
+    {
+        "id": 694,
+        "name": "Xiaomi",
+        "categorie": 94,
+        "price": 1.99,
+        "description": "Aromatic fresh basil, perfect for Italian cooking."
+    },
+    {
+        "id": 695,
+        "name": "Plum",
+        "categorie": 95,
+        "price": 2.49,
+        "description": "Everything you need to bake delicious chocolate chip cookies."
+    },
+    {
+        "id": 696,
+        "name": "Celkon",
+        "categorie": 96,
+        "price": 16.99,
+        "description": "Quality scissors designed for easy pet grooming."
+    },
+    {
+        "id": 697,
+        "name": "Honor",
+        "categorie": 97,
+        "price": 6.99,
+        "description": "A mix of fresh vegetables with a savory stir-fry sauce, ready to cook."
+    },
+    {
+        "id": 698,
+        "name": "Realme",
+        "categorie": 98,
+        "price": 2.79,
+        "description": "Refreshing coconut water packed with electrolytes for hydration."
+    },
+    {
+        "id": 699,
+        "name": "Sony",
+        "categorie": 99,
+        "price": 4.99,
+        "description": "Delicious cookies made with almond flour for a gluten-free treat."
+    },
+    {
+        "id": 700,
+        "name": "Motorola",
+        "categorie": 100,
+        "price": 4.99,
+        "description": "A zero-calorie coconut oil spray for cooking and baking."
+    },
+    {
+        "id": 701,
+        "name": "Wiko",
+        "categorie": 1,
+        "price": 3.49,
+        "description": "A light and tangy dressing with poppy seeds, perfect for salads."
+    },
+    {
+        "id": 702,
+        "name": "NEC",
+        "categorie": 2,
+        "price": 1.99,
+        "description": "Savory oatmeal ready to eat, great for breakfast or a snack."
+    },
+    {
+        "id": 703,
+        "name": "Acer",
+        "categorie": 3,
+        "price": 34.99,
+        "description": "Ultrasonic essential oil diffuser with LED lights."
+    },
+    {
+        "id": 704,
+        "name": "Celkon",
+        "categorie": 4,
+        "price": 2.99,
+        "description": "Tangy and sweet balsamic dressing, perfect for salads."
+    },
+    {
+        "id": 705,
+        "name": "Realme",
+        "categorie": 5,
+        "price": 8.99,
+        "description": "All ingredients included for delicious chicken fajitas."
+    },
+    {
+        "id": 706,
+        "name": "Motorola",
+        "categorie": 6,
+        "price": 3.79,
+        "description": "Sweet bread with cinnamon and raisins, great for breakfast or snacks."
+    },
+    {
+        "id": 707,
+        "name": "Gigabyte",
+        "categorie": 7,
+        "price": 14.99,
+        "description": "Reusable silicone lids for covering food in bowls and storage containers."
+    },
+    {
+        "id": 708,
+        "name": "Motorola",
+        "categorie": 8,
+        "price": 129.99,
+        "description": "HEPA air purifier for clean indoor air."
+    },
+    {
+        "id": 709,
+        "name": "Huawei",
+        "categorie": 9,
+        "price": 34.99,
+        "description": "Peel and stick wallpaper for easy home decor changes."
+    },
+    {
+        "id": 710,
+        "name": "LG",
+        "categorie": 10,
+        "price": 3.59,
+        "description": "A rich sauce perfect for pasta or drizzling over vegetables."
+    },
+    {
+        "id": 711,
+        "name": "Sony",
+        "categorie": 11,
+        "price": 4.99,
+        "description": "Natural honey sourced from wildflowers."
+    },
+    {
+        "id": 712,
+        "name": "LG",
+        "categorie": 12,
+        "price": 3.29,
+        "description": "Refreshing apple juice, 100% juice with no added sugar."
+    },
+    {
+        "id": 713,
+        "name": "Honor",
+        "categorie": 13,
+        "price": 2.89,
+        "description": "Quick-cooking ramen noodles made with organic wheat."
+    },
+    {
+        "id": 714,
+        "name": "NIU",
+        "categorie": 14,
+        "price": 3.99,
+        "description": "Nutty flavored lentils, perfect for soups and salads."
+    },
+    {
+        "id": 715,
+        "name": "Emporia",
+        "categorie": 15,
+        "price": 4.99,
+        "description": "Savory pancakes made with chickpea flour, high in protein."
+    },
+    {
+        "id": 716,
+        "name": "verykool",
+        "categorie": 16,
+        "price": 7.99,
+        "description": "A gluten-free pizza crust made from cauliflower."
+    },
+    {
+        "id": 717,
+        "name": "LG",
+        "categorie": 17,
+        "price": 4.99,
+        "description": "Natural pink salt, perfect for seasoning."
+    },
+    {
+        "id": 718,
+        "name": "alcatel",
+        "categorie": 18,
+        "price": 4.89,
+        "description": "Gluten-free bread mix made with almond flour."
+    },
+    {
+        "id": 719,
+        "name": "Sony",
+        "categorie": 19,
+        "price": 49.99,
+        "description": "Compact Bluetooth speaker with rich sound quality."
+    },
+    {
+        "id": 720,
+        "name": "BLU",
+        "categorie": 20,
+        "price": 8.99,
+        "description": "Frozen pizza loaded with fresh vegetables and mozzarella cheese."
+    },
+    {
+        "id": 721,
+        "name": "Plum",
+        "categorie": 21,
+        "price": 29.99,
+        "description": "Quick-boiling kettle for home and office use."
+    },
+    {
+        "id": 722,
+        "name": "Samsung",
+        "categorie": 22,
+        "price": 99.99,
+        "description": "Durable high-top leather boots for the stylish adventurer."
+    },
+    {
+        "id": 723,
+        "name": "Plum",
+        "categorie": 23,
+        "price": 44.99,
+        "description": "Breathable linen trousers perfect for hot weather."
+    },
+    {
+        "id": 724,
+        "name": "Motorola",
+        "categorie": 24,
+        "price": 3.49,
+        "description": "Spicy and flavorful soup made with black beans, perfect as a meal or starter."
+    },
+    {
+        "id": 725,
+        "name": "LG",
+        "categorie": 25,
+        "price": 2.99,
+        "description": "A blend of spices that brings the taste of fall to your baked goods."
+    },
+    {
+        "id": 726,
+        "name": "Samsung",
+        "categorie": 26,
+        "price": 18.99,
+        "description": "Stay hydrated with refreshing flavored water."
+    },
+    {
+        "id": 727,
+        "name": "Motorola",
+        "categorie": 27,
+        "price": 9.99,
+        "description": "Prevent water damage with drip trays for potted plants."
+    },
+    {
+        "id": 728,
+        "name": "Nokia",
+        "categorie": 28,
+        "price": 3.69,
+        "description": "Golden brown potato tots, crispy on the outside and fluffy inside."
+    },
+    {
+        "id": 729,
+        "name": "Sewon",
+        "categorie": 29,
+        "price": 39.99,
+        "description": "Small fridge designed to keep skincare products cool and fresh."
+    },
+    {
+        "id": 730,
+        "name": "Siemens",
+        "categorie": 30,
+        "price": 29.99,
+        "description": "Personalized wooden puzzles for children that encourage learning."
+    },
+    {
+        "id": 731,
+        "name": "Nokia",
+        "categorie": 31,
+        "price": 4.99,
+        "description": "A mix of tropical fruits for a refreshing snack or dessert."
+    },
+    {
+        "id": 732,
+        "name": "Samsung",
+        "categorie": 32,
+        "price": 25,
+        "description": "Non-slip yoga mat for optimal grip and comfort."
+    },
+    {
+        "id": 733,
+        "name": "NIU",
+        "categorie": 33,
+        "price": 24.99,
+        "description": "Set of soothing scented candles for relaxation and ambiance."
+    },
+    {
+        "id": 734,
+        "name": "Celkon",
+        "categorie": 34,
+        "price": 5.99,
+        "description": "Spicy and creamy dip made with shredded chicken, perfect for parties."
+    },
+    {
+        "id": 735,
+        "name": "Nokia",
+        "categorie": 35,
+        "price": 59.99,
+        "description": "Wearable device to track fitness activities and heart rate."
+    },
+    {
+        "id": 736,
+        "name": "Samsung",
+        "categorie": 36,
+        "price": 2.99,
+        "description": "Spreadable cream cheese blended with garlic and herbs."
+    },
+    {
+        "id": 737,
+        "name": "Oppo",
+        "categorie": 37,
+        "price": 3.49,
+        "description": "Rich and creamy Caesar dressing for salads and wraps."
+    },
+    {
+        "id": 738,
+        "name": "Allview",
+        "categorie": 38,
+        "price": 24.99,
+        "description": "Indoor gardening kit with herbs and pots."
+    },
+    {
+        "id": 739,
+        "name": "Lava",
+        "categorie": 39,
+        "price": 19.99,
+        "description": "Bottle with infuser for brewing loose-leaf tea on the go."
+    },
+    {
+        "id": 740,
+        "name": "Samsung",
+        "categorie": 40,
+        "price": 79.99,
+        "description": "Tablet for digital drawing and illustration work."
+    },
+    {
+        "id": 741,
+        "name": "Motorola",
+        "categorie": 41,
+        "price": 14.99,
+        "description": "Comfortable and reusable face masks in different styles."
+    },
+    {
+        "id": 742,
+        "name": "Motorola",
+        "categorie": 42,
+        "price": 2.99,
+        "description": "Hearty minestrone soup loaded with vegetables and pasta."
+    },
+    {
+        "id": 743,
+        "name": "LG",
+        "categorie": 43,
+        "price": 2.49,
+        "description": "Assorted fruit-flavored gummy snacks that kids love."
+    },
+    {
+        "id": 744,
+        "name": "ZTE",
+        "categorie": 44,
+        "price": 19.99,
+        "description": "Scented bath salts for relaxation and self-care."
+    },
+    {
+        "id": 745,
+        "name": "Samsung",
+        "categorie": 45,
+        "price": 3.29,
+        "description": "Delicious cookies flavored with pumpkin and spices."
+    },
+    {
+        "id": 746,
+        "name": "Amoi",
+        "categorie": 46,
+        "price": 119.99,
+        "description": "Wi-Fi enabled doorbell with HD camera and two-way audio."
+    },
+    {
+        "id": 747,
+        "name": "Sony",
+        "categorie": 47,
+        "price": 2.49,
+        "description": "Firm tofu, a great plant-based protein option."
+    },
+    {
+        "id": 748,
+        "name": "Huawei",
+        "categorie": 48,
+        "price": 19.99,
+        "description": "Stylish case with magnetic closure for smartphones."
+    },
+    {
+        "id": 749,
+        "name": "Innostream",
+        "categorie": 49,
+        "price": 15.99,
+        "description": "64GB SD memory card for cameras and devices."
+    },
+    {
+        "id": 750,
+        "name": "Samsung",
+        "categorie": 50,
+        "price": 24.99,
+        "description": "Easily opens jar lids and bottle caps with one touch."
+    },
+    {
+        "id": 751,
+        "name": "Allview",
+        "categorie": 51,
+        "price": 49.99,
+        "description": "Foldable reclining camping chair with cup holder."
+    },
+    {
+        "id": 752,
+        "name": "QMobile",
+        "categorie": 52,
+        "price": 5.99,
+        "description": "Gluten-free pancake mix made with almond flour."
+    },
+    {
+        "id": 753,
+        "name": "Samsung",
+        "categorie": 53,
+        "price": 49.99,
+        "description": "Track steps, heart rate, and sleep patterns."
+    },
+    {
+        "id": 754,
+        "name": "Haier",
+        "categorie": 54,
+        "price": 2.29,
+        "description": "Light and crispy rice cakes, a perfect low-calorie snack."
+    },
+    {
+        "id": 755,
+        "name": "Samsung",
+        "categorie": 55,
+        "price": 29.99,
+        "description": "Comprehensive first aid kit for emergency situations."
+    },
+    {
+        "id": 756,
+        "name": "Samsung",
+        "categorie": 56,
+        "price": 2.99,
+        "description": "Sweet and salty kettle corn, perfect for snacking."
+    },
+    {
+        "id": 757,
+        "name": "Samsung",
+        "categorie": 57,
+        "price": 29.99,
+        "description": "Countertop compost bin for kitchen waste."
+    },
+    {
+        "id": 758,
+        "name": "BLU",
+        "categorie": 58,
+        "price": 99.99,
+        "description": "Timeless analog watch with a leather strap."
+    },
+    {
+        "id": 759,
+        "name": "Allview",
+        "categorie": 59,
+        "price": 14.99,
+        "description": "Digital scale to avoid overweight baggage fees."
+    },
+    {
+        "id": 760,
+        "name": "Oppo",
+        "categorie": 60,
+        "price": 1.99,
+        "description": "Sweet and chewy taffy flavored like caramel apples, great for fall."
+    },
+    {
+        "id": 761,
+        "name": "BLU",
+        "categorie": 61,
+        "price": 2.99,
+        "description": "A sweet and spicy sauce, great for dipping or cooking."
+    },
+    {
+        "id": 762,
+        "name": "ZTE",
+        "categorie": 62,
+        "price": 9.99,
+        "description": "Gentle grooming gloves for shedding pets."
+    },
+    {
+        "id": 763,
+        "name": "Honor",
+        "categorie": 63,
+        "price": 35,
+        "description": "Set of decorative cushion covers for home decor."
+    },
+    {
+        "id": 764,
+        "name": "Nokia",
+        "categorie": 64,
+        "price": 8.99,
+        "description": "Crunchy and nutritious almonds, perfect for snacking."
+    },
+    {
+        "id": 765,
+        "name": "ZTE",
+        "categorie": 65,
+        "price": 39.99,
+        "description": "Automatic waterer that filters and provides fresh drinking water for pets."
+    },
+    {
+        "id": 766,
+        "name": "BlackBerry",
+        "categorie": 66,
+        "price": 29.99,
+        "description": "Easy-to-install lights to brighten kitchen cabinets and workspaces."
+    },
+    {
+        "id": 767,
+        "name": "Motorola",
+        "categorie": 67,
+        "price": 39.99,
+        "description": "Flexible light strips for creative home decor."
+    },
+    {
+        "id": 768,
+        "name": "Sony",
+        "categorie": 68,
+        "price": 29.99,
+        "description": "Comfortable wireless headphones designed for sleeping."
+    },
+    {
+        "id": 769,
+        "name": "Realme",
+        "categorie": 69,
+        "price": 14.99,
+        "description": "Classic wooden puzzle game for kids and adults."
+    },
+    {
+        "id": 770,
+        "name": "Karbonn",
+        "categorie": 70,
+        "price": 10.99,
+        "description": "Lint roller designed specifically for removing pet hair from furniture."
+    },
+    {
+        "id": 771,
+        "name": "Nokia",
+        "categorie": 71,
+        "price": 3.19,
+        "description": "Crunchy peanuts coated in honey, perfect for snacking."
+    },
+    {
+        "id": 772,
+        "name": "alcatel",
+        "categorie": 72,
+        "price": 5.49,
+        "description": "Easy meal kit for creamy fettuccine Alfredo."
+    },
+    {
+        "id": 773,
+        "name": "Lenovo",
+        "categorie": 73,
+        "price": 22.99,
+        "description": "Compact travel organizer for accessories and toiletries."
+    },
+    {
+        "id": 774,
+        "name": "Samsung",
+        "categorie": 74,
+        "price": 29.99,
+        "description": "Rechargeable electric wine opener for effortless uncorking."
+    },
+    {
+        "id": 775,
+        "name": "Motorola",
+        "categorie": 75,
+        "price": 19.99,
+        "description": "Stay warm with this stylish knit beanie in various colors."
+    },
+    {
+        "id": 776,
+        "name": "Micromax",
+        "categorie": 76,
+        "price": 5.99,
+        "description": "Spicy and creamy dip made with shredded chicken, perfect for parties."
+    },
+    {
+        "id": 777,
+        "name": "BLU",
+        "categorie": 77,
+        "price": 2.49,
+        "description": "Refreshing juice blend of cranberries and oranges."
+    },
+    {
+        "id": 778,
+        "name": "Philips",
+        "categorie": 78,
+        "price": 3.99,
+        "description": "Rich basil pesto sauce for pasta and more."
+    },
+    {
+        "id": 779,
+        "name": "Celkon",
+        "categorie": 79,
+        "price": 24.99,
+        "description": "Comfortable and adjustable harness for dogs."
+    },
+    {
+        "id": 780,
+        "name": "Nokia",
+        "categorie": 80,
+        "price": 7.49,
+        "description": "A nutritious salad with quinoa and black beans"
+    },
+    {
+        "id": 781,
+        "name": "Huawei",
+        "categorie": 81,
+        "price": 129.99,
+        "description": "Easy-to-set up tent designed for campers and hikers."
+    },
+    {
+        "id": 782,
+        "name": "Panasonic",
+        "categorie": 82,
+        "price": 1.5,
+        "description": "Fresh, creamy avocados ideal for salads and guacamole."
+    },
+    {
+        "id": 783,
+        "name": "Samsung",
+        "categorie": 83,
+        "price": 79.99,
+        "description": "Smart tailored dress pants, perfect for work or formal events."
+    },
+    {
+        "id": 784,
+        "name": "Nokia",
+        "categorie": 84,
+        "price": 15.99,
+        "description": "Durable jump rope for cardio workouts."
+    },
+    {
+        "id": 785,
+        "name": "vivo",
+        "categorie": 85,
+        "price": 29.99,
+        "description": "Set of resistance bands for home workouts."
+    },
+    {
+        "id": 786,
+        "name": "ZTE",
+        "categorie": 86,
+        "price": 59.99,
+        "description": "Lightweight and portable swing hammock for relaxing outdoors."
+    },
+    {
+        "id": 787,
+        "name": "Samsung",
+        "categorie": 87,
+        "price": 14.99,
+        "description": "High-quality sketchbook for artists."
+    },
+    {
+        "id": 788,
+        "name": "Motorola",
+        "categorie": 88,
+        "price": 3.99,
+        "description": "A refreshing drink mix that combines sweet raspberries and tart lemons, perfect for summer."
+    },
+    {
+        "id": 789,
+        "name": "LG",
+        "categorie": 89,
+        "price": 79.99,
+        "description": "Durable backpack with ample storage for outdoor adventures."
+    },
+    {
+        "id": 790,
+        "name": "Samsung",
+        "categorie": 90,
+        "price": 1.99,
+        "description": "Crunchy and sweet banana chips, a great on-the-go snack."
+    },
+    {
+        "id": 791,
+        "name": "T-Mobile",
+        "categorie": 91,
+        "price": 9.99,
+        "description": "Assorted cloths for cleaning electronics and delicate surfaces."
+    },
+    {
+        "id": 792,
+        "name": "Vertu",
+        "categorie": 92,
+        "price": 49.99,
+        "description": "Compact Bluetooth speaker with rich sound quality."
+    },
+    {
+        "id": 793,
+        "name": "Motorola",
+        "categorie": 93,
+        "price": 34.99,
+        "description": "Rechargeable LED lantern ideal for camping and outdoor activities."
+    },
+    {
+        "id": 794,
+        "name": "Meizu",
+        "categorie": 94,
+        "price": 7.99,
+        "description": "Rich and smooth cold brew coffee concentrate, just add water or milk."
+    },
+    {
+        "id": 795,
+        "name": "Posh",
+        "categorie": 95,
+        "price": 49.99,
+        "description": "Foldable chair equipped with a cooler pouch."
+    },
+    {
+        "id": 796,
+        "name": "vivo",
+        "categorie": 96,
+        "price": 3.99,
+        "description": "Crispy cheese snacks that melt in your mouth."
+    },
+    {
+        "id": 797,
+        "name": "LG",
+        "categorie": 97,
+        "price": 29.99,
+        "description": "Reusable tote bags for shopping and eco-friendly living."
+    },
+    {
+        "id": 798,
+        "name": "Samsung",
+        "categorie": 98,
+        "price": 69.99,
+        "description": "Programmable pet feeder for scheduled meals."
+    },
+    {
+        "id": 799,
+        "name": "HTC",
+        "categorie": 99,
+        "price": 24.99,
+        "description": "Portable case to organize and protect jewelry on trips."
+    },
+    {
+        "id": 800,
+        "name": "Maxon",
+        "categorie": 100,
+        "price": 29.99,
+        "description": "Portable coffee maker for rich brews on the go."
+    },
+    {
+        "id": 801,
+        "name": "Micromax",
+        "categorie": 1,
+        "price": 2.99,
+        "description": "Spreadable cream cheese blended with garlic and herbs."
+    },
+    {
+        "id": 802,
+        "name": "AT&T",
+        "categorie": 2,
+        "price": 19.99,
+        "description": "A timeless wardrobe staple crafted from soft cotton with a perfect fit."
+    },
+    {
+        "id": 803,
+        "name": "Allview",
+        "categorie": 3,
+        "price": 3.99,
+        "description": "Healthy salad made with chickpeas, vegetables, and a lemon dressing."
+    },
+    {
+        "id": 804,
+        "name": "Icemobile",
+        "categorie": 4,
+        "price": 24.99,
+        "description": "RFID-blocking slim wallet for cards and cash."
+    },
+    {
+        "id": 805,
+        "name": "BLU",
+        "categorie": 5,
+        "price": 4.19,
+        "description": "Crunchy granola mixed with coconut flakes."
+    },
+    {
+        "id": 806,
+        "name": "Samsung",
+        "categorie": 6,
+        "price": 34.99,
+        "description": "Lightweight and breathable running shorts for your workouts."
+    },
+    {
+        "id": 807,
+        "name": "Lava",
+        "categorie": 7,
+        "price": 49.99,
+        "description": "Stylish faux leather leggings for a trendy outfit."
+    },
+    {
+        "id": 808,
+        "name": "alcatel",
+        "categorie": 8,
+        "price": 16.99,
+        "description": "Quality scissors designed for easy pet grooming."
+    },
+    {
+        "id": 809,
+        "name": "Nokia",
+        "categorie": 9,
+        "price": 29.99,
+        "description": "Elegant cover that protects your notebook with style."
+    },
+    {
+        "id": 810,
+        "name": "Samsung",
+        "categorie": 10,
+        "price": 4.99,
+        "description": "A flavorful pasta sauce made with roasted garlic."
+    },
+    {
+        "id": 811,
+        "name": "XOLO",
+        "categorie": 11,
+        "price": 22,
+        "description": "Eco-friendly bamboo cutting board for food prep."
+    },
+    {
+        "id": 812,
+        "name": "Motorola",
+        "categorie": 12,
+        "price": 29.99,
+        "description": "Compact hand mixer for easy baking."
+    },
+    {
+        "id": 813,
+        "name": "Wiko",
+        "categorie": 13,
+        "price": 2.49,
+        "description": "Rich and flavorful chicken broth, great for soups."
+    },
+    {
+        "id": 814,
+        "name": "Huawei",
+        "categorie": 14,
+        "price": 59.99,
+        "description": "Compact jump starter for emergency vehicle starts."
+    },
+    {
+        "id": 815,
+        "name": "Samsung",
+        "categorie": 15,
+        "price": 3.49,
+        "description": "Delicious noodles tossed in a sesamegarlic sauce."
+    },
+    {
+        "id": 816,
+        "name": "Micromax",
+        "categorie": 16,
+        "price": 29.99,
+        "description": "Creative building set for kids to spark imagination."
+    },
+    {
+        "id": 817,
+        "name": "LG",
+        "categorie": 17,
+        "price": 19.99,
+        "description": "Set of five reusable fabric face masks."
+    },
+    {
+        "id": 818,
+        "name": "Panasonic",
+        "categorie": 18,
+        "price": 3.99,
+        "description": "Creamy dip made with caramelized onions, perfect for chips or veggies."
+    },
+    {
+        "id": 819,
+        "name": "LG",
+        "categorie": 19,
+        "price": 3.29,
+        "description": "Delicious cookies flavored with pumpkin and spices."
+    },
+    {
+        "id": 820,
+        "name": "Haier",
+        "categorie": 20,
+        "price": 34.99,
+        "description": "Lightweight yoga mat for practicing on the go."
+    },
+    {
+        "id": 821,
+        "name": "Allview",
+        "categorie": 21,
+        "price": 19.99,
+        "description": "Protects car interior from sun damage and heat."
+    },
+    {
+        "id": 822,
+        "name": "Celkon",
+        "categorie": 22,
+        "price": 3.29,
+        "description": "Creamy honey mustard sauce for dipping or dressing."
+    },
+    {
+        "id": 823,
+        "name": "Oppo",
+        "categorie": 23,
+        "price": 34.99,
+        "description": "Complete fondue set for chocolate and cheese parties."
+    },
+    {
+        "id": 824,
+        "name": "alcatel",
+        "categorie": 24,
+        "price": 2.59,
+        "description": "Creamy ranch dressing, perfect for salads and dips."
+    },
+    {
+        "id": 825,
+        "name": "Lenovo",
+        "categorie": 25,
+        "price": 49.99,
+        "description": "Comfortable carry for pets while hiking or traveling."
+    },
+    {
+        "id": 826,
+        "name": "Micromax",
+        "categorie": 26,
+        "price": 3.99,
+        "description": "Sweet and salty popcorn with sea salt and caramel, a tasty treat."
+    },
+    {
+        "id": 827,
+        "name": "Lava",
+        "categorie": 27,
+        "price": 24.99,
+        "description": "Instant-read thermometer for precise cooking temperatures."
+    },
+    {
+        "id": 828,
+        "name": "Motorola",
+        "categorie": 28,
+        "price": 3.49,
+        "description": "Fluffy quinoa mixed with lemon zest and herbs, a perfect side."
+    },
+    {
+        "id": 829,
+        "name": "Lenovo",
+        "categorie": 29,
+        "price": 32.99,
+        "description": "Durable 50-foot garden hose with nozzle."
+    },
+    {
+        "id": 830,
+        "name": "Lenovo",
+        "categorie": 30,
+        "price": 1.99,
+        "description": "Fresh organic sweet potatoes, great for roasting or mashing."
+    },
+    {
+        "id": 831,
+        "name": "ZTE",
+        "categorie": 31,
+        "price": 9.99,
+        "description": "Infuser for brewing loose-leaf herbal teas easily."
+    },
+    {
+        "id": 832,
+        "name": "HTC",
+        "categorie": 32,
+        "price": 34.99,
+        "description": "Large, durable tote bag for shopping and outdoor activities."
+    },
+    {
+        "id": 833,
+        "name": "Samsung",
+        "categorie": 33,
+        "price": 14.99,
+        "description": "Specialized attachment for removing pet hair from surfaces."
+    },
+    {
+        "id": 834,
+        "name": "Wiko",
+        "categorie": 34,
+        "price": 49.99,
+        "description": "Comprehensive tool set for gardening enthusiasts."
+    },
+    {
+        "id": 835,
+        "name": "Sharp",
+        "categorie": 35,
+        "price": 19.99,
+        "description": "Windshield sunshade for car interior protection."
+    },
+    {
+        "id": 836,
+        "name": "Micromax",
+        "categorie": 36,
+        "price": 3.29,
+        "description": "Sweet and spicy salsa made with fresh peaches."
+    },
+    {
+        "id": 837,
+        "name": "Lenovo",
+        "categorie": 37,
+        "price": 2.99,
+        "description": "Spreadable cream cheese blended with garlic and herbs."
+    },
+    {
+        "id": 838,
+        "name": "i-mate",
+        "categorie": 38,
+        "price": 99.99,
+        "description": "Timeless analog watch with a leather strap."
+    },
+    {
+        "id": 839,
+        "name": "LG",
+        "categorie": 39,
+        "price": 5.49,
+        "description": "Frozen pizza loaded with vegetables and cheese."
+    },
+    {
+        "id": 840,
+        "name": "Allview",
+        "categorie": 40,
+        "price": 199.99,
+        "description": "Mini refrigerator ideal for small spaces."
+    },
+    {
+        "id": 841,
+        "name": "Unnecto",
+        "categorie": 41,
+        "price": 99.99,
+        "description": "Compact and portable projector for watching videos anywhere."
+    },
+    {
+        "id": 842,
+        "name": "BlackBerry",
+        "categorie": 42,
+        "price": 6.49,
+        "description": "Healthy frozen acai bowl with toppings."
+    },
+    {
+        "id": 843,
+        "name": "Micromax",
+        "categorie": 43,
+        "price": 6.99,
+        "description": "Savory bacon jerky coated with maple flavoring."
+    },
+    {
+        "id": 844,
+        "name": "Samsung",
+        "categorie": 44,
+        "price": 39.99,
+        "description": "Ergonomic footrest for easier pedicure treatment."
+    },
+    {
+        "id": 845,
+        "name": "Huawei",
+        "categorie": 45,
+        "price": 3.99,
+        "description": "Gluten-free pasta made from red lentils, packed with protein."
+    },
+    {
+        "id": 846,
+        "name": "ZTE",
+        "categorie": 46,
+        "price": 39.99,
+        "description": "Stylish wall art to enhance home decor."
+    },
+    {
+        "id": 847,
+        "name": "Nokia",
+        "categorie": 47,
+        "price": 29.99,
+        "description": "Fun inflatable float for lounging in the pool or beach."
+    },
+    {
+        "id": 848,
+        "name": "Honor",
+        "categorie": 48,
+        "price": 4.99,
+        "description": "A mix of tropical fruits for a refreshing snack or dessert."
+    },
+    {
+        "id": 849,
+        "name": "Coolpad",
+        "categorie": 49,
+        "price": 14.99,
+        "description": "Storage solutions for keeping your car tidy and organized."
+    },
+    {
+        "id": 850,
+        "name": "Microsoft",
+        "categorie": 50,
+        "price": 5.99,
+        "description": "Savory sausage links with a hint of maple flavor."
+    },
+    {
+        "id": 851,
+        "name": "Microsoft",
+        "categorie": 51,
+        "price": 12.99,
+        "description": "Stainless steel measuring spoons set for cooking."
+    },
+    {
+        "id": 852,
+        "name": "Sagem",
+        "categorie": 52,
+        "price": 34.99,
+        "description": "Adjustable shower head for a luxurious shower experience."
+    },
+    {
+        "id": 853,
+        "name": "LG",
+        "categorie": 53,
+        "price": 9.99,
+        "description": "Pack of ultra-soft microfiber cloths for cleaning."
+    },
+    {
+        "id": 854,
+        "name": "O2",
+        "categorie": 54,
+        "price": 2.49,
+        "description": "Freshly cut carrot sticks, perfect for snacking."
+    },
+    {
+        "id": 855,
+        "name": "Samsung",
+        "categorie": 55,
+        "price": 4.29,
+        "description": "Nutritious organic quinoa for salads or sides"
+    },
+    {
+        "id": 856,
+        "name": "vivo",
+        "categorie": 56,
+        "price": 5.49,
+        "description": "Everything you need to create a hearty beef stroganoff."
+    },
+    {
+        "id": 857,
+        "name": "Qtek",
+        "categorie": 57,
+        "price": 2.99,
+        "description": "No-bake protein balls with chocolate and coconut flavors."
+    },
+    {
+        "id": 858,
+        "name": "Nokia",
+        "categorie": 58,
+        "price": 19.99,
+        "description": "Colorful building blocks for creative play."
+    },
+    {
+        "id": 859,
+        "name": "Samsung",
+        "categorie": 59,
+        "price": 19.99,
+        "description": "Portable chess set with magnetic pieces for travel."
+    },
+    {
+        "id": 860,
+        "name": "BlackBerry",
+        "categorie": 60,
+        "price": 49.99,
+        "description": "Designed for comfort and performance during workouts."
+    },
+    {
+        "id": 861,
+        "name": "Nokia",
+        "categorie": 61,
+        "price": 39.99,
+        "description": "Compact keyboard for tablets and smartphones."
+    },
+    {
+        "id": 862,
+        "name": "Sharp",
+        "categorie": 62,
+        "price": 3.99,
+        "description": "Creamy mashed sweet potatoes, ready to heat and serve."
+    },
+    {
+        "id": 863,
+        "name": "Oppo",
+        "categorie": 63,
+        "price": 3.29,
+        "description": "A hearty soup filled with vegetables and herbs, perfect for a light meal."
+    },
+    {
+        "id": 864,
+        "name": "Samsung",
+        "categorie": 64,
+        "price": 2.29,
+        "description": "Creamy dessert made with rice and cinnamon."
+    },
+    {
+        "id": 865,
+        "name": "BQ",
+        "categorie": 65,
+        "price": 79.99,
+        "description": "Electric foot massager with heat settings."
+    },
+    {
+        "id": 866,
+        "name": "Samsung",
+        "categorie": 66,
+        "price": 4.99,
+        "description": "A tangy sauce that combines lemon zest and basil for a refreshing flavor."
+    },
+    {
+        "id": 867,
+        "name": "BenQ",
+        "categorie": 67,
+        "price": 39.99,
+        "description": "Fun instruments to introduce kids to music."
+    },
+    {
+        "id": 868,
+        "name": "Motorola",
+        "categorie": 68,
+        "price": 29.99,
+        "description": "Fun decorations for Halloween to set a spooky atmosphere."
+    },
+    {
+        "id": 869,
+        "name": "Icemobile",
+        "categorie": 69,
+        "price": 29.99,
+        "description": "Lightweight and durable hammock for relaxing in nature."
+    },
+    {
+        "id": 870,
+        "name": "Karbonn",
+        "categorie": 70,
+        "price": 25.99,
+        "description": "Ergonomic wireless mouse with adjustable DPI."
+    },
+    {
+        "id": 871,
+        "name": "Lava",
+        "categorie": 71,
+        "price": 8.99,
+        "description": "A delicious chicken dish featuring honey and sesame flavors."
+    },
+    {
+        "id": 872,
+        "name": "Spice",
+        "categorie": 72,
+        "price": 7.49,
+        "description": "A nutritious salad with quinoa and black beans"
+    },
+    {
+        "id": 873,
+        "name": "Ulefone",
+        "categorie": 73,
+        "price": 3.49,
+        "description": "Chewy granola bars with maple and cinnamon flavor."
+    },
+    {
+        "id": 874,
+        "name": "Asus",
+        "categorie": 74,
+        "price": 4.29,
+        "description": "Chickpeas mixed with fresh vegetables and herbs, a nutritious snack or salad."
+    },
+    {
+        "id": 875,
+        "name": "Kyocera",
+        "categorie": 75,
+        "price": 3.99,
+        "description": "A rich coconut curry sauce perfect for simmering vegetables or meats."
+    },
+    {
+        "id": 876,
+        "name": "Motorola",
+        "categorie": 76,
+        "price": 34.99,
+        "description": "All-in-one art set for kids to unleash creativity."
+    },
+    {
+        "id": 877,
+        "name": "Celkon",
+        "categorie": 77,
+        "price": 69.99,
+        "description": "Durable and adjustable jump box for effective workouts."
+    },
+    {
+        "id": 878,
+        "name": "Samsung",
+        "categorie": 78,
+        "price": 3.49,
+        "description": "A smoky barbecue sauce, ideal for grilling and dipping."
+    },
+    {
+        "id": 879,
+        "name": "Philips",
+        "categorie": 79,
+        "price": 2.99,
+        "description": "A spice blend for making flavorful chili con carne."
+    },
+    {
+        "id": 880,
+        "name": "Samsung",
+        "categorie": 80,
+        "price": 3.49,
+        "description": "Tangy green salsa made with tomatillos, perfect for tacos."
+    },
+    {
+        "id": 881,
+        "name": "Huawei",
+        "categorie": 81,
+        "price": 4.49,
+        "description": "Hearty stew made with lentils and mixed vegetables, vegan-friendly."
+    },
+    {
+        "id": 882,
+        "name": "Realme",
+        "categorie": 82,
+        "price": 29.99,
+        "description": "High-quality cutlery set for daily use or special occasions."
+    },
+    {
+        "id": 883,
+        "name": "NEC",
+        "categorie": 83,
+        "price": 49.99,
+        "description": "Adjustable stand to improve ergonomics while working on a laptop."
+    },
+    {
+        "id": 884,
+        "name": "Samsung",
+        "categorie": 84,
+        "price": 5.49,
+        "description": "A mix of strawberries, blueberries, and raspberries, great for smoothies or desserts."
+    },
+    {
+        "id": 885,
+        "name": "Qtek",
+        "categorie": 85,
+        "price": 2.49,
+        "description": "Creamy soup full of rich mushroom flavor."
+    },
+    {
+        "id": 886,
+        "name": "O2",
+        "categorie": 86,
+        "price": 34.99,
+        "description": "All-in-one art set for kids to unleash creativity."
+    },
+    {
+        "id": 887,
+        "name": "Spice",
+        "categorie": 87,
+        "price": 1.79,
+        "description": "Twisted pasta perfect for salads and pasta dishes."
+    },
+    {
+        "id": 888,
+        "name": "Celkon",
+        "categorie": 88,
+        "price": 18.99,
+        "description": "Stylish dish soap dispenser with sponge holder."
+    },
+    {
+        "id": 889,
+        "name": "Nokia",
+        "categorie": 89,
+        "price": 5.49,
+        "description": "Frozen cauliflower bites coated in spicy buffalo sauce, ready to bake and enjoy as an appetizer."
+    },
+    {
+        "id": 890,
+        "name": "Amoi",
+        "categorie": 90,
+        "price": 49.99,
+        "description": "Water bottle with built-in UV-C light for self-cleaning."
+    },
+    {
+        "id": 891,
+        "name": "Xiaomi",
+        "categorie": 91,
+        "price": 45.99,
+        "description": "Eco-friendly charger with a built-in solar panel for outdoor use."
+    },
+    {
+        "id": 892,
+        "name": "BenQ-Siemens",
+        "categorie": 92,
+        "price": 29.99,
+        "description": "Trendy leggings with a unique graphic print, versatile for workouts and casual wear."
+    },
+    {
+        "id": 893,
+        "name": "Xiaomi",
+        "categorie": 93,
+        "price": 2.49,
+        "description": "Classic ranch dressing for salads and dipping."
+    },
+    {
+        "id": 894,
+        "name": "Celkon",
+        "categorie": 94,
+        "price": 12.99,
+        "description": "Moisturizing body wash with natural ingredients."
+    },
+    {
+        "id": 895,
+        "name": "Spice",
+        "categorie": 95,
+        "price": 39.99,
+        "description": "Compact food processor for quick meal prep."
+    },
+    {
+        "id": 896,
+        "name": "Casio",
+        "categorie": 96,
+        "price": 24.99,
+        "description": "Variety pack of craft supplies for kids' projects."
+    },
+    {
+        "id": 897,
+        "name": "BLU",
+        "categorie": 97,
+        "price": 3.99,
+        "description": "Sweet and salty popcorn with sea salt and caramel, a tasty treat."
+    },
+    {
+        "id": 898,
+        "name": "Micromax",
+        "categorie": 98,
+        "price": 39.99,
+        "description": "Compact food processor for quick meal prep."
+    },
+    {
+        "id": 899,
+        "name": "XOLO",
+        "categorie": 99,
+        "price": 69.99,
+        "description": "Water-resistant laptop backpack with multiple compartments."
+    },
+    {
+        "id": 900,
+        "name": "Samsung",
+        "categorie": 100,
+        "price": 9.99,
+        "description": "Marinated chicken skewers with lemon and dill flavor, grilled to perfection."
+    },
+    {
+        "id": 901,
+        "name": "Ulefone",
+        "categorie": 1,
+        "price": 39.99,
+        "description": "Bottle that tracks your water intake and reminds you to drink."
+    },
+    {
+        "id": 902,
+        "name": "Sharp",
+        "categorie": 2,
+        "price": 19.99,
+        "description": "Compact pocket tool with various built-in functions."
+    },
+    {
+        "id": 903,
+        "name": "Nokia",
+        "categorie": 3,
+        "price": 5.79,
+        "description": "Aromatic long-grain basmati rice, perfect for curries."
+    },
+    {
+        "id": 904,
+        "name": "HTC",
+        "categorie": 4,
+        "price": 29.99,
+        "description": "Set of elegant wine glasses for special occasions."
+    },
+    {
+        "id": 905,
+        "name": "Micromax",
+        "categorie": 5,
+        "price": 7.19,
+        "description": "Roasted almonds dipped in rich dark chocolate."
+    },
+    {
+        "id": 906,
+        "name": "Motorola",
+        "categorie": 6,
+        "price": 3.99,
+        "description": "Spicy and flavorful curry paste for authentic Thai dishes."
+    },
+    {
+        "id": 907,
+        "name": "Asus",
+        "categorie": 7,
+        "price": 14.99,
+        "description": "Specialized attachment for removing pet hair from surfaces."
+    },
+    {
+        "id": 908,
+        "name": "LG",
+        "categorie": 8,
+        "price": 5.99,
+        "description": "Gluten-free almond flour, perfect for baking."
+    },
+    {
+        "id": 909,
+        "name": "Sony",
+        "categorie": 9,
+        "price": 49.99,
+        "description": "Customizable window cover for light control and privacy."
+    },
+    {
+        "id": 910,
+        "name": "alcatel",
+        "categorie": 10,
+        "price": 39.99,
+        "description": "Soft throw blanket for cozy home decor."
+    },
+    {
+        "id": 911,
+        "name": "ZTE",
+        "categorie": 11,
+        "price": 3.49,
+        "description": "A sweet and spicy glaze that's perfect for grilling or marinades."
+    },
+    {
+        "id": 912,
+        "name": "Gionee",
+        "categorie": 12,
+        "price": 4.99,
+        "description": "Fresh kale salad with a zesty lemon dressing, great as a side dish."
+    },
+    {
+        "id": 913,
+        "name": "Motorola",
+        "categorie": 13,
+        "price": 2.99,
+        "description": "Creamy cottage cheese, perfect for healthy snacking."
+    },
+    {
+        "id": 914,
+        "name": "Sharp",
+        "categorie": 14,
+        "price": 39.99,
+        "description": "Continuous stream of fresh water for pets, promoting hydration."
+    },
+    {
+        "id": 915,
+        "name": "vivo",
+        "categorie": 15,
+        "price": 3.49,
+        "description": "Crunchy chips made from blue corn, perfect for dipping."
+    },
+    {
+        "id": 916,
+        "name": "BLU",
+        "categorie": 16,
+        "price": 3.49,
+        "description": "Creamy hummus with a kick of spice, great for dipping."
+    },
+    {
+        "id": 917,
+        "name": "Realme",
+        "categorie": 17,
+        "price": 6.89,
+        "description": "Everything you need to make melt-in-your-mouth cinnamon rolls at home."
+    },
+    {
+        "id": 918,
+        "name": "Meizu",
+        "categorie": 18,
+        "price": 3.99,
+        "description": "Nutty-scented oil for stir-fry and marinades."
+    },
+    {
+        "id": 919,
+        "name": "Philips",
+        "categorie": 19,
+        "price": 15.99,
+        "description": "64GB SD memory card for cameras and devices."
+    },
+    {
+        "id": 920,
+        "name": "Nokia",
+        "categorie": 20,
+        "price": 4.99,
+        "description": "Fresh sliced strawberries for toppings or snacking"
+    },
+    {
+        "id": 921,
+        "name": "Philips",
+        "categorie": 21,
+        "price": 2.49,
+        "description": "Classic ranch dressing for salads and dipping."
+    },
+    {
+        "id": 922,
+        "name": "Allview",
+        "categorie": 22,
+        "price": 22.99,
+        "description": "Craft your own lip balms with this complete kit."
+    },
+    {
+        "id": 923,
+        "name": "Celkon",
+        "categorie": 23,
+        "price": 3.49,
+        "description": "A light and tangy dressing with poppy seeds, perfect for salads."
+    },
+    {
+        "id": 924,
+        "name": "Plum",
+        "categorie": 24,
+        "price": 29.99,
+        "description": "DIY LED strip lights with remote control."
+    },
+    {
+        "id": 925,
+        "name": "Karbonn",
+        "categorie": 25,
+        "price": 3.29,
+        "description": "Refreshing apple juice, 100% juice with no added sugar."
+    },
+    {
+        "id": 926,
+        "name": "Huawei",
+        "categorie": 26,
+        "price": 7.99,
+        "description": "A gluten-free pizza crust made from cauliflower."
+    },
+    {
+        "id": 927,
+        "name": "Samsung",
+        "categorie": 27,
+        "price": 34.99,
+        "description": "Water-resistant blanket for picnics and outdoor events."
+    },
+    {
+        "id": 928,
+        "name": "Xiaomi",
+        "categorie": 28,
+        "price": 15.99,
+        "description": "Durable jump rope for cardio workouts."
+    },
+    {
+        "id": 929,
+        "name": "BenQ",
+        "categorie": 29,
+        "price": 3.49,
+        "description": "Sweet and spiced apple filling, perfect for pies."
+    },
+    {
+        "id": 930,
+        "name": "Huawei",
+        "categorie": 30,
+        "price": 3.49,
+        "description": "Sweet and chewy dried mango slices, perfect for snacking."
+    },
+    {
+        "id": 931,
+        "name": "Micromax",
+        "categorie": 31,
+        "price": 39.99,
+        "description": "Stylish and modern holder for storing wine bottles on walls."
+    },
+    {
+        "id": 932,
+        "name": "ZTE",
+        "categorie": 32,
+        "price": 29.99,
+        "description": "Comfortable wireless headphones designed for sleeping."
+    },
+    {
+        "id": 933,
+        "name": "Motorola",
+        "categorie": 33,
+        "price": 29.99,
+        "description": "Reversible bamboo chopping board for food prep."
+    },
+    {
+        "id": 934,
+        "name": "NEC",
+        "categorie": 34,
+        "price": 2.49,
+        "description": "Nutritious and hearty pasta made from whole wheat flour."
+    },
+    {
+        "id": 935,
+        "name": "Gionee",
+        "categorie": 35,
+        "price": 14.99,
+        "description": "Safety collar with flashing lights for pets during night walks."
+    },
+    {
+        "id": 936,
+        "name": "Meizu",
+        "categorie": 36,
+        "price": 44.99,
+        "description": "Complete set to brew coffee with different methods."
+    },
+    {
+        "id": 937,
+        "name": "Motorola",
+        "categorie": 37,
+        "price": 99.99,
+        "description": "Powerful blender for smoothies and soups."
+    },
+    {
+        "id": 938,
+        "name": "Huawei",
+        "categorie": 38,
+        "price": 79.99,
+        "description": "Easy-to-use portable grill for barbecues."
+    },
+    {
+        "id": 939,
+        "name": "Coolpad",
+        "categorie": 39,
+        "price": 3.99,
+        "description": "Chewy granola bars made with honey and almonds."
+    },
+    {
+        "id": 940,
+        "name": "Motorola",
+        "categorie": 40,
+        "price": 19.99,
+        "description": "Stylish case with magnetic closure for smartphones."
+    },
+    {
+        "id": 941,
+        "name": "verykool",
+        "categorie": 41,
+        "price": 69.99,
+        "description": "Easy-to-set-up picnic table for outdoor dining."
+    },
+    {
+        "id": 942,
+        "name": "Lenovo",
+        "categorie": 42,
+        "price": 5.99,
+        "description": "Rich and creamy chocolate fudge ice cream for dessert."
+    },
+    {
+        "id": 943,
+        "name": "BlackBerry",
+        "categorie": 43,
+        "price": 15.99,
+        "description": "Comfortable eye mask that includes noise-canceling ear plugs."
+    },
+    {
+        "id": 944,
+        "name": "Mitsubishi",
+        "categorie": 44,
+        "price": 34.99,
+        "description": "Spacious duffle bag for weekend getaways."
+    },
+    {
+        "id": 945,
+        "name": "Panasonic",
+        "categorie": 45,
+        "price": 10.99,
+        "description": "Custom keychain with engraved text."
+    },
+    {
+        "id": 946,
+        "name": "Oppo",
+        "categorie": 46,
+        "price": 19.99,
+        "description": "Qi-certified charger for fast wireless charging of smartphones."
+    },
+    {
+        "id": 947,
+        "name": "verykool",
+        "categorie": 47,
+        "price": 3.99,
+        "description": "A ready-to-eat soup with coconut milk, spices, and vegetables."
+    },
+    {
+        "id": 948,
+        "name": "Nokia",
+        "categorie": 48,
+        "price": 4.99,
+        "description": "Soft pretzel bites, perfect for dipping in mustard or cheese sauce."
+    },
+    {
+        "id": 949,
+        "name": "Samsung",
+        "categorie": 49,
+        "price": 24.99,
+        "description": "Magnetic puzzle assembly board for kids."
+    },
+    {
+        "id": 950,
+        "name": "Samsung",
+        "categorie": 50,
+        "price": 8.99,
+        "description": "All ingredients included for delicious chicken fajitas."
+    },
+    {
+        "id": 951,
+        "name": "Nokia",
+        "categorie": 51,
+        "price": 4.29,
+        "description": "A zesty marinade made with lemon juice and garlic, ideal for chicken or fish."
+    },
+    {
+        "id": 952,
+        "name": "Amoi",
+        "categorie": 52,
+        "price": 8.99,
+        "description": "Grilled chicken skewers glazed with teriyaki sauce."
+    },
+    {
+        "id": 953,
+        "name": "Huawei",
+        "categorie": 53,
+        "price": 11.99,
+        "description": "Natural elderberry syrup to boost immunity."
+    },
+    {
+        "id": 954,
+        "name": "ZTE",
+        "categorie": 54,
+        "price": 19.99,
+        "description": "Battery-operated motion sensor light for safety."
+    },
+    {
+        "id": 955,
+        "name": "LG",
+        "categorie": 55,
+        "price": 1.99,
+        "description": "Sweet and crisp apples, perfect for snacking."
+    },
+    {
+        "id": 956,
+        "name": "Gigabyte",
+        "categorie": 56,
+        "price": 39.99,
+        "description": "Complete grooming kit for dogs and cats."
+    },
+    {
+        "id": 957,
+        "name": "Motorola",
+        "categorie": 57,
+        "price": 24.99,
+        "description": "Absorbent training pads for puppies and kittens."
+    },
+    {
+        "id": 958,
+        "name": "Samsung",
+        "categorie": 58,
+        "price": 6.49,
+        "description": "Crunchy cacao nibs, great for adding to smoothies or baking."
+    },
+    {
+        "id": 959,
+        "name": "Micromax",
+        "categorie": 59,
+        "price": 19.99,
+        "description": "Stylish case with magnetic closure for smartphones."
+    },
+    {
+        "id": 960,
+        "name": "Lenovo",
+        "categorie": 60,
+        "price": 8.99,
+        "description": "Juicy chicken breast stuffed with spinach and feta cheese, seasoned to perfection."
+    },
+    {
+        "id": 961,
+        "name": "Samsung",
+        "categorie": 61,
+        "price": 49.99,
+        "description": "Thick and durable mat for workouts and yoga."
+    },
+    {
+        "id": 962,
+        "name": "Asus",
+        "categorie": 62,
+        "price": 8.49,
+        "description": "Ziti pasta baked with marinara and parmesan cheese"
+    },
+    {
+        "id": 963,
+        "name": "LG",
+        "categorie": 63,
+        "price": 4.99,
+        "description": "Everything you need for a fresh and delicious Caesar salad."
+    },
+    {
+        "id": 964,
+        "name": "Samsung",
+        "categorie": 64,
+        "price": 2.49,
+        "description": "Crispy breadsticks seasoned with herbs and garlic."
+    },
+    {
+        "id": 965,
+        "name": "Panasonic",
+        "categorie": 65,
+        "price": 4.99,
+        "description": "Bell peppers stuffed with rice, beans, and spices, ready to bake."
+    },
+    {
+        "id": 966,
+        "name": "Motorola",
+        "categorie": 66,
+        "price": 29.99,
+        "description": "Toy drone that flies with gestures and is easy to control."
+    },
+    {
+        "id": 967,
+        "name": "Nokia",
+        "categorie": 67,
+        "price": 18.99,
+        "description": "Storage organizer for art supplies and tools."
+    },
+    {
+        "id": 968,
+        "name": "Sony",
+        "categorie": 68,
+        "price": 29.99,
+        "description": "Personalized wooden puzzles for children that encourage learning."
+    },
+    {
+        "id": 969,
+        "name": "verykool",
+        "categorie": 69,
+        "price": 39.99,
+        "description": "Comfortable pet carrier for travel and vet visits."
+    },
+    {
+        "id": 970,
+        "name": "Samsung",
+        "categorie": 70,
+        "price": 7.99,
+        "description": "Bell peppers filled with quinoa and vegetables."
+    },
+    {
+        "id": 971,
+        "name": "Motorola",
+        "categorie": 71,
+        "price": 34.99,
+        "description": "String lights for decorating holiday trees."
+    },
+    {
+        "id": 972,
+        "name": "Motorola",
+        "categorie": 72,
+        "price": 24.99,
+        "description": "Convenient charging stand for smartphones and devices."
+    },
+    {
+        "id": 973,
+        "name": "T-Mobile",
+        "categorie": 73,
+        "price": 149.99,
+        "description": "Stylish bar stools with adjustable height and swivel features."
+    },
+    {
+        "id": 974,
+        "name": "Samsung",
+        "categorie": 74,
+        "price": 5.49,
+        "description": "Finely ground flour from dried coconut meat."
+    },
+    {
+        "id": 975,
+        "name": "Huawei",
+        "categorie": 75,
+        "price": 2.99,
+        "description": "Just add water for delicious brownies."
+    },
+    {
+        "id": 976,
+        "name": "Mitsubishi",
+        "categorie": 76,
+        "price": 89.99,
+        "description": "A chic leather crossbody bag for everyday use."
+    },
+    {
+        "id": 977,
+        "name": "Huawei",
+        "categorie": 77,
+        "price": 19.99,
+        "description": "Windshield sunshade for car interior protection."
+    },
+    {
+        "id": 978,
+        "name": "Sony",
+        "categorie": 78,
+        "price": 4.99,
+        "description": "Seasonal pumpkin ice cream, perfect for fall."
+    },
+    {
+        "id": 979,
+        "name": "ZTE",
+        "categorie": 79,
+        "price": 3.99,
+        "description": "No-bake energy balls made with oats, chocolate chips, and honey."
+    },
+    {
+        "id": 980,
+        "name": "BlackBerry",
+        "categorie": 80,
+        "price": 6.49,
+        "description": "A delicious pizza loaded with vegetables"
+    },
+    {
+        "id": 981,
+        "name": "Yezz",
+        "categorie": 81,
+        "price": 79.99,
+        "description": "Personal massager for muscle recovery."
+    },
+    {
+        "id": 982,
+        "name": "BLU",
+        "categorie": 82,
+        "price": 3.49,
+        "description": "Soft and chewy cookies made with creamy peanut butter."
+    },
+    {
+        "id": 983,
+        "name": "Samsung",
+        "categorie": 83,
+        "price": 4.99,
+        "description": "Crunchy granola bars made with almond butter, oats, and honey, perfect for on-the-go snacking."
+    },
+    {
+        "id": 984,
+        "name": "LG",
+        "categorie": 84,
+        "price": 79.99,
+        "description": "Comfortable hiking boots for outdoor adventures."
+    },
+    {
+        "id": 985,
+        "name": "Meizu",
+        "categorie": 85,
+        "price": 49.99,
+        "description": "Versatile folding table great for events or outdoor activities."
+    },
+    {
+        "id": 986,
+        "name": "Nokia",
+        "categorie": 86,
+        "price": 1.29,
+        "description": "Creamy peach-flavored yogurt with real fruit."
+    },
+    {
+        "id": 987,
+        "name": "Motorola",
+        "categorie": 87,
+        "price": 8.49,
+        "description": "Ziti pasta baked with marinara and parmesan cheese"
+    },
+    {
+        "id": 988,
+        "name": "Xiaomi",
+        "categorie": 88,
+        "price": 1.89,
+        "description": "Rich coconut milk, great for cooking and baking."
+    },
+    {
+        "id": 989,
+        "name": "HTC",
+        "categorie": 89,
+        "price": 22.99,
+        "description": "Non-toxic traps for catching household pests safely."
+    },
+    {
+        "id": 990,
+        "name": "Honor",
+        "categorie": 90,
+        "price": 19.99,
+        "description": "Decorative table runner perfect for autumn gatherings."
+    },
+    {
+        "id": 991,
+        "name": "Motorola",
+        "categorie": 91,
+        "price": 79.99,
+        "description": "Compact and stylish indoor/outdoor fire pit for ambiance."
+    },
+    {
+        "id": 992,
+        "name": "Spice",
+        "categorie": 92,
+        "price": 79.99,
+        "description": "Personal massager for muscle recovery."
+    },
+    {
+        "id": 993,
+        "name": "i-mobile",
+        "categorie": 93,
+        "price": 12.99,
+        "description": "Compact towels that expand when wet, ideal for travel."
+    },
+    {
+        "id": 994,
+        "name": "Panasonic",
+        "categorie": 94,
+        "price": 3.99,
+        "description": "Delicious pretzel bites with a sweet honey mustard flavor, perfect for dipping."
+    },
+    {
+        "id": 995,
+        "name": "alcatel",
+        "categorie": 95,
+        "price": 149.99,
+        "description": "Versatile air fryer that also roasts, bakes, and broils."
+    },
+    {
+        "id": 996,
+        "name": "Lenovo",
+        "categorie": 96,
+        "price": 4.29,
+        "description": "A sweet and tart jam, perfect on toast or in desserts."
+    },
+    {
+        "id": 997,
+        "name": "Spice",
+        "categorie": 97,
+        "price": 24.99,
+        "description": "Compact, waterproof blanket for picnics and events."
+    },
+    {
+        "id": 998,
+        "name": "Samsung",
+        "categorie": 98,
+        "price": 1.99,
+        "description": "Instant noodles with a spicy Thai sauce for quick meals."
+    },
+    {
+        "id": 999,
+        "name": "alcatel",
+        "categorie": 99,
+        "price": 8.99,
+        "description": "Frozen shrimp seasoned with chili and lime, perfect for quick dinners."
+    },
+    {
+        "id": 1000,
+        "name": "Samsung",
+        "categorie": 100,
+        "price": 3.59,
+        "description": "A rich sauce perfect for pasta or drizzling over vegetables."
+    }
+]

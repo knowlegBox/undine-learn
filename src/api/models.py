@@ -141,19 +141,8 @@ class Order(models.Model):
         db_column="user",
         help_text="Client ayant passé la commande"
     )
-    # Rendu optionnel
-    # product = models.ForeignKey(
-    #     Product,
-    #     on_delete=models.DO_NOTHING,
-    #     null=True,
-    #     blank=True,
-    #     related_name="orders",
-    #     db_column="product",
-    #     help_text="Produit principal de la commande"
-    # )
-    # Rendu optionnel
-    # total_quantity = models.IntegerField(null=True, blank=True, db_column="total_quantity", help_text="Quantité totale d'articles")
-    # Rendu optionnel
+    date = models.DateField(blank=True,null=True)
+
     total_price = models.DecimalField(max_digits=10, decimal_places=2, null=True, blank=True, db_column="total_price", help_text="Prix total de la commande")
     is_active = models.BooleanField(default=True, null=True, blank=True, db_column="is_active", help_text="Indique si la commande est active")
     is_deleted = models.BooleanField(default=False, null=True, blank=True, db_column="is_deleted", help_text="Indique si la commande est supprimée")
@@ -174,7 +163,7 @@ class OrderItem(models.Model):
     )
     # Rendu optionnel
     total_price = models.DecimalField(max_digits=10, decimal_places=2, null=True, blank=True, db_column="total_price", help_text="Prix total de l'article")
-    product = models.ForeignKey(Product,on_delete=models.DO_NOTHING, null=True, blank=True, db_column="product", help_text="Nom du produit au moment de l'achat")
+    product = models.ForeignKey(Product,on_delete=models.DO_NOTHING, null=True, blank=True, db_column="products", help_text="Nom du produit au moment de l'achat")
     # Rendu optionnel
     quantity = models.IntegerField(null=True, blank=True, db_column="quantity", help_text="Quantité commandée")
     # Rendu optionnel
