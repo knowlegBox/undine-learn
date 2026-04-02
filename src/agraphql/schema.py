@@ -16,6 +16,7 @@ class Queries(RootType):
 
 class Mutation(RootType):
     add_user = Entrypoint(user_mutation.UserCreation)
+    update_user = Entrypoint(user_mutation.UserUpdate)
     # create_order = Entrypoint(order_mutation.CreateOrder, description="mutation de creation d'un order")
     # update_order = Entrypoint(order_mutation.UpdateOrder, description="mutation de modification d'un order")
     # delete_order = Entrypoint(order_mutation.DeleteOrder, description="mutation de suppression d'un order")
